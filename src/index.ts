@@ -1,42 +1,54 @@
-/**
- * Welcome to Cloudflare Workers! This is your first worker.
+/*
+ * Copyright (C) 2025 Ty Busby
  *
- * - Run `npm run dev` in your terminal to start a development server
- * - Open a browser tab at http://localhost:8787/ to see your worker in action
- * - Run `npm run deploy` to publish your worker
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
  *
- * Bind resources to your worker in `wrangler.jsonc`. After adding bindings, a type definition for the
- * `Env` object can be regenerated with `npm run cf-typegen`.
+ * http://www.apache.org/licenses/LICENSE-2.0
  *
- * Learn more at https://developers.cloudflare.com/workers/
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
  */
 
-import { ContentType } from "./content-type";
-import { SEAONS } from "./seasons";
+import { ContentType, STATUS, StatusCode } from "./http-constants";
+import { SEASON_LIST, SEASON_NUMBERS } from "./seasons/seasons";
 
 export default {
     async fetch(request, env, ctx): Promise<Response> {
         if (request.method === "OPTIONS") {
             // Handle preflight OPTIONS request
-            return getResponse(204, "", "text/plain");
+            return getResponse(STATUS.OK, "", "text/plain");
         }
 
         if (request.method !== "GET") {
-            return new Response("Method Not Allowed", { status: 405 });
+            return new Response("Method Not Allowed", {
+                status: STATUS.NO_CONTENT,
+            });
         }
 
         const parameters = new URL(request.url);
         const season = parameters.searchParams.get("season");
         if (season) {
-            
+            const num = parseInt(season, 10);
+            if (!SEASON_NUMBERS.includes(num)) {
+                return getResponse(
+                    STATUS.BAD_REQUEST,
+                    `Invalid season: ${season}`,
+                    "text/plain"
+                );
+            }
         }
 
-        return getResponse(200, JSON.stringify(SEAONS));
+        return getResponse(STATUS.OK, JSON.stringify(SEASON_LIST));
     },
 } satisfies ExportedHandler<Env>;
 
 function getResponse(
-    status: number,
+    status: StatusCode,
     body: string,
     contentType: ContentType = "application/json"
 ): Response {
