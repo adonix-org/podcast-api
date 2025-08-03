@@ -21,22 +21,26 @@ export default {
     async fetch(request, env, ctx): Promise<Response> {
         if (request.method === "OPTIONS") {
             // Handle preflight OPTIONS request
-            return getResponse(STATUS.OK, "", "text/plain");
+            return getResponse(STATUS.NO_CONTENT, "", "text/plain");
         }
 
         if (request.method !== "GET") {
-            return getResponse(STATUS.METHOD_NOT_ALLOWED, "Method not allowed", "text/plain");
+            return getResponse(
+                STATUS.METHOD_NOT_ALLOWED,
+                "Method not allowed",
+                "text/plain"
+            );
         }
 
         const parameters = new URL(request.url);
         const season = parameters.searchParams.get("season");
         if (season) {
-            const num = parseInt(season, 10);
-            if (!SEASON_NUMBERS.includes(num)) {
+            const year = parseInt(season, 10);
+            if (!SEASON_NUMBERS.includes(year)) {
                 // Season present but invalid
                 return getResponse(
                     STATUS.BAD_REQUEST,
-                    `Invalid season: ${season}`,
+                    `Invalid season ${season}`,
                     "text/plain"
                 );
             }
