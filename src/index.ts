@@ -15,7 +15,7 @@
  */
 
 import { ContentType, STATUS, StatusCode } from "./http-constants";
-import { SEASON_LIST, SEASON_NUMBERS } from "./seasons/seasons";
+import { PLAYLISTS, SEASON_LIST, SEASON_NUMBERS } from "./seasons/seasons";
 
 export default {
     async fetch(request, env, ctx): Promise<Response> {
@@ -25,9 +25,7 @@ export default {
         }
 
         if (request.method !== "GET") {
-            return new Response("Method Not Allowed", {
-                status: STATUS.NO_CONTENT,
-            });
+            return getResponse(STATUS.METHOD_NOT_ALLOWED, "Method not allowed", "text/plain");
         }
 
         const parameters = new URL(request.url);
@@ -35,12 +33,25 @@ export default {
         if (season) {
             const num = parseInt(season, 10);
             if (!SEASON_NUMBERS.includes(num)) {
+                // Season present but invalid
                 return getResponse(
                     STATUS.BAD_REQUEST,
                     `Invalid season: ${season}`,
                     "text/plain"
                 );
             }
+            const playlist = PLAYLISTS[season];
+            if (playlist) {
+                // Season present and valid
+                return getResponse(STATUS.OK, JSON.stringify(playlist));
+            }
+
+            // Season present, valid but missing playlist
+            return getResponse(
+                STATUS.SERVER_ERROR,
+                `Unable to resolve playlist for valid season ${season}`,
+                "text/plain"
+            );
         }
 
         return getResponse(STATUS.OK, JSON.stringify(SEASON_LIST));
