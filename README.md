@@ -1,2 +1,2 @@
-# podcast_proxy
+# podcast-proxy
 Cloudflare Worker for Podcasts
