@@ -574,7 +574,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2020_48.mp3",
         title: "#2048: The Black Hole of Auto Metaphysics",
         artist: "Car Talk",
-        album: "Album",
+        album: "The Best of Car Talk November 28, 2020",
         year: 2020,
         seconds: 3289.6783673469386,
         artists: ["Car Talk", "Click and clack"],
