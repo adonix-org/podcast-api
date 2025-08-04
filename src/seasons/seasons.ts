@@ -25,30 +25,20 @@ import { playlist as playlist_2024 } from "./2024";
 import { playlist as playlist_2025 } from "./2025";
 import { MetaData } from "./metadata";
 
-export const PLAYLISTS: Record<string, Playlist> = {
-    "2017": { playlist: playlist_2017 },
-    "2018": { playlist: playlist_2018 },
-    "2019": { playlist: playlist_2019 },
-    "2020": { playlist: playlist_2020 },
-    "2021": { playlist: playlist_2021 },
-    "2022": { playlist: playlist_2022 },
-    "2023": { playlist: playlist_2023 },
-    "2024": { playlist: playlist_2024 },
-    "2025": { playlist: playlist_2025 },
+export const PLAYLISTS: Record<string, MetaData[]> = {
+    "2017": playlist_2017,
+    "2018": playlist_2018,
+    "2019": playlist_2019,
+    "2020": playlist_2020,
+    "2021": playlist_2021,
+    "2022": playlist_2022,
+    "2023": playlist_2023,
+    "2024": playlist_2024,
+    "2025": playlist_2025,
 };
 
 export const SEASON_NUMBERS = [
     2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025,
 ];
 
-export const SEASON_LIST: Seasons = {
-    seasons: SEASON_NUMBERS.map(String),
-};
-
-interface Playlist {
-    playlist: MetaData[];
-}
-
-interface Seasons {
-    seasons: string[];
-}
+export const SEASON_LIST: string[] = SEASON_NUMBERS.map(String);
