@@ -214,7 +214,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2017_27.mp3",
         title: "#1727: Geek Week",
         artist: "Car Talk",
-        album: "Car Talk july 8, 2017",
+        album: "Car Talk July 8, 2017",
         year: 2017,
         seconds: 3151.804081632653,
         artists: ["Car Talk", "Click and Clack"],
