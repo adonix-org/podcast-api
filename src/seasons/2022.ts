@@ -80,7 +80,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://d2ozqge6bst39m.cloudfront.net/CT2206full.mp3",
         filename: "car_talk_2022_06.mp3",
-        title: "#2205 Click and Clack's 40 Weight Cleanse",
+        title: "#2206 Click and Clack's 40 Weight Cleanse",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
