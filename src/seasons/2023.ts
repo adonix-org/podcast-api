@@ -22,7 +22,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-12-13.mp3",
         title: "#2300: Thanks, Dad!",
         description:
-            "December 13, 2022 • Tommy recalls that Ray's childhood nickname was 'Chuck'. Now why would a kid named Ray end up with Chuck for a nickname? Has to be a story there and Louis, their father, explains much to Ray's chagrin. Also, the puzzler returns from its recent vacation on this episode of the Best of Car Talk.",
+            "Tommy recalls that Ray's childhood nickname was 'Chuck'. Now why would a kid named Ray end up with Chuck for a nickname? Has to be a story there and Louis, their father, explains much to Ray's chagrin. Also, the puzzler returns from its recent vacation on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -37,7 +37,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-12-17.mp3",
         title: "#2301: Drill Baby Drill",
         description:
-            "December 17, 2022 • Melissa hails from right next door to 'Our Fair City of Cambridge, MA' and even frequents the building where our law firm, 'Dewey, Cheetham & Howe' has it's offices. But does she bring her car to the Good News Garage when something's wrong? Nooooooooo. Find out how that's going for Melissa on today's episode of the Best of Car Talk.",
+            "Melissa hails from right next door to 'Our Fair City of Cambridge, MA' and even frequents the building where our law firm, 'Dewey, Cheetham & Howe' has it's offices. But does she bring her car to the Good News Garage when something's wrong? Nooooooooo. Find out how that's going for Melissa on today's episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -52,7 +52,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-12-20.mp3",
         title: "#2302: Foreign Accent Syndrome",
         description:
-            "December 20, 2022 • Imagine emerging from a car accident and suddenly sounding like Pepe Le Pew. When Tommy alerted us to the early medical reporting on 'Foreign Accent Syndrome' it seemed pretty preposterous. Although, in retrospect, it just might explain two guys with thick Boston accents yukking it up on NPR for over 3 decades. Make your own diagnosis here on this classic episode of the Best of Car Talk.",
+            "Imagine emerging from a car accident and suddenly sounding like Pepe Le Pew. When Tommy alerted us to the early medical reporting on 'Foreign Accent Syndrome' it seemed pretty preposterous. Although, in retrospect, it just might explain two guys with thick Boston accents yukking it up on NPR for over 3 decades. Make your own diagnosis here on this classic episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -67,7 +67,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-12-24.mp3",
         title: "#2303: The Sleek Black Beauty",
         description:
-            "December 24, 2022 • Many years ago Tommy conned his brother into letting him park one of his jalopies -a 1965 AMC Ambassador Convertible- at the Good News Garage 'for a few days'. Six months later, Ray got tired of yelling at Tommy to come get his car, so he had it towed away and crushed. Along comes Patti from Somerville and a chance for Tommy to avenge the cruel fate of the 'Sleek Black Beauty'. Place your bets and enjoy this episode of the Best of Car Talk.",
+            "Many years ago Tommy conned his brother into letting him park one of his jalopies -a 1965 AMC Ambassador Convertible- at the Good News Garage 'for a few days'. Six months later, Ray got tired of yelling at Tommy to come get his car, so he had it towed away and crushed. Along comes Patti from Somerville and a chance for Tommy to avenge the cruel fate of the 'Sleek Black Beauty'. Place your bets and enjoy this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -82,7 +82,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-12-27.mp3",
         title: "#2304: Donkey Talk",
         description:
-            "December 27, 2022 • Warren's trip to work at the bottom of the Grand Canyon is on a road so steep and narrow that his ride has 4 legs instead of 4 wheels. But when he's not working, Warren gets around in a BMW that's having acceleration problems. Can this donkey pilot get some help from our two jackasses? Find out on this episode of the Best of Car Talk.",
+            "Warren's trip to work at the bottom of the Grand Canyon is on a road so steep and narrow that his ride has 4 legs instead of 4 wheels. But when he's not working, Warren gets around in a BMW that's having acceleration problems. Can this donkey pilot get some help from our two jackasses? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -97,7 +97,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-12-31.mp3",
         title: "#2305: Give Us Your Tired, Your Poor, Your 1987 Ford Escorts",
         description:
-            "December 31, 2022 • Paul is a Brit who just married a nice American woman and he called us because his car is being shipped over here from Portugal. Sounds very 'Lifestyles of the Rich and Famous', no? Turns out that the car is an '87 Ford Escort. Will Click and Clack recommend a burial at sea? Find out on this episode of the Best of Car Talk.",
+            "Paul is a Brit who just married a nice American woman and he called us because his car is being shipped over here from Portugal. Sounds very 'Lifestyles of the Rich and Famous', no? Turns out that the car is an '87 Ford Escort. Will Click and Clack recommend a burial at sea? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -112,7 +112,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-01-03.mp3",
         title: "#2306: Time for Your Car's Air Change",
         description:
-            "January 3, 2023 • John got himself a brand new Jaguar XJS V12 and he's 'living the dream' except for one nagging detail. The dealer told John that he has to change the air in the tires at regular intervals in order not to void the warranty. Does John need to purchase special OEM Jaguar air? Can he do the job himself? Is the Jaguar dealer pulling John's leg? How hard? Answers to these questions and more on this episode of the Best of Car Talk.",
+            "John got himself a brand new Jaguar XJS V12 and he's 'living the dream' except for one nagging detail. The dealer told John that he has to change the air in the tires at regular intervals in order not to void the warranty. Does John need to purchase special OEM Jaguar air? Can he do the job himself? Is the Jaguar dealer pulling John's leg? How hard? Answers to these questions and more on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -127,7 +127,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-01-07.mp3",
         title: "#2307: When You're Hot, You're Hot",
         description:
-            "January 7, 2023 • Sherry and Judy both drive hot cars. No, not 'hot' in the 'stolen' or 'desirable' sense - just plain HOT! Sherry's Mercury is having 'hot flashes' and Judy's ignition key gets almost too hot to touch. And then there's poor Ali who drives through downtown LA in a Chevy making noises that sound like gunfire. Grab a fire extinguisher and check out this episode of the Best of Car Talk.",
+            "Sherry and Judy both drive hot cars. No, not 'hot' in the 'stolen' or 'desirable' sense - just plain HOT! Sherry's Mercury is having 'hot flashes' and Judy's ignition key gets almost too hot to touch. And then there's poor Ali who drives through downtown LA in a Chevy making noises that sound like gunfire. Grab a fire extinguisher and check out this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -142,7 +142,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-01-10.mp3",
         title: "#2308: Automotive Wallet Diagnostics",
         description:
-            "January 10, 2023 • Don't have enough money for the repairs that your car needs? That's ok, because Melanie's local shop has a repair job to match her budget. Her car's AC is leaking freon but that's $400 to fix. When Melanie balked, the service manager offered to unbend her radio antennae for $200 instead. Will Click and Clack offer to change her air freshener for $100 and get the job? Find out on this episode of the Best of Car Talk.",
+            "Don't have enough money for the repairs that your car needs? That's ok, because Melanie's local shop has a repair job to match her budget. Her car's AC is leaking freon but that's $400 to fix. When Melanie balked, the service manager offered to unbend her radio antennae for $200 instead. Will Click and Clack offer to change her air freshener for $100 and get the job? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -157,7 +157,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-01-14.mp3",
         title: "#2309: Circumferentially-Challenged",
         description:
-            "January 14, 2023 • From the Daniel Pinkwater files comes a tale of unexpected advice buried deep inside a BMW owner's manual. The boys also contemplate why men never pay for anything with coins, helmets for drivers and, oh yeah- some actual car problems! All on this episode of the Best of Car Talk.",
+            "From the Daniel Pinkwater files comes a tale of unexpected advice buried deep inside a BMW owner's manual. The boys also contemplate why men never pay for anything with coins, helmets for drivers and, oh yeah- some actual car problems! All on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -172,7 +172,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-01-17.mp3",
         title: "#2310: Patty Settles the Bet",
         description:
-            "January 17, 2023 • A few shows back we got a call from Patty in nearby Somerville, MA who wondered whether her mother should be driving an old Toyota from Texas up to see her. Our knuckleheads couldn't agree and instead decided to make a bet: if she makes it, Ray has to replace the '65 Rambler of Tommy's that he sent to the crusher years ago. Will she or won't she? Find out on this episode of the Best of Car Talk.",
+            "A few shows back we got a call from Patty in nearby Somerville, MA who wondered whether her mother should be driving an old Toyota from Texas up to see her. Our knuckleheads couldn't agree and instead decided to make a bet: if she makes it, Ray has to replace the '65 Rambler of Tommy's that he sent to the crusher years ago. Will she or won't she? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -187,7 +187,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-01-21.mp3",
         title: "#2311: Going Downhill Fast",
         description:
-            "January 21, 2023 • Al thought it would be fun to pile his family in their Ford Van and Drive to the Rockies for vacation. And it was fun -until the Van's brakes stopped working on the way down at 12,000 feet. Did Al coast all the way home to Louisiana or did he come up with a fix 'on the fly'? Find out on this episode of the Best of Car Talk.",
+            "Al thought it would be fun to pile his family in their Ford Van and Drive to the Rockies for vacation. And it was fun -until the Van's brakes stopped working on the way down at 12,000 feet. Did Al coast all the way home to Louisiana or did he come up with a fix 'on the fly'? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -202,7 +202,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-01-24.mp3",
         title: "#2312: Mystery Solved",
         description:
-            "January 24, 2023 • The Lost City of Atlantis... Amelia Earhart... Who's buried in Grant's Tomb... All of these age-old mysteries pale in comparison to finding out which of the Brothers Magliozzi is 'Click' and which is 'Clack'. Austin Matlow writes to try and set the record straight on this episode of the Best of Car Talk.",
+            "The Lost City of Atlantis... Amelia Earhart... Who's buried in Grant's Tomb... All of these age-old mysteries pale in comparison to finding out which of the Brothers Magliozzi is 'Click' and which is 'Clack'. Austin Matlow writes to try and set the record straight on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -217,7 +217,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-01-28.mp3",
         title: "#2313: Johnny Rocket",
         description:
-            "January 28, 2023 • John from Pennsylvania thinks he has an atypical warranty issue with his local Chevy dealer. If he explains to the dealer that his new Corvette exhibits engine problems at 140 miles per hour, he's pretty sure that the dealer will then explain to John that he has voided his warranty. John is clearly nuts for driving at mach one, but is he right about his warranty? Find out on this episode of the Best of Car Talk.",
+            "John from Pennsylvania thinks he has an atypical warranty issue with his local Chevy dealer. If he explains to the dealer that his new Corvette exhibits engine problems at 140 miles per hour, he's pretty sure that the dealer will then explain to John that he has voided his warranty. John is clearly nuts for driving at mach one, but is he right about his warranty? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -232,7 +232,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-01-31.mp3",
         title: "#2314: What's My Car Worth?",
         description:
-            "January 31, 2023 • Trade-in value for most used cars is a carefully crafted calculation made by car dealers having to do with the car's current resale value and the size of the dealer's boat payment. For junkboxes like the Chevy Malibu that Joan is trying to unload it just depends on how much gas is in the tank. Find out what our two knuckleheads thought of Joan's heap on this episode of the Best of Car Talk.",
+            "Trade-in value for most used cars is a carefully crafted calculation made by car dealers having to do with the car's current resale value and the size of the dealer's boat payment. For junkboxes like the Chevy Malibu that Joan is trying to unload it just depends on how much gas is in the tank. Find out what our two knuckleheads thought of Joan's heap on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -247,7 +247,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-02-04.mp3",
         title: "#2315: Eggs Prestone",
         description:
-            "February 4, 2023 • Two classic calls on this Best of Car Talk program: Sasha has a home remedy for leaky radiators. Next, Cynthia begs the Magliozzi brothers to settle a dispute between her two brothers over a car. All that, more calls and a new puzzler!",
+            "Two classic calls on this Best of Car Talk program: Sasha has a home remedy for leaky radiators. Next, Cynthia begs the Magliozzi brothers to settle a dispute between her two brothers over a car. All that, more calls and a new puzzler!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -262,7 +262,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-02-07.mp3",
         title: "#2316: State Capitals for $100, Alex",
         description:
-            "February 7, 2023 • MIT boasts 98 Nobel Laureates among its ranks. Just a notch below them are our two knuckleheads who have been recognized as 'distinguished' MIT alums... by 'US' magazine. Practically the same, we think. Hear what the boys think about that and a few car problems on this episode of the Best of Car Talk.",
+            "MIT boasts 98 Nobel Laureates among its ranks. Just a notch below them are our two knuckleheads who have been recognized as 'distinguished' MIT alums... by 'US' magazine. Practically the same, we think. Hear what the boys think about that and a few car problems on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -277,7 +277,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-02-11.mp3",
         title: "#2317: The Hyperbaric Chamber of Love",
         description:
-            "February 11, 2023 • Scott and Amy are taking a ski trip to the Colorado Mountains. Unfortunately, Scott's old car has a loose exhaust manifold and after several hours of exposure to CO fumes Scott and Amy land in the hospital instead of on the slopes. What are the chances for romance in the 'Hyperbaric Chamber of Love'? Find out on this episode of the Best of Car Talk.",
+            "Scott and Amy are taking a ski trip to the Colorado Mountains. Unfortunately, Scott's old car has a loose exhaust manifold and after several hours of exposure to CO fumes Scott and Amy land in the hospital instead of on the slopes. What are the chances for romance in the 'Hyperbaric Chamber of Love'? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -292,7 +292,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-02-14.mp3",
         title: "#2318: Notes from Katie's Mechanic",
         description:
-            "February 14, 2023 • Mechanics aren't known to be a particularly literary lot, but since so many are also verbally challenged, customers often have only their 'estimate of repairs' to help them figure out what's wrong with their car. Katie from Virginia reads from hers on this episode of the Best of Car Talk.",
+            "Mechanics aren't known to be a particularly literary lot, but since so many are also verbally challenged, customers often have only their 'estimate of repairs' to help them figure out what's wrong with their car. Katie from Virginia reads from hers on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -307,7 +307,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-02-18.mp3",
         title: "#2319: Sonja Henie Buck Naked with Chocolate Pudding",
         description:
-            "February 18, 2023 • Sonja Henie Buck Naked with Chocolate Pudding. Need we say more?",
+            "Sonja Henie Buck Naked with Chocolate Pudding. Need we say more?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -322,7 +322,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-02-21.mp3",
         title: "#2320: Work, Work, Work",
         description:
-            "February 21, 2023 • To the casual observer, the life of an NPR 'star' may seem to be fun and games and a pretty cushy gig. Not so! On this week's Best of Car Talk we take you behind the scenes for a glimpse of two hard-working network hosts hardly working on their weekly newspaper column.",
+            "To the casual observer, the life of an NPR 'star' may seem to be fun and games and a pretty cushy gig. Not so! On this week's Best of Car Talk we take you behind the scenes for a glimpse of two hard-working network hosts hardly working on their weekly newspaper column.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -337,7 +337,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-02-25.mp3",
         title: "#2321: Norma's Normal",
         description:
-            "February 25, 2023 • Norma has put over 700,000 Miles on her GM truck driving trailers across the US for 12 years. Somewhere along the way the truck developed a starting problem that Norma has gone to elaborate lengths to overcome. Find out what's normal for Norma on this episode of the Best of Car Talk.",
+            "Norma has put over 700,000 Miles on her GM truck driving trailers across the US for 12 years. Somewhere along the way the truck developed a starting problem that Norma has gone to elaborate lengths to overcome. Find out what's normal for Norma on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -352,7 +352,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-02-28.mp3",
         title: "#2322: It's 'National Take Your Brother to Work Day'",
         description:
-            "February 28, 2023 • It's 'National Take Your Brother to Work Day' on this episode of the Best of Car Talk. Ray tries in vain to show Tommy how to be a more professional-sounding NPR host -or at least how to fake it more convincingly.",
+            "It's 'National Take Your Brother to Work Day' on this episode of the Best of Car Talk. Ray tries in vain to show Tommy how to be a more professional-sounding NPR host -or at least how to fake it more convincingly.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -367,7 +367,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-03-04.mp3",
         title: "#2323: The Wiper Caper",
         description:
-            "March 4, 2023 • Allen is a private detective in Tennessee. He's doing surveillance in his parked car -trying not to be noticed- when all of a sudden his windshield wipers develop a mind of their own. Was Allen's cover blown? Find out on this episode of the Best of Car Talk.",
+            "Allen is a private detective in Tennessee. He's doing surveillance in his parked car -trying not to be noticed- when all of a sudden his windshield wipers develop a mind of their own. Was Allen's cover blown? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -382,7 +382,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-03-07.mp3",
         title: "#2324: CSI Car Talk",
         description:
-            "March 7, 2023 • On this episode of CSI Car Talk, officers Click and Clack don't need no stinking badges to stare down a serial killer! But wait: Is Lena from El Paso guilty of being a serial clutch murderer? Find out on this episode of the Best of Car Talk.",
+            "On this episode of CSI Car Talk, officers Click and Clack don't need no stinking badges to stare down a serial killer! But wait: Is Lena from El Paso guilty of being a serial clutch murderer? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -397,7 +397,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-03-11.mp3",
         title: "#2325: Psychoautoanalysis",
         description:
-            "March 11, 2023 • Judy from Colorado has a delicate issue on her hands involving her husband who insists on warming up his car for several minutes every morning(just like dear old dad did). Click and Clack, realizing the multiple implications of this for our environment and hubby's psyche, have the perfect, measured response. Check out the Freudian slip-ups on this episode of the Best of Car Talk.",
+            "Judy from Colorado has a delicate issue on her hands involving her husband who insists on warming up his car for several minutes every morning(just like dear old dad did). Click and Clack, realizing the multiple implications of this for our environment and hubby's psyche, have the perfect, measured response. Check out the Freudian slip-ups on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -412,7 +412,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-03-14.mp3",
         title: "#2326: Bill's Chevy Maliboo-boo",
         description:
-            "March 14, 2023 • Lindsay from Virginia thinks that her hubby, Bill, is trying to sabotage her admittedly 'uncool' Chevy Malibu. Will Click and Clack give Lindsay the straight dope or will they be just be regular dopes and try to help hubby out here? Find out on this episode of the Best of Car Talk.",
+            "Lindsay from Virginia thinks that her hubby, Bill, is trying to sabotage her admittedly 'uncool' Chevy Malibu. Will Click and Clack give Lindsay the straight dope or will they be just be regular dopes and try to help hubby out here? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -427,7 +427,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-03-18.mp3",
         title: "#2327: Supplication from a Sentra",
         description:
-            "March 18, 2023 • Reverend Tim's passengers think that he should own up to the real origin of the unholy smell in his Nissan, but the good Reverend called on a higher power for his Sentra salvation. Too bad he got a wrong number and ended up on our show instead! Will a well-placed air freshener deliver Reverend Tim to the promised land? Find out on this episode of the Best of Car Talk.",
+            "Reverend Tim's passengers think that he should own up to the real origin of the unholy smell in his Nissan, but the good Reverend called on a higher power for his Sentra salvation. Too bad he got a wrong number and ended up on our show instead! Will a well-placed air freshener deliver Reverend Tim to the promised land? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -442,7 +442,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-03-21.mp3",
         title: "#2328: The Singularity is Near",
         description:
-            "March 21, 2023 • In Car Talk's version of our dystopian future, all cars are designed by the French, with wiring by the British and emissions systems by Volkswagen. In Kathy's dystopian present her Chevy is already in regular communications with nearby banking systems technology. Can Click and Clack rescue us from the 'rise of the machines'? Find out on this episode of the Best of Car Talk.",
+            "In Car Talk's version of our dystopian future, all cars are designed by the French, with wiring by the British and emissions systems by Volkswagen. In Kathy's dystopian present her Chevy is already in regular communications with nearby banking systems technology. Can Click and Clack rescue us from the 'rise of the machines'? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -457,7 +457,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-03-25.mp3",
         title: "#2329: John 'BSMHFLSCDBTTMTTTC' Lawlor",
         description:
-            "March 25, 2023 • What's in a middle name? Most of us got stuck with a simple middle name that belonged to an ancestor or maybe Mom's favorite bookie. But our Technical Advisor, John Bugsy, Sebastian, Mr. Height, Free Lunch, Sweet Cheeks, Donut Breath, Twinkle Toes, Make-That-Two-Triple-Cheeseburgers Lawlor got a doozy! How did he earn them all? Find out on this episode of the Best of Car Talk.",
+            "What's in a middle name? Most of us got stuck with a simple middle name that belonged to an ancestor or maybe Mom's favorite bookie. But our Technical Advisor, John Bugsy, Sebastian, Mr. Height, Free Lunch, Sweet Cheeks, Donut Breath, Twinkle Toes, Make-That-Two-Triple-Cheeseburgers Lawlor got a doozy! How did he earn them all? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -472,7 +472,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-03-28.mp3",
         title: "#2330: Leaks, Leaks Everywhere!",
         description:
-            "March 28, 2023 • Our show is even more of a mess than usual: Paul's Toyota is dripping oil on his pants while he drives and Suzanne's husband's Ford is leaking gas and stinking up the house. 'Clean up in aisle 4' with the 'Mop-a-lot-zi Brothers' on this episode of the Best of Car Talk.",
+            "Our show is even more of a mess than usual: Paul's Toyota is dripping oil on his pants while he drives and Suzanne's husband's Ford is leaking gas and stinking up the house. 'Clean up in aisle 4' with the 'Mop-a-lot-zi Brothers' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -487,7 +487,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-04-01.mp3",
         title: "#2331: Hello, You're on Love Talk",
         description:
-            "April 1, 2023 • Before we were swiping right and left on our dating apps to find a mate, some of us would go to strange lengths to improve our love lives. If you were truly desperate, and Dr. Ruth's line was busy, you might even call a couple of mechanics doing a radio show about cars for a little love help. A new puzzler and some actual car questions along with your amore on this episode of the Best of Car Talk.",
+            "Before we were swiping right and left on our dating apps to find a mate, some of us would go to strange lengths to improve our love lives. If you were truly desperate, and Dr. Ruth's line was busy, you might even call a couple of mechanics doing a radio show about cars for a little love help. A new puzzler and some actual car questions along with your amore on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -502,7 +502,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-04-04.mp3",
         title: "#2332: That's Either Very Good or Very Bad",
         description:
-            "April 4, 2023 • Danny from Louisiana has a Toyota Van with spongey brakes that he can't seem to fix. Our geniuses listen carefully to Danny's descriptions, ask him seemingly insightful questions and each comes to a totally different conclusion. Will Danny get some help here or just two separate bills for the two diagnoses? Find out on this episode of the Best of Car Talk.",
+            "Danny from Louisiana has a Toyota Van with spongey brakes that he can't seem to fix. Our geniuses listen carefully to Danny's descriptions, ask him seemingly insightful questions and each comes to a totally different conclusion. Will Danny get some help here or just two separate bills for the two diagnoses? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -517,7 +517,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-04-08.mp3",
         title: "#2333: Beth's Birdbathroom",
         description:
-            "April 8, 2023 • Beth from New York has a deeded parking space that sits right below a mockingbird's perch, and let's just say Beth is a bit more familiar with the little guy's diet than she wants to be. What's a car owner to do when doo-doo covers your car every day? Find out on this episode of the Best of Car Talk.",
+            "Beth from New York has a deeded parking space that sits right below a mockingbird's perch, and let's just say Beth is a bit more familiar with the little guy's diet than she wants to be. What's a car owner to do when doo-doo covers your car every day? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -532,7 +532,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-04-11.mp3",
         title: "#2334: He Most Certainly Did!",
         description:
-            "April 11, 2023 • Click and Clack's father, Louis, gets called-in to settle a bet: Did Tommy croak one of Dad's cars back in the day by running it out of oil? And their Mother Elizabeth has a word with her boys, too. It's a family affair on this episode of the Best of Car Talk.",
+            "Click and Clack's father, Louis, gets called-in to settle a bet: Did Tommy croak one of Dad's cars back in the day by running it out of oil? And their Mother Elizabeth has a word with her boys, too. It's a family affair on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -547,7 +547,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-04-15.mp3",
         title: "#2335: Life and Death and Fried Clams",
         description:
-            "April 15, 2023 • Margaret from nearby Everett, Mass has relocated to California along with 'Rusty' her trusty Honda Accord but the noises Rusty makes going up and down the Streets of San Francisco have Margaret in fear for her life. Will our boys be able to stop waxing nostalgic about Everett's famous clam shack 'Kelly's' in time to save Margaret? Pass the tartar sauce and find out for yourself on this episode of the Best of Car Talk.",
+            "Margaret from nearby Everett, Mass has relocated to California along with 'Rusty' her trusty Honda Accord but the noises Rusty makes going up and down the Streets of San Francisco have Margaret in fear for her life. Will our boys be able to stop waxing nostalgic about Everett's famous clam shack 'Kelly's' in time to save Margaret? Pass the tartar sauce and find out for yourself on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -562,7 +562,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-04-18.mp3",
         title: "#2336: The Clutchkiller Family",
         description:
-            "April 18, 2023 • Mrs. Clutchkiller is blaming her husband Ron Clutchkiller for her car's prematurely failing clutch. But could the real culprit be their teenage son, little Jimmy Clutchkiller? Click and Clack make like Lieutenant Frank Columbo on this episode of the Best of Car Talk.",
+            "Mrs. Clutchkiller is blaming her husband Ron Clutchkiller for her car's prematurely failing clutch. But could the real culprit be their teenage son, little Jimmy Clutchkiller? Click and Clack make like Lieutenant Frank Columbo on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -577,7 +577,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-04-22.mp3",
         title: "#2337: The Mind of the Modern Mechanic",
         description:
-            "April 22, 2023 • Kathy has called seeking wisdom of a sort from our two witless wonders. Her husband is a mechanic, and while he can work magic with engines he can't seem to keep a simple schedule or estimate how long a job will take or remember much of anything that Kathy tells him. Will Click and Clack stand up for a brother mechanic or admit to Kathy that they've already forgotten what her questions were? Check it out on this episode of the Best of Car Talk.",
+            "Kathy has called seeking wisdom of a sort from our two witless wonders. Her husband is a mechanic, and while he can work magic with engines he can't seem to keep a simple schedule or estimate how long a job will take or remember much of anything that Kathy tells him. Will Click and Clack stand up for a brother mechanic or admit to Kathy that they've already forgotten what her questions were? Check it out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -592,7 +592,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-04-25.mp3",
         title: "#2338: The Vomit Comet",
         description:
-            "April 25, 2023 • The Mercury Comet was a fun little car. NASA's zero-gravity and weightlessness test plane, nicknamed 'The Vomit Comet', is something else entirely but is an oddly appropriate subject for Car Talk we think. Check it out on this episode of the Best of Car Talk.",
+            "The Mercury Comet was a fun little car. NASA's zero-gravity and weightlessness test plane, nicknamed 'The Vomit Comet', is something else entirely but is an oddly appropriate subject for Car Talk we think. Check it out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -607,7 +607,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-04-29.mp3",
         title: "#2339: Carvoyance or Just a Lucky Guess?",
         description:
-            "April 29, 2023 • Every once in a while Click or Clack amaze us all by being able to correctly guess a caller's car problem with nothing more than a car make and model to go on. Too bad good answers don't work that way too. Check out the 'Carvoyance' on this episode of the Best of Car Talk.",
+            "Every once in a while Click or Clack amaze us all by being able to correctly guess a caller's car problem with nothing more than a car make and model to go on. Too bad good answers don't work that way too. Check out the 'Carvoyance' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -622,7 +622,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-05-02.mp3",
         title: "#2340: Uniquely Disqualified",
         description:
-            "May 2, 2023 • If you have a car that's unreliable, in need of regular repairs and just sitting in your driveway, rusting, you need a mechanic to help you figure out if it's time to cut your losses. Or you can sell it to the first guy that offers you $50 for it. Best of Car Talk callers enjoy both options.",
+            "If you have a car that's unreliable, in need of regular repairs and just sitting in your driveway, rusting, you need a mechanic to help you figure out if it's time to cut your losses. Or you can sell it to the first guy that offers you $50 for it. Best of Car Talk callers enjoy both options.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -637,7 +637,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-05-06.mp3",
         title: "#2341: Around the World in a Suzuki Sidekick",
         description:
-            "May 6, 2023 • What happens when a caller with one of our all-time favorite caller names(Harsha Pelimuhandiram) picks one of the worst vehicles ever made for his drive around the world? Check out this episode of the Best of Car Talk.",
+            "What happens when a caller with one of our all-time favorite caller names(Harsha Pelimuhandiram) picks one of the worst vehicles ever made for his drive around the world? Check out this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -652,7 +652,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-05-09.mp3",
         title: "#2342: We Missed it!",
         description:
-            "May 9, 2023 • Click and Clack are so busy dodging angry customers and Chrysler's legal team that it turns out they just missed one of the premier social gatherings of the season. Was it the Annual Seatcover Convention? The Fuzzy Dice Convocation? Check out this episode of the Best of Car Talk to find out.",
+            "Click and Clack are so busy dodging angry customers and Chrysler's legal team that it turns out they just missed one of the premier social gatherings of the season. Was it the Annual Seatcover Convention? The Fuzzy Dice Convocation? Check out this episode of the Best of Car Talk to find out.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -667,7 +667,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-05-13.mp3",
         title: "#2343: Another Clutch Killer",
         description:
-            "May 13, 2023 • Has Diana from Austin, Texas figured out a perfectly-good way to avoid the problem of stalling her Mazda when starting it from a stop? Or is she another potential serial clutch murderer? Officers Click and Clack attempt to crack the case on this episode of the Best of Car Talk.",
+            "Has Diana from Austin, Texas figured out a perfectly-good way to avoid the problem of stalling her Mazda when starting it from a stop? Or is she another potential serial clutch murderer? Officers Click and Clack attempt to crack the case on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -682,7 +682,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-05-16.mp3",
         title: "#2344: The Tofu Run",
         description:
-            "May 16, 2023 • Mary from Kansas makes a round trip of 240 miles in her old Toyota to score her weekly supply of tofu. Times are pretty desperate for Kansas vegans. Will Click and Clack be able to help Mary maintain the Toyota and her healthy diet, or will they suggest Keto instead? Find out on this episode of the Best of Car Talk.",
+            "Mary from Kansas makes a round trip of 240 miles in her old Toyota to score her weekly supply of tofu. Times are pretty desperate for Kansas vegans. Will Click and Clack be able to help Mary maintain the Toyota and her healthy diet, or will they suggest Keto instead? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -697,7 +697,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-05-20.mp3",
         title: "#2345: Like a Rhinestone Car Girl",
         description:
-            "May 20, 2023 • Savannah is a young artist with an old Pontiac that she plans to use as her canvas. She is going to cover every square inch of the car in rhinestones and has to make sure they don't fly off when she's on the highway. Can Click and Clack help this Rhinestone car girl? Find out on this episode of the Best of Car Talk.",
+            "Savannah is a young artist with an old Pontiac that she plans to use as her canvas. She is going to cover every square inch of the car in rhinestones and has to make sure they don't fly off when she's on the highway. Can Click and Clack help this Rhinestone car girl? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -712,7 +712,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-05-23.mp3",
         title: "#2346: Understanding Men and Their Exes",
         description:
-            "May 23, 2023 • Mary Lynne's boyfriend has several of his most recent exes living with them. His 'ex-cars', that is, are littering their property in various states of 'heapdom'. Should she be concerned about this particular hoarding tendency or could it possibly be a good sign? Find out on this episode of the Best of Car Talk.",
+            "Mary Lynne's boyfriend has several of his most recent exes living with them. His 'ex-cars', that is, are littering their property in various states of 'heapdom'. Should she be concerned about this particular hoarding tendency or could it possibly be a good sign? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -727,7 +727,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-05-27.mp3",
         title: "#2347: Fix it or Dump it",
         description:
-            "May 27, 2023 • Robin loves her old Plymouth and wants to keep it running but her family is telling her to move on to some new wheels. Will Click and Clack support Robin's wish to keep it or just offer her Tommy's standard $50 to take it off her hands? Find out on this episode of the Best of Car Talk.",
+            "Robin loves her old Plymouth and wants to keep it running but her family is telling her to move on to some new wheels. Will Click and Clack support Robin's wish to keep it or just offer her Tommy's standard $50 to take it off her hands? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -742,7 +742,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-05-30.mp3",
         title: "#2348: Martha's Civic Dance",
         description:
-            "May 30, 2023 • Hey kids! Hear about that new dance called 'The Butt'?! Martha from Wyoming came up with it as a way to get her Honda Civic to start when it doesn't want to. We give Dick Clark a run for his money on this episode of the Best of Car Talk.",
+            "Hey kids! Hear about that new dance called 'The Butt'?! Martha from Wyoming came up with it as a way to get her Honda Civic to start when it doesn't want to. We give Dick Clark a run for his money on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -757,7 +757,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-06-03.mp3",
         title: "#2349: We Specialize in All Makes Foreign and Domestic",
         description:
-            "June 3, 2023 • Gillian from our fair city of Cambridge, MA has to translate some French car manual descriptions into English. Can two knuckleheads who only speak 'Grease Monkey' help her? \"Raconter des salades\" it'll be on this episode of the Best of Car Talk.",
+            "Gillian from our fair city of Cambridge, MA has to translate some French car manual descriptions into English. Can two knuckleheads who only speak 'Grease Monkey' help her? \"Raconter des salades\" it'll be on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -772,7 +772,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-06-06.mp3",
         title: "#2350: You Gotta do it for Science!",
         description:
-            "June 6, 2023 • Richard and his wife are shocked by their new Honda. Literally, the thing gives them a static jolt whenever they exit the car. Could it be Richard's extensive wardrobe of polyester leisure suits rubbing against the upholstery? Find out on this episode of the Best of Car Talk.",
+            "Richard and his wife are shocked by their new Honda. Literally, the thing gives them a static jolt whenever they exit the car. Could it be Richard's extensive wardrobe of polyester leisure suits rubbing against the upholstery? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -787,7 +787,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-06-10.mp3",
         title: "#2351: Click and Clack Play Symphony Hall... and Lose!",
         description:
-            "June 10, 2023 • How do you get to Symphony Hall? Practice!.. or, pay them a bunch of money to let you and your more talented friends entertain some paying public radio fans for a few hours. Guess which route our boys took? Find out on this episode of the Best of Car Talk.",
+            "How do you get to Symphony Hall? Practice!.. or, pay them a bunch of money to let you and your more talented friends entertain some paying public radio fans for a few hours. Guess which route our boys took? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -802,7 +802,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-06-13.mp3",
         title: "#2352: And My Dog Hates Your Show, Too!",
         description:
-            "June 13, 2023 • While our entire audience has had to endure our many years worth of lousy car advice, we are particularly guilt-ridden knowing that so many parents used our show as a way to keep kids from misbehaving on long car trips over the years('If I have to turn around one more time it's going to be 'Car Talk' until we get to Grandma's!'). The kids finally fight back on this episode of the Best of Car Talk.",
+            "While our entire audience has had to endure our many years worth of lousy car advice, we are particularly guilt-ridden knowing that so many parents used our show as a way to keep kids from misbehaving on long car trips over the years('If I have to turn around one more time it's going to be 'Car Talk' until we get to Grandma's!'). The kids finally fight back on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -817,7 +817,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-06-17.mp3",
         title: "#2353: Ronnie Sue 'Macgyver'",
         description:
-            "June 17, 2023 • Ronnie Sue loves her old car and she's learning how to do basic maintenance. But when she breaks down on the highway with nothing but the clothes on her back will she be able to fix a leaky radiator hose? Find out on this episode of Macgyver- er, uh The Best of Car Talk.",
+            "Ronnie Sue loves her old car and she's learning how to do basic maintenance. But when she breaks down on the highway with nothing but the clothes on her back will she be able to fix a leaky radiator hose? Find out on this episode of Macgyver- er, uh The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -832,7 +832,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-06-20.mp3",
         title: "#2354: Llamas and Creme Rinse",
         description:
-            "June 20, 2023 • How far wrong can you go trying to help folks diagnose their car problems on a radio show? Today we start with alternators and plug wires and finish with llamas and creme rinse conditioner on this episode of the Best of Car Talk.",
+            "How far wrong can you go trying to help folks diagnose their car problems on a radio show? Today we start with alternators and plug wires and finish with llamas and creme rinse conditioner on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -847,7 +847,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-06-24.mp3",
         title: "#2355: The Honda Hurricane",
         description:
-            "June 24, 2023 • On a hot summer day, there's nothing better than that first blast of cold air from your car's air conditioner. But the AC in Lee's Honda gives him the cold front and the thunderclouds AND the rain, too. Should he be worried about a little lightning strike next? Find out on this episode of the Best of Car Talk.",
+            "On a hot summer day, there's nothing better than that first blast of cold air from your car's air conditioner. But the AC in Lee's Honda gives him the cold front and the thunderclouds AND the rain, too. Should he be worried about a little lightning strike next? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -862,7 +862,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-06-27.mp3",
         title: "#2356: Oh Boy!",
         description:
-            "June 27, 2023 • As arbiters of many a marital-automotive dispute, the Tappet Brothers gently inform callers who are in the wrong and will have to fess up to their spouse. On the other hand, when callers like Nancy from Florida find out that they've prevailed in Click and Clack's car court, it's hard to contain their excitement. 'Oh Boy!' we're going to have a good time on this episode of the Best of Car Talk!",
+            "As arbiters of many a marital-automotive dispute, the Tappet Brothers gently inform callers who are in the wrong and will have to fess up to their spouse. On the other hand, when callers like Nancy from Florida find out that they've prevailed in Click and Clack's car court, it's hard to contain their excitement. 'Oh Boy!' we're going to have a good time on this episode of the Best of Car Talk!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -877,7 +877,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-07-01.mp3",
         title: "#2357: Diametrically-Disadvantaged",
         description:
-            "July 1, 2023 • Tony needs brakes, Morgan needs an engine and Daniel is 'diametrically-disadvantaged'' enough to need a running start to get into his BMW. Don't miss this dip into the Pinkwater files and more on this episode of the Best of Car Talk.",
+            "Tony needs brakes, Morgan needs an engine and Daniel is 'diametrically-disadvantaged'' enough to need a running start to get into his BMW. Don't miss this dip into the Pinkwater files and more on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -892,7 +892,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-07-04.mp3",
         title: "#2358: Sleek, Black and Beautiful No More",
         description:
-            "July 4, 2023 • Many years ago, Tommy drove his sleek, black & beautiful 1965 Rambler Convertible onto Ray's property and swore that he'd be back to pick it up in a week or two. Two years later, Ray got tired of looking at the rusting heap and sent it to be crushed at the local salvage yard. Tommy never forgave his brother but he just may have figured out a way to get him to replace the car. Find out how on this episode of the Best of Car Talk.",
+            "Many years ago, Tommy drove his sleek, black & beautiful 1965 Rambler Convertible onto Ray's property and swore that he'd be back to pick it up in a week or two. Two years later, Ray got tired of looking at the rusting heap and sent it to be crushed at the local salvage yard. Tommy never forgave his brother but he just may have figured out a way to get him to replace the car. Find out how on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -907,7 +907,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-07-08.mp3",
         title: "#2359: The Mechanic as Salesman",
         description:
-            "July 8, 2023 • Right after Click and Clack try to figure out where Brenda is from, they help her translate what the mechanic-turned-salesman at her local Toyota dealer's service department is really saying about her car's engine. It's time to learn some new ways to say, 'That's gonna cost 'ya!' on this episode of the Best of Car Talk.",
+            "Right after Click and Clack try to figure out where Brenda is from, they help her translate what the mechanic-turned-salesman at her local Toyota dealer's service department is really saying about her car's engine. It's time to learn some new ways to say, 'That's gonna cost 'ya!' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -922,7 +922,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-07-11.mp3",
         title: "#2360: Consummate Professionals",
         description:
-            "July 11, 2023 • As befits a couple of kuckle-scrapers who were practically dragged into a broadcast studio years ago and plunked down in front of a hot microphone, Click and Clack do their thing unencumbered by notions of broadcasting's 'best practices'. Case in point, the beginning of their chat with Judy on this episode of the Best of Car Talk.",
+            "As befits a couple of kuckle-scrapers who were practically dragged into a broadcast studio years ago and plunked down in front of a hot microphone, Click and Clack do their thing unencumbered by notions of broadcasting's 'best practices'. Case in point, the beginning of their chat with Judy on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -937,7 +937,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-07-15.mp3",
         title: "#2361: The Mickey Mouse Method",
         description:
-            "July 15, 2023 • We all know that preventive maintenance is critical to keeping your car going, right? When it gets a little older, overhauling some key parts may be in order. But when it's finally looking good to Tommy(i.e. a real piece of junk) it's time to Mickey Mouse a few things. Come along and sing a song and join the jamboree on this episode of the Best of Car Talk.",
+            "We all know that preventive maintenance is critical to keeping your car going, right? When it gets a little older, overhauling some key parts may be in order. But when it's finally looking good to Tommy(i.e. a real piece of junk) it's time to Mickey Mouse a few things. Come along and sing a song and join the jamboree on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -952,7 +952,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-07-18.mp3",
         title: "#2362: The Power of the Dodge Dart",
         description:
-            "July 18, 2023 • And here we thought all those high-society soirees that we were never invited to must have been attended by owners of Rolls Royces, Cadillacs, Jags and Aston Martins. Not so! Hear Carol's story about the forgotten classic in that list -The Dodge Dart- on this episode of the Best of Car Talk.",
+            "And here we thought all those high-society soirees that we were never invited to must have been attended by owners of Rolls Royces, Cadillacs, Jags and Aston Martins. Not so! Hear Carol's story about the forgotten classic in that list -The Dodge Dart- on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -967,7 +967,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-07-22.mp3",
         title: "#2363: That Little Twerp, Melissa",
         description:
-            "July 22, 2023 • Sherlock Holmes matched wits with Moriarty and Captain Ahab battled his great white whale. Who challenged Click and Clack the Tappet Brothers the most during their over 40 years doing Car Talk, you ask? Not Chrysler's legal team, nor the FCC. No, it was a 13-year-old twerp from Seattle named Melissa. Her first appearance here on this episode of the Best of Car Talk.",
+            "Sherlock Holmes matched wits with Moriarty and Captain Ahab battled his great white whale. Who challenged Click and Clack the Tappet Brothers the most during their over 40 years doing Car Talk, you ask? Not Chrysler's legal team, nor the FCC. No, it was a 13-year-old twerp from Seattle named Melissa. Her first appearance here on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -982,7 +982,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-07-25.mp3",
         title: "#2364: Press On!",
         description:
-            "July 25, 2023 • Hippies remember their Volkswagen vans fondly as a low-cost, tiny home on wheels. What they've forgotten is what a mechanical nightmare they were. On this episode we start the show with Sandra's 'flamethrower edition' of the Vanagon and end with Frank's 'brake failure' Eurovan. What a long strange trip it's gonna be on this episode of the Best of Car Talk.",
+            "Hippies remember their Volkswagen vans fondly as a low-cost, tiny home on wheels. What they've forgotten is what a mechanical nightmare they were. On this episode we start the show with Sandra's 'flamethrower edition' of the Vanagon and end with Frank's 'brake failure' Eurovan. What a long strange trip it's gonna be on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -997,7 +997,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-07-29.mp3",
         title: "#2365: The Mind of Melissa",
         description:
-            "July 29, 2023 • For a show hosted by two knuckleheads, Car Talk has a pretty thoughtful and literate audience. Listener Jay Powell muses on the meaning of a world that contains both Car Talk and it's theoretical opposite: Melissa Peterson. It's Prose and Pistons on this episode of the Best of Car Talk.",
+            "For a show hosted by two knuckleheads, Car Talk has a pretty thoughtful and literate audience. Listener Jay Powell muses on the meaning of a world that contains both Car Talk and it's theoretical opposite: Melissa Peterson. It's Prose and Pistons on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1012,7 +1012,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-08-01.mp3",
         title: "#2366: Autorhinotillexomania",
         description:
-            "August 1, 2023 • We've all seen it. You're stopped at a light and the driver across the intersection has their hand to their face with half of one finger disappearing... up their nose. Yuck! Well, Jill from Montana has seen enough and wants to let all the offenders know that just because they are alone in their car they aren't invisible! Click and Clack try to explain 'autorhinotillexomania' on this episode of the Best of Car Talk.",
+            "We've all seen it. You're stopped at a light and the driver across the intersection has their hand to their face with half of one finger disappearing... up their nose. Yuck! Well, Jill from Montana has seen enough and wants to let all the offenders know that just because they are alone in their car they aren't invisible! Click and Clack try to explain 'autorhinotillexomania' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1027,7 +1027,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-08-05.mp3",
         title: "#2367: The Barefoot Confessor",
         description:
-            "August 5, 2023 • Amy just moved back east from Bezerkely, California and she brought her west coast driving habits with her. Dad caught her driving without her shoes on, and he is certain that barefoot driving is dangerous. Is it? Or is dear old dad making this up? Find out on this episode of the Best of Car Talk.And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Amy just moved back east from Bezerkely, California and she brought her west coast driving habits with her. Dad caught her driving without her shoes on, and he is certain that barefoot driving is dangerous. Is it? Or is dear old dad making this up? Find out on this episode of the Best of Car Talk.And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1042,7 +1042,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-08-08.mp3",
         title: "#2368: Fun with the Bubonic Plague",
         description:
-            "August 8, 2023 • For a bit of mid-show fun, Ray comes up with a 'Puzzler' for listeners to solve that Tommy grades on a scale of 'historic', 'folkloric', 'challenging', 'interesting' and 'fun'. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "For a bit of mid-show fun, Ray comes up with a 'Puzzler' for listeners to solve that Tommy grades on a scale of 'historic', 'folkloric', 'challenging', 'interesting' and 'fun'. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1057,7 +1057,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-08-12.mp3",
         title: "#2369: To the Moon in a Ford Escort",
         description:
-            "August 12, 2023 • Jeanne called Car Talk to bemoan the fact that her husband Joe was forcing them to drive around in two old heaps. Joe then called to defend himself and offer that he is only trying to get his Ford Escort to rack up enough miles to make it to the moon. Houston we have a problem -and another call from Melissa Peterson- on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Jeanne called Car Talk to bemoan the fact that her husband Joe was forcing them to drive around in two old heaps. Joe then called to defend himself and offer that he is only trying to get his Ford Escort to rack up enough miles to make it to the moon. Houston we have a problem -and another call from Melissa Peterson- on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1072,7 +1072,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-08-15.mp3",
         title: "#2370: Ellen is 0 for 2",
         description:
-            "August 15, 2023 • Ellen's hubby's pride and joy is his new Ford Explorer. The first time he let her drive it another driver crashed into her. Months later, hubby figured it was time to let her have another chance and this time she filled the gas tank with diesel fuel by mistake. Has she ruined hubby's ride for good this time or will Ellen get a chance to go '0 for 3' with hubby's Explorer? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Ellen's hubby's pride and joy is his new Ford Explorer. The first time he let her drive it another driver crashed into her. Months later, hubby figured it was time to let her have another chance and this time she filled the gas tank with diesel fuel by mistake. Has she ruined hubby's ride for good this time or will Ellen get a chance to go '0 for 3' with hubby's Explorer? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1087,7 +1087,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-08-19.mp3",
         title: "#2371: Locating the Chee on Jody's Honda",
         description:
-            "August 19, 2023 • Jody's mechanics can't seem to fix her car and since she's a practitioner of Eastern Medicine she's considering plying her acupuncture talents in the hopes of helping her Honda. Tom and Ray try to help her locate the Chee on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Jody's mechanics can't seem to fix her car and since she's a practitioner of Eastern Medicine she's considering plying her acupuncture talents in the hopes of helping her Honda. Tom and Ray try to help her locate the Chee on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1102,7 +1102,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-08-22.mp3",
         title: "#2372: Melissa Takes Over the Show",
         description:
-            "August 22, 2023 • What do you do when a precocious 13-year-old girl writes you a snotty little letter to say that your radio show stinks? You could invite her to host the show with you -shat should shut her up, right? Boy were we wrong! Melissa Peterson's revenge on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "What do you do when a precocious 13-year-old girl writes you a snotty little letter to say that your radio show stinks? You could invite her to host the show with you -shat should shut her up, right? Boy were we wrong! Melissa Peterson's revenge on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1117,7 +1117,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-08-26.mp3",
         title: "#2373: Yooper Problems",
         description:
-            "August 26, 2023 • What's a poor 'Yooper'(a Michigander from the upper peninsula) to do when his wife insists that he's wrecking her car by slamming it from reverse into drive every time he backs out of the driveway? Click and Clack try to let him down easy on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "What's a poor 'Yooper'(a Michigander from the upper peninsula) to do when his wife insists that he's wrecking her car by slamming it from reverse into drive every time he backs out of the driveway? Click and Clack try to let him down easy on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1132,7 +1132,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-08-29.mp3",
         title: "#2374: Alison's Stinkin' Volvo",
         description:
-            "August 29, 2023 • Alison was living it up out in latte land(Portland, OR) until she spilled her mocha cappucino all over the inside of her Volvo. Now the rainy season has arrived, and with it, an awful stench of sour milk everywhere she goes. Find out what to do when it's too late to switch to decaf on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Alison was living it up out in latte land(Portland, OR) until she spilled her mocha cappucino all over the inside of her Volvo. Now the rainy season has arrived, and with it, an awful stench of sour milk everywhere she goes. Find out what to do when it's too late to switch to decaf on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1147,7 +1147,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-09-02.mp3",
         title: "#2375: The Ingrate Sold Your Car!",
         description:
-            "September 2, 2023 • Ann from Boulder, CO has a wonderful mother who gave Ann her car. How did Ann express her thanks to dear old Mom? She sold it and bought a different car! Will Ann do the right thing and fess up to Mother before she visits next week or do Click and Clack the tattletales have to place the call to Mom themselves? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Ann from Boulder, CO has a wonderful mother who gave Ann her car. How did Ann express her thanks to dear old Mom? She sold it and bought a different car! Will Ann do the right thing and fess up to Mother before she visits next week or do Click and Clack the tattletales have to place the call to Mom themselves? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1162,7 +1162,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-09-05.mp3",
         title: "#2376: What's Cookin' at the Roadkill Cafe?",
         description:
-            "September 5, 2023 • 'Locally-sourced' and 'tarmac-to-table' are hallmarks of the Roadkill Cafe. Tommy reads from their revolting menu and we promise that if you've never actually considered a vegan diet, you will after this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "'Locally-sourced' and 'tarmac-to-table' are hallmarks of the Roadkill Cafe. Tommy reads from their revolting menu and we promise that if you've never actually considered a vegan diet, you will after this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1177,7 +1177,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-09-09.mp3",
         title: "#2377: Kristy vs. Krusty",
         description:
-            "September 9, 2023 • Kristy from Wyoming wants to learn how to work on cars so she enrolled in her high school's auto shop class. Her male classmates aren't taking her interest seriously, though. Should Kristy try to become one of them by smearing grease on her clothes and dragging her knuckles on the ground(hey, it worked for us!), or is there a better way? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Kristy from Wyoming wants to learn how to work on cars so she enrolled in her high school's auto shop class. Her male classmates aren't taking her interest seriously, though. Should Kristy try to become one of them by smearing grease on her clothes and dragging her knuckles on the ground(hey, it worked for us!), or is there a better way? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1192,7 +1192,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-09-12.mp3",
         title: "#2378: Sid from San Fran",
         description:
-            "September 12, 2023 • Sid from San Francisco has a problem with his Ford SUV: he misplaced a live rat inside it that eventually died deep in the dash and the smell is pretty nasty. Did we mention that Sid is a python? His friend and owner Jacquie fills us in on Sid's tale of rodent woe and intrigue on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Sid from San Francisco has a problem with his Ford SUV: he misplaced a live rat inside it that eventually died deep in the dash and the smell is pretty nasty. Did we mention that Sid is a python? His friend and owner Jacquie fills us in on Sid's tale of rodent woe and intrigue on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1207,7 +1207,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-09-16.mp3",
         title: "#2379: Let the Chump Stumping Begin!",
         description:
-            "September 16, 2023 • As bad decisions go, letting two car mechanics have their own show on NPR was 'questionable'. 'Crazy' was letting the folks calling-in with car problems back on to the show to tell everyone how good that advice was(or wasn't). The debut of 'Stump the Chumps' on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "As bad decisions go, letting two car mechanics have their own show on NPR was 'questionable'. 'Crazy' was letting the folks calling-in with car problems back on to the show to tell everyone how good that advice was(or wasn't). The debut of 'Stump the Chumps' on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1222,7 +1222,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-09-19.mp3",
         title: "#2380: Nostra-Thomas",
         description:
-            "September 19, 2023 • Click and Clack give up on mechanical diagnosis in favor of predictions. We predict a few laughs, some strange results and another installment of 'Stump the Chumps' on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Click and Clack give up on mechanical diagnosis in favor of predictions. We predict a few laughs, some strange results and another installment of 'Stump the Chumps' on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1237,7 +1237,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-09-23.mp3",
         title: "#2381: Paul Murky's Revenge",
         description:
-            "September 23, 2023 • Car Talk's Chief Researcher, Paul Murky occasionally helps Ray by checking out potential Puzzler questions. However, on this particular show Murky must have been in a bad mood because he sandbagged Ray something fierce. Enjoy the carnage on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Car Talk's Chief Researcher, Paul Murky occasionally helps Ray by checking out potential Puzzler questions. However, on this particular show Murky must have been in a bad mood because he sandbagged Ray something fierce. Enjoy the carnage on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1252,7 +1252,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-09-26.mp3",
         title: "#2382: Definitely a Dealership Rat!",
         description:
-            "September 26, 2023 • Our boys didn't actually call a local dealership a bunch of dirty rats: quite the contrary. Click and Clack compliment and alienate throughout this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Our boys didn't actually call a local dealership a bunch of dirty rats: quite the contrary. Click and Clack compliment and alienate throughout this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1267,7 +1267,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-09-30.mp3",
         title: "#2383: Unholy Water",
         description:
-            "September 30, 2023 • Katherine called Click and Clack looking for deliverance from the unholy waters sloshing around in the front of her minister-husband's Mitsubishi. Can our 'men-of-the-cloth-rags' help, or will this require a higher power? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Katherine called Click and Clack looking for deliverance from the unholy waters sloshing around in the front of her minister-husband's Mitsubishi. Can our 'men-of-the-cloth-rags' help, or will this require a higher power? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1282,7 +1282,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-10-03.mp3",
         title: "#2384: The Feds Are On To Us!",
         description:
-            "October 3, 2023 • It was only a matter of time before the Feds came after us. Was it the 'crash dummies widows and orphans fund' or 'save the skeets' that tipped them off? Click and Clack try offering car advice to longtime US Senator Tom Harkin in exchange for lighter sentences on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "It was only a matter of time before the Feds came after us. Was it the 'crash dummies widows and orphans fund' or 'save the skeets' that tipped them off? Click and Clack try offering car advice to longtime US Senator Tom Harkin in exchange for lighter sentences on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1297,7 +1297,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-10-07.mp3",
         title: "#2385: Beyond Seat Warmers",
         description:
-            "October 7, 2023 • Even though the first automotive seat warmer was patented back in 1951, Tommy assures us that his 'hibachi method' predates that. Gene from Pennsylvania has updated Tommy's idea, slightly, but will it pass Click and Clack's rigorous safety standards? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Even though the first automotive seat warmer was patented back in 1951, Tommy assures us that his 'hibachi method' predates that. Gene from Pennsylvania has updated Tommy's idea, slightly, but will it pass Click and Clack's rigorous safety standards? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1312,7 +1312,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-10-10.mp3",
         title: "#2386: The Cheapest Possible Fix",
         description:
-            "October 10, 2023 • Paul from Denver has an old Nissan that's slowly rusting away despite his attempts to keep it going. And he's smart enough to know that the rust is going to win eventually, but he just can't let go of it. This leads him to some strange choices when it comes to repairing the car. Find out how strange on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Paul from Denver has an old Nissan that's slowly rusting away despite his attempts to keep it going. And he's smart enough to know that the rust is going to win eventually, but he just can't let go of it. This leads him to some strange choices when it comes to repairing the car. Find out how strange on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1327,7 +1327,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-10-14.mp3",
         title: "#2387: Unencumbered by the Thought Process",
         description:
-            "October 14, 2023 • Many great institutions are known for their mottos: Harvard has 'Veritas'(Truth). And MIT has 'Mens et Manus'(Mind and Hand). But Car Talk has them both bested with 'Non Impediti Ratione Cogitationis'(Unencumbered by the Thought Process). Listen to our boys live and die by these powerful words on this(and every) episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Many great institutions are known for their mottos: Harvard has 'Veritas'(Truth). And MIT has 'Mens et Manus'(Mind and Hand). But Car Talk has them both bested with 'Non Impediti Ratione Cogitationis'(Unencumbered by the Thought Process). Listen to our boys live and die by these powerful words on this(and every) episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1342,7 +1342,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-10-17.mp3",
         title: "#2388: Don't Forget to Floss",
         description:
-            "October 17, 2023 • Dierdre's Volvo has some broken teeth on it's flywheel. Instead of just replacing it, her mechanic wants to fabricate and weld individual replacement teeth onto the damaged flywheel. Will this work, or is Dierdre's mechanic just a wannabe dentist masquerading as a mechanic? Pass the laughing gas and find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Dierdre's Volvo has some broken teeth on it's flywheel. Instead of just replacing it, her mechanic wants to fabricate and weld individual replacement teeth onto the damaged flywheel. Will this work, or is Dierdre's mechanic just a wannabe dentist masquerading as a mechanic? Pass the laughing gas and find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1357,7 +1357,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-10-21.mp3",
         title: "#2389: Of Course He's Wrong",
         description:
-            "October 21, 2023 • We could have titled this show, \"Happenings on Goat Hollow Road\", where Ruth and her husband have clearly run out of things to talk about because they are now arguing over the proper way to jumpstart a dead car battery. Will Click and Clack's advice make the front page of the 'Goat Hollow Gazette'? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "We could have titled this show, \"Happenings on Goat Hollow Road\", where Ruth and her husband have clearly run out of things to talk about because they are now arguing over the proper way to jumpstart a dead car battery. Will Click and Clack's advice make the front page of the 'Goat Hollow Gazette'? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1372,7 +1372,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-10-24.mp3",
         title: "#2390: Just a Little Kick",
         description:
-            "October 24, 2023 • Like Rita from Colorado, many of us have resorted to the 'Arthur Fonzarelli Method'(a precisely measured smack or kick) to 'persuade' an old car to work. But unlike Rita, most of us would only do that to our own cars. Find out how much jail time you get in Colorado for felony car abuse on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Like Rita from Colorado, many of us have resorted to the 'Arthur Fonzarelli Method'(a precisely measured smack or kick) to 'persuade' an old car to work. But unlike Rita, most of us would only do that to our own cars. Find out how much jail time you get in Colorado for felony car abuse on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1387,7 +1387,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-10-28.mp3",
         title: "#2391: Teepee for Two",
         description:
-            "October 28, 2023 • JoAnna and her boyfriend are moving into their first teepee together. Like most first teepees, it's short on creature comforts. But for some reason, the lack of heat, insulation or windows doesn't bother JoAnna -it's the fact that there's no garage for her car that has her calling Click and Clack on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "JoAnna and her boyfriend are moving into their first teepee together. Like most first teepees, it's short on creature comforts. But for some reason, the lack of heat, insulation or windows doesn't bother JoAnna -it's the fact that there's no garage for her car that has her calling Click and Clack on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1402,7 +1402,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-10-31.mp3",
         title: "#2392: The Mayo Clinic",
         description:
-            "October 31, 2023 • Need a dent fixed and it's off to the autobody shop. Or if you've got transmission trouble, you go to a transmission shop, right? So when Tim from Roanoke realized that he had mayonnaise on his dipstick he naturally turned to the two car guys with the most condiments on their clothes and in their beards. Pass the ketchup and settle in for this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Need a dent fixed and it's off to the autobody shop. Or if you've got transmission trouble, you go to a transmission shop, right? So when Tim from Roanoke realized that he had mayonnaise on his dipstick he naturally turned to the two car guys with the most condiments on their clothes and in their beards. Pass the ketchup and settle in for this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1417,7 +1417,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-11-04.mp3",
         title: "#2393: The Rockford Files",
         description:
-            "November 4, 2023 • Pete is a private eye in OH staking out some ne'er do well at the local no-tell motel, but his Ford Aerostar isn't producing any heat. Can Click and Clack assist this investigation or will Pete continue to freeze his tucchus while watching all that hot motel room action? Check out the action right here on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Pete is a private eye in OH staking out some ne'er do well at the local no-tell motel, but his Ford Aerostar isn't producing any heat. Can Click and Clack assist this investigation or will Pete continue to freeze his tucchus while watching all that hot motel room action? Check out the action right here on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1432,7 +1432,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-11-07.mp3",
         title: "#2394: That Giant Sucking Sound",
         description:
-            "November 7, 2023 • Marco's wife is harping about his shifting technique, Bill's bride wants him to get rid of his old Lincoln Town Car and Amy has alarm bells going off randomly in her Pontiac. You'd think that our hosts would need to stay pretty on point in order to give out good advice here, but you'd be wrong. Amazing feats of unfocused fancy on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Marco's wife is harping about his shifting technique, Bill's bride wants him to get rid of his old Lincoln Town Car and Amy has alarm bells going off randomly in her Pontiac. You'd think that our hosts would need to stay pretty on point in order to give out good advice here, but you'd be wrong. Amazing feats of unfocused fancy on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1447,7 +1447,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-11-11.mp3",
         title: "#2395 Pour, Poor Sarah",
         description:
-            "November 11, 2023 • Sarah was just trying to keep hydrated with her oversized water bottle always by her side in her Saab. Somewhere along the way, the car developed it's own thirst, too and now Sarah has to pour water on it to get the lights to turn on. Find out if there's a happy ending to Sarah's Saab story on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Sarah was just trying to keep hydrated with her oversized water bottle always by her side in her Saab. Somewhere along the way, the car developed it's own thirst, too and now Sarah has to pour water on it to get the lights to turn on. Find out if there's a happy ending to Sarah's Saab story on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1462,7 +1462,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-11-14.mp3",
         title: "#2396: The Perfect Repair",
         description:
-            "November 14, 2023 • Dee from Freeport, Maine has a pickup truck that sounds like 'distressed ducks' as he chugs along. Can Click and Clack locate the ducks' nest hidden somewhere in Dee's truck or will he have to wait until they fly south for the winter? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Dee from Freeport, Maine has a pickup truck that sounds like 'distressed ducks' as he chugs along. Can Click and Clack locate the ducks' nest hidden somewhere in Dee's truck or will he have to wait until they fly south for the winter? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1477,7 +1477,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-11-18.mp3",
         title: "#2397: The Golf Widow",
         description:
-            "November 18, 2023 • Of the two kinds of 'golf widows', Linda is the happy kind -more than willing to let her husband waste hours smacking a little ball around a field while she enjoys some time of her own. But Linda's quality time is threatened by hubby's golf cart acting up. Can Click and Clack the Golf(cart) Pros come to Linda's rescue? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Of the two kinds of 'golf widows', Linda is the happy kind -more than willing to let her husband waste hours smacking a little ball around a field while she enjoys some time of her own. But Linda's quality time is threatened by hubby's golf cart acting up. Can Click and Clack the Golf(cart) Pros come to Linda's rescue? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1492,7 +1492,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-11-21.mp3",
         title: "#2398: Autocide",
         description:
-            "November 21, 2023 • Leslie from Washington parked her crummy Chrysler K car on a hill one day only to return later and watch it rolling backwards and into a tree. She's sure that she had placed the car in park when she left it. Is there a mechanical explanation for this or did the ol' bucket of bolts decide on it's own to end it all? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Leslie from Washington parked her crummy Chrysler K car on a hill one day only to return later and watch it rolling backwards and into a tree. She's sure that she had placed the car in park when she left it. Is there a mechanical explanation for this or did the ol' bucket of bolts decide on it's own to end it all? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1507,7 +1507,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-11-25.mp3",
         title: "#2399: A Few Bad Leasing Strategies",
         description:
-            "November 25, 2023 • Kathleen commutes 100 miles per day in her leased Chrysler and the excess mileage charges are going to clobber her when she returns the car in a few years. She wants to know how likely would it be for the odometer to suddenly stop working, and could Click and Clack explain in detail how that might happen? Will they or won't they? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Kathleen commutes 100 miles per day in her leased Chrysler and the excess mileage charges are going to clobber her when she returns the car in a few years. She wants to know how likely would it be for the odometer to suddenly stop working, and could Click and Clack explain in detail how that might happen? Will they or won't they? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1522,7 +1522,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-11-28.mp3",
         title: "#23100: Mechanics vs Lawyers",
         description:
-            "November 28, 2023 • On this episode of the Best of Car Talk, Dorothea wants to sue her mechanic. Now you might expect Click and Clack to stand up for a fellow professional, but instead they take a few swings at a profession even lower on the 'trustworthiness scale' than car mechanics: lawyers. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "On this episode of the Best of Car Talk, Dorothea wants to sue her mechanic. Now you might expect Click and Clack to stand up for a fellow professional, but instead they take a few swings at a profession even lower on the 'trustworthiness scale' than car mechanics: lawyers. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1537,7 +1537,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-12-02.mp3",
         title: "#23101: You're Done For!",
         description:
-            "December 2, 2023 • Joy's Cadillac has been making a cute little noise for a while and she called Car Talk for a little reassurance that it wasn't anything major. Click and Clack, customer service professionals that they are, managed to administer last rites with a smile on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Joy's Cadillac has been making a cute little noise for a while and she called Car Talk for a little reassurance that it wasn't anything major. Click and Clack, customer service professionals that they are, managed to administer last rites with a smile on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1552,7 +1552,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-12-05.mp3",
         title: "#23102: Electric Brakes for Dummies",
         description:
-            'December 5, 2023 • Paul needs help with the electric brakes on his cattle trailer. Click and Clack have lots of ideas but only one question for Paul: "How do electric brakes work, exactly?" Enlightenment ensues on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.',
+            'Paul needs help with the electric brakes on his cattle trailer. Click and Clack have lots of ideas but only one question for Paul: "How do electric brakes work, exactly?" Enlightenment ensues on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1567,7 +1567,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-12-09.mp3",
         title: "#23103: The Full Rhino Package",
         description:
-            "December 9, 2023 • Susan and her husband are anthropologists preparing for a junket- er,'expedition', rather- to study the Maya culture from the vantage point of Mexico's most luxurious tourist destinations. They have their pith helmets, jodhpurs and magnifying glasses packed and ready to go. But do they also need the 'full rhino package' for the front of their Isuzu, or will that just spoil their view of the beach? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Susan and her husband are anthropologists preparing for a junket- er,'expedition', rather- to study the Maya culture from the vantage point of Mexico's most luxurious tourist destinations. They have their pith helmets, jodhpurs and magnifying glasses packed and ready to go. But do they also need the 'full rhino package' for the front of their Isuzu, or will that just spoil their view of the beach? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1582,7 +1582,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-12-12.mp3",
         title: "#23104: The Cow Tipping Capitol of the World",
         description:
-            "December 12, 2023 • What could be worse than having a Dodge Colt Vista that won't run? How about two Plymouth Volares that will? And if all that isn't enough excitement, Alison from upstate New York schools Click and Clack on the finer points of Cow-Tipping(15% is customary, right?) all on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "What could be worse than having a Dodge Colt Vista that won't run? How about two Plymouth Volares that will? And if all that isn't enough excitement, Alison from upstate New York schools Click and Clack on the finer points of Cow-Tipping(15% is customary, right?) all on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1597,7 +1597,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-12-16.mp3",
         title: "#23105: The Andy Letter",
         description:
-            "December 16, 2023 • Do two people who don't know what they are talking about know more or less than one person who doesn't know what he's talking about? Listener Andy posits and Click and Clack provide the proof on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Do two people who don't know what they are talking about know more or less than one person who doesn't know what he's talking about? Listener Andy posits and Click and Clack provide the proof on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1612,7 +1612,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-12-19.mp3",
         title: "#23106: The Mother-in-Law's Revenge",
         description:
-            "December 19, 2023 • Gary's Mother-in-law had a gorgeous 1967 Ford T-bird... until Gary tried to fix it for her. Gary knows he's not good enough for her daughter, but is he no longer fit to walk this earth, too? Click and Clack try to save Gary's bacon on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Gary's Mother-in-law had a gorgeous 1967 Ford T-bird... until Gary tried to fix it for her. Gary knows he's not good enough for her daughter, but is he no longer fit to walk this earth, too? Click and Clack try to save Gary's bacon on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1627,7 +1627,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-12-23.mp3",
         title: "#23107: Bill's Slapstickshift Problem",
         description:
-            "December 23, 2023 • Click and Clack think that Bill's stalling Peugeot has a bad 'Fool Management System'... or is that 'FUEL Management System'? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Click and Clack think that Bill's stalling Peugeot has a bad 'Fool Management System'... or is that 'FUEL Management System'? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1642,7 +1642,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-12-26.mp3",
         title: "#23108: Don't Dew It!",
         description:
-            "December 26, 2023 • Darlene's Daughter Has an old Volvo that's overheating. On a recent trip she pulled over when the dash light came on and, lacking any water, added a few bottles of her favorite carbonated beverage. Will the Volvo be refreshed or ruined? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Darlene's Daughter Has an old Volvo that's overheating. On a recent trip she pulled over when the dash light came on and, lacking any water, added a few bottles of her favorite carbonated beverage. Will the Volvo be refreshed or ruined? Find out on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,
@@ -1657,7 +1657,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2023-12-30.mp3",
         title: "#23109: A Bureaucratic Nightmare",
         description:
-            "December 30, 2023 • The AC on Wendy's VW sent smoke and fumes into the car on her 5 hour drive to visit her bureaucrat boyfriend in DC. He is unconcerned and tells her it was 'probably nothing' and now Click and Clack are trying to help Wendy fix the VW and dump the bureaucrat on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "The AC on Wendy's VW sent smoke and fumes into the car on her 5 hour drive to visit her bureaucrat boyfriend in DC. He is unconcerned and tells her it was 'probably nothing' and now Click and Clack are trying to help Wendy fix the VW and dump the bureaucrat on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2023,

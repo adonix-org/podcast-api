@@ -22,7 +22,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-01-05.mp3",
         title: "Car Talk January 5, 2008, Show #0801",
         description:
-            "January 5, 2008 • A new Mom of floats a really bad idea for keeping the kids entertained--putting a heap in the backyard. Also, the fate of a marrage may rest on whether Topm and Ray can diagnose a starting problem, and what's a guy to do when his rental car bursts into flames?",
+            "A new Mom of floats a really bad idea for keeping the kids entertained--putting a heap in the backyard. Also, the fate of a marrage may rest on whether Topm and Ray can diagnose a starting problem, and what's a guy to do when his rental car bursts into flames?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -37,7 +37,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-01-16.mp3",
         title: "Car Talk January 12, 2008, Show #0802",
         description:
-            'January 16, 2008 • What fun is a vintage car if your kids have to get out and push you up hills? The owner of a \'57 Morris Minor wonders if he can cram a few more horses under the hood. Also, is a 40,000 dollar Audi really not "car wash ready"? And, the usual assortment of odd noises, wacko remedies, and wheels on the verge of falling off.',
+            'What fun is a vintage car if your kids have to get out and push you up hills? The owner of a \'57 Morris Minor wonders if he can cram a few more horses under the hood. Also, is a 40,000 dollar Audi really not "car wash ready"? And, the usual assortment of odd noises, wacko remedies, and wheels on the verge of falling off.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -52,7 +52,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-01-19.mp3",
         title: "Car Talk January 19, 2008, Show #0803",
         description:
-            "January 19, 2008 • A new Mom seeks help keeping her baby warm in her car, and gets a lot more advice than she asked for. Also, a Honda that should stay away from farm animals, a Dodge Caravan key acquires mysterious powers, and a Ford Falcon owner tries to say farewell.",
+            "A new Mom seeks help keeping her baby warm in her car, and gets a lot more advice than she asked for. Also, a Honda that should stay away from farm animals, a Dodge Caravan key acquires mysterious powers, and a Ford Falcon owner tries to say farewell.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -67,7 +67,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-01-26.mp3",
         title: "Car Talk January 26, 2008 Show #0804",
         description:
-            "January 26, 2008 • A Winter dilemma shared by many--why do you get a shock when you touch your car after driving? Also, a solution to another Winter scourge--frozen door locks. Plus, a couple of vintage VW owners headed to Craig's List, and when NOT to change your oil.",
+            "A Winter dilemma shared by many--why do you get a shock when you touch your car after driving? Also, a solution to another Winter scourge--frozen door locks. Plus, a couple of vintage VW owners headed to Craig's List, and when NOT to change your oil.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -82,7 +82,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-02-02.mp3",
         title: "Car Talk February 2, 2008 Show #0805",
         description:
-            "February 2, 2008 • On Stump the Chumps, find out of Tom and Ray successfully decoded one of the most baffling noises to ever confront them. Also, is a car a bad subsitute for a crib? Do Minis eat clutches for lunch? And, just when you think you've seen all kinds of distracted driving, have we got a story for you!",
+            "On Stump the Chumps, find out of Tom and Ray successfully decoded one of the most baffling noises to ever confront them. Also, is a car a bad subsitute for a crib? Do Minis eat clutches for lunch? And, just when you think you've seen all kinds of distracted driving, have we got a story for you!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -97,7 +97,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-02-09.mp3",
         title: "Car Talk February 9, 2008 Show #0806",
         description:
-            'February 9, 2008 • Ray recalls one of his all-time favorite customers, the legendary "Heavy Duty". Also, has a beloved CRX turned into a chick repellant for single guy Glenn? Why is a Massachusetts town in red alert over a mlost Saab key? And, does a Passat get to share in a family\'s Alaskan adventure?',
+            'Ray recalls one of his all-time favorite customers, the legendary "Heavy Duty". Also, has a beloved CRX turned into a chick repellant for single guy Glenn? Why is a Massachusetts town in red alert over a mlost Saab key? And, does a Passat get to share in a family\'s Alaskan adventure?',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -112,7 +112,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-02-16.mp3",
         title: "Car Talk February 16, 2008 Show #0807",
         description:
-            'February 16, 2008 • A long-distance relationship is put to the test by one half\'s inability to drive. Also, if your hear takes you to Alaska, can your Maxivan follow? And,a re the words, "Yes, dear" the secret to a happy marriage?',
+            'A long-distance relationship is put to the test by one half\'s inability to drive. Also, if your hear takes you to Alaska, can your Maxivan follow? And,a re the words, "Yes, dear" the secret to a happy marriage?',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -127,7 +127,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-02-23.mp3",
         title: "Car Talk February 23, 2008 Show #0807",
         description:
-            "February 23, 2008 • The great Lost Saab Key crisis in Norfolk, MA has a happy ending, on Stump the Chumps. Also, Dad and son bond over wacking the bejeebers out of a Civic CV Joint, a Forester owner ponders life without 5th gear, and, if you're searching for a time machine, look no further!",
+            "The great Lost Saab Key crisis in Norfolk, MA has a happy ending, on Stump the Chumps. Also, Dad and son bond over wacking the bejeebers out of a Civic CV Joint, a Forester owner ponders life without 5th gear, and, if you're searching for a time machine, look no further!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -142,7 +142,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-03-01.mp3",
         title: "Car Talk March 1, 2008 Show #0809",
         description:
-            "March 1, 2008 • A Volvo owner is vexed by a noise she can't hear, a Mom and her 14 year old son argue over what's ailing her Kia, and the adventure of a lifetime: going 300 miles to pick up your new Suzuki? Also, the Washington Post helps answer the question: How do you know if you're a loser (aside from listening to Car Talk)?",
+            "A Volvo owner is vexed by a noise she can't hear, a Mom and her 14 year old son argue over what's ailing her Kia, and the adventure of a lifetime: going 300 miles to pick up your new Suzuki? Also, the Washington Post helps answer the question: How do you know if you're a loser (aside from listening to Car Talk)?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -157,7 +157,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-03-08.mp3",
         title: "Car Talk March 8, 2008 Show #0810",
         description:
-            "March 8, 2008 • A new Mom faces a driver's door that won't open, and a passenger door that won't close. Her response? A bungee cord and a good laugh. Find out if Tom and Ray can do any better. Also, a faulty gas cap brings out the guys' inner 6th graders, a plow truck channels Popeye, and why one woman has turned her daily commute into a deluxe tour of New Haven.",
+            "A new Mom faces a driver's door that won't open, and a passenger door that won't close. Her response? A bungee cord and a good laugh. Find out if Tom and Ray can do any better. Also, a faulty gas cap brings out the guys' inner 6th graders, a plow truck channels Popeye, and why one woman has turned her daily commute into a deluxe tour of New Haven.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -172,7 +172,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-03-15.mp3",
         title: "Car Talk March 15, 2008 Show #0811",
         description:
-            "March 15, 2008 • A musician searches for a creative (cheap) fix to a noisy exhaust. Also, the Wisdom of Homer, a very expensive clogged drain, and on Stump the Chumps--Ray stands alone. Will he have the last laugh?",
+            "A musician searches for a creative (cheap) fix to a noisy exhaust. Also, the Wisdom of Homer, a very expensive clogged drain, and on Stump the Chumps--Ray stands alone. Will he have the last laugh?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -187,7 +187,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-03-22.mp3",
         title: "Car Talk March 22, 2008 Show #0812",
         description:
-            "March 22, 2008 • Dad's dream car becomes his daughter's nightmare. Can Tom and Ray help her find her way out of a luxury car she's not ready for? Also, we meet the most unlikely resident of Twin Falls, Idaho; a Volvo sounds a tornado warning, and can you trust your brother, even if he's a mechanic?",
+            "Dad's dream car becomes his daughter's nightmare. Can Tom and Ray help her find her way out of a luxury car she's not ready for? Also, we meet the most unlikely resident of Twin Falls, Idaho; a Volvo sounds a tornado warning, and can you trust your brother, even if he's a mechanic?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -202,7 +202,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-03-29.mp3",
         title: "Car Talk March 29, 2008 Show #0813",
         description:
-            "March 29, 2008 • A soccer Mom develops an obsession with a potential new ride. Also, how the Tom Magliozzi Principle can guide a cross-country drive in a 1938 Dodge, a Dad shares his dream of handing down a '92 Subaru--in 2019, and Ray's son has a terrific birthday--at someone else's expense.",
+            "A soccer Mom develops an obsession with a potential new ride. Also, how the Tom Magliozzi Principle can guide a cross-country drive in a 1938 Dodge, a Dad shares his dream of handing down a '92 Subaru--in 2019, and Ray's son has a terrific birthday--at someone else's expense.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -217,7 +217,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-04-05.mp3",
         title: "Car Talk April 5, 2008 Show #0814",
         description:
-            "April 5, 2008 • A husband raises the stakes in a marital dispute over an over-populated key ring. Also, an '02 Nissan with almost 600,000 miles gets clogged, a Volvo owner enjoys life without a muffler, and is the Autobahn really the place to break in a new BMW? Pluse, new hope for ugly guys! Within reason, of course.",
+            "A husband raises the stakes in a marital dispute over an over-populated key ring. Also, an '02 Nissan with almost 600,000 miles gets clogged, a Volvo owner enjoys life without a muffler, and is the Autobahn really the place to break in a new BMW? Pluse, new hope for ugly guys! Within reason, of course.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -232,7 +232,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-04-12.mp3",
         title: "Car Talk April 12, 2008 Show #0815",
         description:
-            'April 12, 2008 • An encore show featuring stories about one of Tom and Ray\'s oldest (and loudest) friends. Also, a lesson in windhshield wiper fluid dynamics that violates most, if not all, laws of physics; another way to drive your wife crazy; And, the introduction of a new high-level auto-technical term: "Shmutz on the Clutch". (Note: includes the phrase" chicken asses")',
+            'An encore show featuring stories about one of Tom and Ray\'s oldest (and loudest) friends. Also, a lesson in windhshield wiper fluid dynamics that violates most, if not all, laws of physics; another way to drive your wife crazy; And, the introduction of a new high-level auto-technical term: "Shmutz on the Clutch". (Note: includes the phrase" chicken asses")',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -247,7 +247,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-04-20.mp3",
         title: "Car Talk April 19, 2008 Show #0816",
         description:
-            "April 20, 2008 • How a long flight to Iceland, and an overdose of lutefisk helped create a new addition to the Car Talk lexicon. Also, the new owner of a Ford pick-up discovers a bonus gas tank he may be better off using for hamburgers, a new Dad wonders why his wife won't let him take baby for a ride in his Jag, and a Cabrio owner wonders why her shoulder's all wet.",
+            "How a long flight to Iceland, and an overdose of lutefisk helped create a new addition to the Car Talk lexicon. Also, the new owner of a Ford pick-up discovers a bonus gas tank he may be better off using for hamburgers, a new Dad wonders why his wife won't let him take baby for a ride in his Jag, and a Cabrio owner wonders why her shoulder's all wet.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -262,7 +262,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-04-26.mp3",
         title: "Car Talk April 26, 2008 Show #0817",
         description:
-            "April 26, 2008 • Ray's inadvertent hijacking of Grammy's birthday cake (She Show #0813) opens the auto-confessional door. If you've ever cooked a friend's car, here's an opportunity to make amends. ?lso, a Kia owner cooks her own car, and we hear the evidence. And, does drafting to save gas cost the draftee anything?",
+            "Ray's inadvertent hijacking of Grammy's birthday cake (She Show #0813) opens the auto-confessional door. If you've ever cooked a friend's car, here's an opportunity to make amends. ?lso, a Kia owner cooks her own car, and we hear the evidence. And, does drafting to save gas cost the draftee anything?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -277,7 +277,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-05-03.mp3",
         title: "Car Talk May 3, 2008 Show #0818",
         description:
-            'May 3, 2008 • An innocent Porsche begins rolling towards a cliff--backwards and uphill. Is there an explanation aside from the fact it\'s in the aptly named town of "Radium Springs" ? Also, "foreign accent syndrome" takes on a new dimension, when not to use "belt dressing", and two callers get homework assignments.',
+            'An innocent Porsche begins rolling towards a cliff--backwards and uphill. Is there an explanation aside from the fact it\'s in the aptly named town of "Radium Springs" ? Also, "foreign accent syndrome" takes on a new dimension, when not to use "belt dressing", and two callers get homework assignments.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -292,7 +292,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-05-10.mp3",
         title: "Car Talk May 10, 2008 Show #0819",
         description:
-            "May 10, 2008 • A restitution offer is received--but, is it accepted? Also, can selective blinker use ruin an otherwise perfect relationship, and, how not to make friends with your neighbor.",
+            "A restitution offer is received--but, is it accepted? Also, can selective blinker use ruin an otherwise perfect relationship, and, how not to make friends with your neighbor.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -307,7 +307,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-05-17.mp3",
         title: "Car Talk May 17, 2008 Show #0820",
         description:
-            "May 17, 2008 • A huband plans to convert his wife's minivan to hydrogen power--she looks to Tom and Ray to talk some sense into him. Bad idea. Also, one car fire our hosts didn't cause, the sound of a transmission kapuit-ing, and one man finds his soulmate--a '62 Austin.",
+            "A huband plans to convert his wife's minivan to hydrogen power--she looks to Tom and Ray to talk some sense into him. Bad idea. Also, one car fire our hosts didn't cause, the sound of a transmission kapuit-ing, and one man finds his soulmate--a '62 Austin.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -322,7 +322,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-05-24.mp3",
         title: "Car Talk May 24, 2008 Show #0821",
         description:
-            "May 24, 2008 • A boyfriend's surprise car wash gets him in hot water. Also, a friendly family debate over--what's the most damaging kind of car crash. Plus, a backfire has a woman eyeing her husband differently, and how do you fix your carburetor when you don't have one?",
+            "A boyfriend's surprise car wash gets him in hot water. Also, a friendly family debate over--what's the most damaging kind of car crash. Plus, a backfire has a woman eyeing her husband differently, and how do you fix your carburetor when you don't have one?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -337,7 +337,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-05-31.mp3",
         title: "Car Talk May 31, 2008 Show #0822",
         description:
-            "May 31, 2008 • Tom and Ray Magliozzi of Car Talk answer callers questions about their cars from sticky brakes and faulty starters, to marital disputes and an ethical puzzler.",
+            "Tom and Ray Magliozzi of Car Talk answer callers questions about their cars from sticky brakes and faulty starters, to marital disputes and an ethical puzzler.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -352,7 +352,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-06-07.mp3",
         title: "Car Talk June 7, 2008 Show #0823",
         description:
-            'June 7, 2008 • 83-year old Lillian gets a fishy-sounding diagnosis on her Lincoln, and turns to Tom and Ray for guidance. They decide to play "60 Minutes", and go right to the source. Also, our on-call Physicist explains how the guys got their heads up their keisters on head-on collisions, a new Puzzler, and lots more.',
+            '83-year old Lillian gets a fishy-sounding diagnosis on her Lincoln, and turns to Tom and Ray for guidance. They decide to play "60 Minutes", and go right to the source. Also, our on-call Physicist explains how the guys got their heads up their keisters on head-on collisions, a new Puzzler, and lots more.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -367,7 +367,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-06-14.mp3",
         title: "Car Talk June 14, 2008 Show #0824",
         description:
-            "June 14, 2008 • A \"foreign body\" finds its way itno a Land Rover's differential. Fortunately, it's inanimate. Also, advice to mechanics: don't tell a customer complaining about noisy brakes that the problem is hormonal. And, a Dad gives his daughter useful automotive advice that could land them both in jail.",
+            "A \"foreign body\" finds its way itno a Land Rover's differential. Fortunately, it's inanimate. Also, advice to mechanics: don't tell a customer complaining about noisy brakes that the problem is hormonal. And, a Dad gives his daughter useful automotive advice that could land them both in jail.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -382,7 +382,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-06-21.mp3",
         title: "Car Talk June 21, 2008 Show #0825",
         description:
-            "June 21, 2008 • A frustrated VW owner plans a less-than fond farewell to her Beetle. Also, the victim of sibling-induced timing chain obsession seeks guidance, Scooby Doo appears in a PT Cruiser, and would you share your wedding vows with a '61 Corvair Greenbrier?",
+            "A frustrated VW owner plans a less-than fond farewell to her Beetle. Also, the victim of sibling-induced timing chain obsession seeks guidance, Scooby Doo appears in a PT Cruiser, and would you share your wedding vows with a '61 Corvair Greenbrier?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -397,7 +397,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-06-28.mp3",
         title: "Car Talk June 28, 2008 Show #0826",
         description:
-            "June 28, 2008 • Tom and Ray's thoughts on the passing of comedian and longtime Car Talk Plaza hero, George Carlin. Also, would you pay 700 bucks just to get some really bad news? Plus, a joyride IN a warehouse jeopardizes a Suzuki Swift, and straight outta the Witness Protection program in Twin Falls, our pal Dino returns for Stump the Chumps.",
+            "Tom and Ray's thoughts on the passing of comedian and longtime Car Talk Plaza hero, George Carlin. Also, would you pay 700 bucks just to get some really bad news? Plus, a joyride IN a warehouse jeopardizes a Suzuki Swift, and straight outta the Witness Protection program in Twin Falls, our pal Dino returns for Stump the Chumps.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -412,7 +412,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-07-05.mp3",
         title: "Car Talk July 5, 2008 Show #0827",
         description:
-            "July 5, 2008 • A lesson in how NOT to let off steam after a marital tiff. Also, two women's worst nightmares: one is gonna be stuck with her '87 Camry a little longer, and the other has to face the fact that her husband was right about a clogged AC. And, why you should never trust a mechanic who keeps his boat parked near his garage.",
+            "A lesson in how NOT to let off steam after a marital tiff. Also, two women's worst nightmares: one is gonna be stuck with her '87 Camry a little longer, and the other has to face the fact that her husband was right about a clogged AC. And, why you should never trust a mechanic who keeps his boat parked near his garage.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -427,7 +427,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-07-12.mp3",
         title: "Car Talk July 12, 2008 Show #0828",
         description:
-            "July 12, 2008 • Tommy reminisces about his days in the U.S. Army, especially the one in which he rose to the rank of Private. Also, why a Volvo owner may wish she'd married a gecko, and what happens when you give a 3-year old a golf ball and put him near your exhaust pipe? Yep, you guessed right.",
+            "Tommy reminisces about his days in the U.S. Army, especially the one in which he rose to the rank of Private. Also, why a Volvo owner may wish she'd married a gecko, and what happens when you give a 3-year old a golf ball and put him near your exhaust pipe? Yep, you guessed right.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -442,7 +442,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-07-19.mp3",
         title: "Car Talk 0829 July 19, 2008",
         description:
-            "July 19, 2008 • An all-time classic Shaggy Dog story--literally. Also, Ray's misadventure on the exercise bike; a wife searches for a low-decibel strategy to keep her husband from driving off the road; a Buick that drinks oil faster than its owner can drink beer; and, we meet the Chuck Yeager of CV Joints?",
+            "An all-time classic Shaggy Dog story--literally. Also, Ray's misadventure on the exercise bike; a wife searches for a low-decibel strategy to keep her husband from driving off the road; a Buick that drinks oil faster than its owner can drink beer; and, we meet the Chuck Yeager of CV Joints?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -457,7 +457,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-07-26.mp3",
         title: "Car Talk 0830 July 26, 2008",
         description:
-            "July 26, 2008 • A driver wonders if she should fess up for skipping a toll she didn't have Exact Change for, but, she may have no choice, thanks to Tom and Ray. Also, is all fair and love and grease? How to win a mechanic's heart. And, welcome to the world of electric brakes.",
+            "A driver wonders if she should fess up for skipping a toll she didn't have Exact Change for, but, she may have no choice, thanks to Tom and Ray. Also, is all fair and love and grease? How to win a mechanic's heart. And, welcome to the world of electric brakes.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -472,7 +472,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-08-02.mp3",
         title: "Car Talk 0831 August 2, 2008",
         description:
-            "August 2, 2008 • A listener thanks Tom and Ray for inadvertently solving a decades-old philosophical question. Also, the ever-annoying Melissa Peterson asks the guys to go to bat for her, and because some fool demanded it, The Car Talk Barbershop Quarter Minus Two makes its first and (we hope) last appearance.",
+            "A listener thanks Tom and Ray for inadvertently solving a decades-old philosophical question. Also, the ever-annoying Melissa Peterson asks the guys to go to bat for her, and because some fool demanded it, The Car Talk Barbershop Quarter Minus Two makes its first and (we hope) last appearance.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -487,7 +487,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-08-10.mp3",
         title: "Car Talk 0832 August 9, 2008",
         description:
-            "August 10, 2008 • When a relationship ends, who get to keep taking their car to the trusty mechanic? Also, why a smoking Jetta is just like a Magliozzi, a truck sends Tom and Ray into Duck and Cover mode, and more thoughts on the legendary Andy letter.",
+            "When a relationship ends, who get to keep taking their car to the trusty mechanic? Also, why a smoking Jetta is just like a Magliozzi, a truck sends Tom and Ray into Duck and Cover mode, and more thoughts on the legendary Andy letter.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -502,7 +502,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-08-17.mp3",
         title: "Car Talk 0833 August 16, 2008",
         description:
-            "August 17, 2008 • A messy divorce gets messier, and more fun. Also: A 13-year old kid plus a 14-year old Nissan equals one worried Mom. On Stump the Chumps, what made a Porsche turn semi-suicidal? Honda's brilliant anti-theft system? Maybe not.",
+            "A messy divorce gets messier, and more fun. Also: A 13-year old kid plus a 14-year old Nissan equals one worried Mom. On Stump the Chumps, what made a Porsche turn semi-suicidal? Honda's brilliant anti-theft system? Maybe not.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -517,7 +517,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-08-23.mp3",
         title: "Car Talk 0834 August 23, 2008",
         description:
-            "August 23, 2008 • 10 years after the fact, Tom and Ray's pal the Pep learns the deep dark secret of what really happened to his beloved Lincoln. Also, how to tow a car you'd rather just get rid of, does a warning count if it's not in all capital letters, and what does Google really think Car Talk?",
+            "10 years after the fact, Tom and Ray's pal the Pep learns the deep dark secret of what really happened to his beloved Lincoln. Also, how to tow a car you'd rather just get rid of, does a warning count if it's not in all capital letters, and what does Google really think Car Talk?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -532,7 +532,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-08-30.mp3",
         title: "Car Talk 0835 August 30, 2008",
         description:
-            "August 30, 2008 • Tom and Ray wade into the waters of gas pump etiquette--when does one customer's last drop belong to the next person? Also, another lesson why you should never buy a car from your brother, a soldier and his Toyota prepare for duty, and the essence of Car Talk is captured by a single word.",
+            "Tom and Ray wade into the waters of gas pump etiquette--when does one customer's last drop belong to the next person? Also, another lesson why you should never buy a car from your brother, a soldier and his Toyota prepare for duty, and the essence of Car Talk is captured by a single word.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -547,7 +547,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-09-06.mp3",
         title: "Car Talk 0836 September 6, 2008",
         description:
-            'September 6, 2008 • Some new ways to refer to those who are "one taco short of a combination plate." Also, Stump the Chumps tests the relationship between Lillian and her mechanic Bobby; a husband wonders how to stop his wife from killing Fords, and a really dirty fuel flush scam.',
+            'Some new ways to refer to those who are "one taco short of a combination plate." Also, Stump the Chumps tests the relationship between Lillian and her mechanic Bobby; a husband wonders how to stop his wife from killing Fords, and a really dirty fuel flush scam.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -562,7 +562,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-09-13.mp3",
         title: "Car Talk 0837 September 13, 2008",
         description:
-            "September 13, 2008 • A new Prius owner worries that he may have accidentally stepped into the wrong gender. Also, the worst place in the world to learn to drive a stick shift, a Civic develops agorophobia in its garage, and the Puzzler returns!",
+            "A new Prius owner worries that he may have accidentally stepped into the wrong gender. Also, the worst place in the world to learn to drive a stick shift, a Civic develops agorophobia in its garage, and the Puzzler returns!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -577,7 +577,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-09-20.mp3",
         title: "Car Talk 0838 September 20, 2008",
         description:
-            'September 20, 2008 • Tom and Ray referee a couple\'s auto-relational dispute over when to shift their Scion XA. Also, field research on the "getting the last drop" gas station strategy, a poorly steered answer on Stump the Chumps, and a new Puzzler from the "Dining with the Magliozzis" series.',
+            'Tom and Ray referee a couple\'s auto-relational dispute over when to shift their Scion XA. Also, field research on the "getting the last drop" gas station strategy, a poorly steered answer on Stump the Chumps, and a new Puzzler from the "Dining with the Magliozzis" series.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -592,7 +592,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-09-27.mp3",
         title: "Car Talk 0839 September 27, 2008",
         description:
-            "September 27, 2008 • He's a med student, good looking, and eats with minimal grunting--so why is Tara in California concerned about her new boyfriend? Could it be that his choice of domicile is an '86 VW van? Also, the fuel line (wallet) flush pitch appears at \"Fanny's Parasol Barbosh\", a Nissan owner suffers horn envy, and why would a clutch get depressed at 2,000 feet?",
+            "He's a med student, good looking, and eats with minimal grunting--so why is Tara in California concerned about her new boyfriend? Could it be that his choice of domicile is an '86 VW van? Also, the fuel line (wallet) flush pitch appears at \"Fanny's Parasol Barbosh\", a Nissan owner suffers horn envy, and why would a clutch get depressed at 2,000 feet?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -607,7 +607,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-10-04.mp3",
         title: "Car Talk 0840 October 4, 2008",
         description:
-            'October 4, 2008 • This week, the Magliozzi mantra for handling any customer service nightmare. Also, an update from the VW van dweller, a warning light that can hibernate for the Winter, and is there such a thing as a "diginifed" fart? Plus, a new Puzzler from the Travel and Leisure series, and lots more.',
+            'This week, the Magliozzi mantra for handling any customer service nightmare. Also, an update from the VW van dweller, a warning light that can hibernate for the Winter, and is there such a thing as a "diginifed" fart? Plus, a new Puzzler from the Travel and Leisure series, and lots more.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -622,7 +622,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-10-11.mp3",
         title: "Car Talk 0841 October 11, 2008",
         description:
-            'October 11, 2008 • An abandoned Nissan takes residence on a Staten Island street--who better to advise on how to get rid of it than Tom and Ray? Also, why a Subaru should not be mistaken for a sardine can, how a Honda magically turned into a Town and Country, and can the words "perfectly safe" be used in the same sentence as "66 MG"?',
+            'An abandoned Nissan takes residence on a Staten Island street--who better to advise on how to get rid of it than Tom and Ray? Also, why a Subaru should not be mistaken for a sardine can, how a Honda magically turned into a Town and Country, and can the words "perfectly safe" be used in the same sentence as "66 MG"?',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -637,7 +637,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-10-18.mp3",
         title: "Car Talk 0842 October 18, 2008",
         description:
-            "October 18, 2008 • Winter draws closer, and the good folks of Tofte, Minnesota are in a dispute over how best to orient a snowplow. And, for some reason, they think Tom and Ray will be able to help. Also, a Chevy Venture groans, even in its off hours, a Highlander driver may need to bolt her kitchen seat in, and why is a Mini resembling a tossed salad?",
+            "Winter draws closer, and the good folks of Tofte, Minnesota are in a dispute over how best to orient a snowplow. And, for some reason, they think Tom and Ray will be able to help. Also, a Chevy Venture groans, even in its off hours, a Highlander driver may need to bolt her kitchen seat in, and why is a Mini resembling a tossed salad?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -652,7 +652,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-10-25.mp3",
         title: "Car Talk 0843 October 25, 2008",
         description:
-            "October 25, 2008 • A family tries to turn their Dad's beloved car into a shrine. Also, a Miata owner considers looking a gift Camry in the mouth, a Plymouth van starts percolating, and why shakes, rattles, and rolls are what Jeep ownership's all about. Plus, a new Puzzler, and some new models that may be coming to a Chryotors dealership near you.",
+            "A family tries to turn their Dad's beloved car into a shrine. Also, a Miata owner considers looking a gift Camry in the mouth, a Plymouth van starts percolating, and why shakes, rattles, and rolls are what Jeep ownership's all about. Plus, a new Puzzler, and some new models that may be coming to a Chryotors dealership near you.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -667,7 +667,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-11-01.mp3",
         title: "Car Talk 0844 November 1, 2008",
         description:
-            "November 1, 2008 • Thieves break into a Ford Focus and make off with nothing but the owner's manual. Also, a would be shade-tree mechanic prepares to jump in, with his pals Stumpy and Meat by his side, a repair that could make a car stop running altogether, and Car Talk's new listener demographic--we\"re going ovine!",
+            "Thieves break into a Ford Focus and make off with nothing but the owner's manual. Also, a would be shade-tree mechanic prepares to jump in, with his pals Stumpy and Meat by his side, a repair that could make a car stop running altogether, and Car Talk's new listener demographic--we\"re going ovine!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -682,7 +682,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-11-08.mp3",
         title: "Car Talk 0845 November 8, 2008",
         description:
-            "November 8, 2008 • Is a gentle toot the best way to let a fellow driver know he's done a bad thing, or should you just let it be? Also, a tropical storm- plagued Miata, a Subaru with \"squirrels in the blender syndrome\", one listener's alarming parking fixation, and what do you do when your mechanic's hearing loss could mean your engine loss?",
+            "Is a gentle toot the best way to let a fellow driver know he's done a bad thing, or should you just let it be? Also, a tropical storm- plagued Miata, a Subaru with \"squirrels in the blender syndrome\", one listener's alarming parking fixation, and what do you do when your mechanic's hearing loss could mean your engine loss?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -697,7 +697,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-11-15.mp3",
         title: "Car Talk 0846 November 15, 2008 Show#0846",
         description:
-            "November 15, 2008 • This week on Car Talk, a list of rejected Doctoral Dissertation topics. And Tom and Ray help one caller find the cause of his engine fires. Watch out... it might bite you!",
+            "This week on Car Talk, a list of rejected Doctoral Dissertation topics. And Tom and Ray help one caller find the cause of his engine fires. Watch out... it might bite you!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -712,7 +712,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-11-22.mp3",
         title: "Car Talk 0847 November 22, 2008",
         description:
-            "November 22, 2008 • Field research confirms a strange attraction to our show among...sheep! Also, two callers learn they're a day late a few quarts short of some expensive repairs, an unloved Beetle finds a new home while it's former owner finds lower blood pressure, and a clown car doesn't know when to stop running.",
+            "Field research confirms a strange attraction to our show among...sheep! Also, two callers learn they're a day late a few quarts short of some expensive repairs, an unloved Beetle finds a new home while it's former owner finds lower blood pressure, and a clown car doesn't know when to stop running.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -727,7 +727,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-11-29.mp3",
         title: "Car Talk 0848 November 29, 2008",
         description:
-            "November 29, 2008 • A college student pleads for help navigating the existential crisis known as Freshman year. Also, a truck owner tries to get her faithful pooch to ride somewhere other than the roof of her truck, and a not so mysterious coolant mystery. Encore episode.",
+            "A college student pleads for help navigating the existential crisis known as Freshman year. Also, a truck owner tries to get her faithful pooch to ride somewhere other than the roof of her truck, and a not so mysterious coolant mystery. Encore episode.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -742,7 +742,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-12-06.mp3",
         title: "Car Talk 0849 December 6, 2008",
         description:
-            'December 6, 2008 • After four years, a New Yorker tires of "creative" parallel parking, and wonders why his Jetta won\'t go in reverse. Also, a novice driver looks for the perfect car--small, cute, safe, reliable...and cheaper than 5,000 bucks. Can Tom and Ray stop laughing long enough to suggest anything? And, on Stump the Chumps, an unwelcome neighbor departs.',
+            'After four years, a New Yorker tires of "creative" parallel parking, and wonders why his Jetta won\'t go in reverse. Also, a novice driver looks for the perfect car--small, cute, safe, reliable...and cheaper than 5,000 bucks. Can Tom and Ray stop laughing long enough to suggest anything? And, on Stump the Chumps, an unwelcome neighbor departs.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -757,7 +757,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-12-13.mp3",
         title: "Car Talk 0850 December 13, 2008",
         description:
-            "December 13, 2008 • As if lousy advice wasn't bad enough, have we resorted to adding a \"Snort Track\" to the show? Also, a Doctor's Lincoln starts to remind him of his mother, why new tires can be shocking, and a guy who can even out-laugh us.",
+            "As if lousy advice wasn't bad enough, have we resorted to adding a \"Snort Track\" to the show? Also, a Doctor's Lincoln starts to remind him of his mother, why new tires can be shocking, and a guy who can even out-laugh us.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -772,7 +772,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-12-20.mp3",
         title: "Car Talk 0851 December 20, 2008",
         description:
-            "December 20, 2008 • A 3-year old, a golfball, and the tailpipe of a Toyota Highlander come together, resulting a very nervous Dad. Also, Ray revives his proposal for a national gas tax, an all-mouse production of The Nutcracker Meets La Boheme takes the stare in an Element, and how NOT to keep a loved one from flying through the windshield.",
+            "A 3-year old, a golfball, and the tailpipe of a Toyota Highlander come together, resulting a very nervous Dad. Also, Ray revives his proposal for a national gas tax, an all-mouse production of The Nutcracker Meets La Boheme takes the stare in an Element, and how NOT to keep a loved one from flying through the windshield.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,
@@ -787,7 +787,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2008-12-27.mp3",
         title: "Car Talk 0852 December 27, 2008",
         description:
-            "December 27, 2008 • An eyewitness account of Ray's short-lived careers as a blizzard chaser. Also, a wet night in a dry wash turns everything inside out for a Camry, a possible case of spousal truck arson, and what could make Tommy say, \"He's doing pretty good, but for the wackiest reasons I've ever heard!\"",
+            "An eyewitness account of Ray's short-lived careers as a blizzard chaser. Also, a wet night in a dry wash turns everything inside out for a Camry, a possible case of spousal truck arson, and what could make Tommy say, \"He's doing pretty good, but for the wackiest reasons I've ever heard!\"",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2008,

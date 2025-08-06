@@ -22,7 +22,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-02.mp3",
         title: "#2401: Vehicular Intimacy",
         description:
-            "January 2, 2024 • Almost anything sounds reasonable -desirable even, if you choose the right words. In this episode of the Best of Car Talk, Ray explains 'vehicular intimacy' to his big brother Tom. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Almost anything sounds reasonable -desirable even, if you choose the right words. In this episode of the Best of Car Talk, Ray explains 'vehicular intimacy' to his big brother Tom. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -37,7 +37,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-06.mp3",
         title: "#2402: A Wicked Haircut",
         description:
-            "January 6, 2024 • The sudden, gut-wrenching need for 'A Wicked Haircut' is a part of Car Talk Puzzler lore. Dennis from Ohio experienced this firsthand, as a result of an iced tea on a long drive and he writes to tell Click and Clack about it on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "The sudden, gut-wrenching need for 'A Wicked Haircut' is a part of Car Talk Puzzler lore. Dennis from Ohio experienced this firsthand, as a result of an iced tea on a long drive and he writes to tell Click and Clack about it on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -52,7 +52,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-09.mp3",
         title: "#2403: Stupid is the Universal Language",
         description:
-            "January 9, 2024 • Click and Clack try fielding calls in Spanish, give terrible marital advice and insult their Mother directly to her face! All on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Click and Clack try fielding calls in Spanish, give terrible marital advice and insult their Mother directly to her face! All on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -67,7 +67,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-13.mp3",
         title: "#2404: Ted's Custom Exhaust",
         description:
-            "January 13, 2024 • The back door on Ted's old Plymouth van is so rusty that exhaust fumes are seeping in and killing off brain cells to the point that the poor guy is calling Car Talk for advice. Can Click and Clack save Ted's remaining brain cells? Or at least the van? Find out on this episode of the Best of Car Talk.",
+            "The back door on Ted's old Plymouth van is so rusty that exhaust fumes are seeping in and killing off brain cells to the point that the poor guy is calling Car Talk for advice. Can Click and Clack save Ted's remaining brain cells? Or at least the van? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -82,7 +82,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-16.mp3",
         title: "#2405: The Dodge Dart Submersible",
         description:
-            "January 16, 2024 • Add at least one more to the list of qualities that Tommy's erstwhile Dodge Dartre lacked: well made, dependable, fine handling, good looking and, not surprisingly, seaworthy. Tim from Washington regales us with the tale of his submersible '66 Dodge Dart on this episode of the Best of Car Talk.",
+            "Add at least one more to the list of qualities that Tommy's erstwhile Dodge Dartre lacked: well made, dependable, fine handling, good looking and, not surprisingly, seaworthy. Tim from Washington regales us with the tale of his submersible '66 Dodge Dart on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -97,7 +97,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-20.mp3",
         title: "#2406: We'll Ask the Questions Here!",
         description:
-            "January 20, 2024 • Kevin could really use some help figuring out a problem with his Nissan, but Click and Clack are more interested in Kevin's job at the car wash. Don't forget to order the 'hot wax special' on this episode of the Best of Car Talk.",
+            "Kevin could really use some help figuring out a problem with his Nissan, but Click and Clack are more interested in Kevin's job at the car wash. Don't forget to order the 'hot wax special' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -112,7 +112,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-23.mp3",
         title: "#2407: The Golden Arches Conundrum",
         description:
-            "January 23, 2024 • If a nationally-known burger chain situated on a long stretch of highway is the only restroom for the next 75 miles is it ok to 'use the facilities' there without making a purchase? Click and Clack help Darrell probe the ethics of 'dining and dashing' without the 'dining' part on this episode of the Best of Car Talk.",
+            "If a nationally-known burger chain situated on a long stretch of highway is the only restroom for the next 75 miles is it ok to 'use the facilities' there without making a purchase? Click and Clack help Darrell probe the ethics of 'dining and dashing' without the 'dining' part on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -127,7 +127,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-27.mp3",
         title: "#2408: Babes in the Wild",
         description:
-            "January 27, 2024 • Two completely different 'Babes in the Wild' calls from Newton on Safari in Kenya and Justin cruising in DC on this episode of the Best of Car Talk.",
+            "Two completely different 'Babes in the Wild' calls from Newton on Safari in Kenya and Justin cruising in DC on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -142,7 +142,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-30.mp3",
         title: "#2409: And a Dog Named 'Weasel'",
         description:
-            "January 30, 2024 • Two Saab stories and the even sadder tale of Yvonne's Chevy Cavalier. All of that and a dog named 'Weasel' on this episode of the Best of Car Talk.",
+            "Two Saab stories and the even sadder tale of Yvonne's Chevy Cavalier. All of that and a dog named 'Weasel' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -157,7 +157,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-02-03.mp3",
         title: "#2410: The Costs of Free Help",
         description:
-            "February 3, 2024 • Mike was feeling pretty good when he offered to help a neighbor replace the dead battery in her car. Mike was feeling 'something else' after he dropped his wrench and caused a fire under the hood. Is there any way Mike can save face with the neighbors or should he just move to a new city? Find out on this episode of the Best of Car Talk.",
+            "Mike was feeling pretty good when he offered to help a neighbor replace the dead battery in her car. Mike was feeling 'something else' after he dropped his wrench and caused a fire under the hood. Is there any way Mike can save face with the neighbors or should he just move to a new city? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -172,7 +172,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-02-06.mp3",
         title: "#2411: Sally's Decimated Dodge Dartre",
         description:
-            "February 6, 2024 • Sally is a librarian who drives a '63 Dodge Dartre with brakes that fail -are you ready?- periodically. Dewey, Cheetham and Howe meets Dewey Decimal on this episode of the Best of Car Talk.",
+            "Sally is a librarian who drives a '63 Dodge Dartre with brakes that fail -are you ready?- periodically. Dewey, Cheetham and Howe meets Dewey Decimal on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -187,7 +187,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-02-10.mp3",
         title: "#2412: Supercharge THIS!",
         description:
-            "February 10, 2024 • Rick is in love with both Linda and with his Mazda Miata, hopefully, in that order. But Rick is bugging Linda to buy him a $2500 turbocharger as a sort of 'mid-life crisis present'. Will Click and Clack recommend the turbocharger or the couples' counseling? Find out on this episode of the Best of Car Talk.",
+            "Rick is in love with both Linda and with his Mazda Miata, hopefully, in that order. But Rick is bugging Linda to buy him a $2500 turbocharger as a sort of 'mid-life crisis present'. Will Click and Clack recommend the turbocharger or the couples' counseling? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -202,7 +202,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-02-13.mp3",
         title: "#2413: Just a Couple of Romantics",
         description:
-            "February 13, 2024 • From time to time mail intended for Car Talk and Ann Landers of 'Dear Abby' fame gets switched up. Of course, the brothers' handle such heartfelt missives with the requisite tact and sensitivity that their sainted mother, Elizabeth, instilled in them -after they have a few laughs first! Advice to the lovelorn from Click and Clack on this episode of the Best of Car Talk.",
+            "From time to time mail intended for Car Talk and Ann Landers of 'Dear Abby' fame gets switched up. Of course, the brothers' handle such heartfelt missives with the requisite tact and sensitivity that their sainted mother, Elizabeth, instilled in them -after they have a few laughs first! Advice to the lovelorn from Click and Clack on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -217,7 +217,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-02-17.mp3",
         title: "#2414: The Spidermobile",
         description:
-            "February 17, 2024 • Geraldine has uninvited passengers taking up residence in her car. Can Click and Clack help her get rid of these eight-legged hitchhikers or should she just torch her Toyota? Oh, what a tangled web we weave on this episode of the Best of Car Talk.",
+            "Geraldine has uninvited passengers taking up residence in her car. Can Click and Clack help her get rid of these eight-legged hitchhikers or should she just torch her Toyota? Oh, what a tangled web we weave on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -232,7 +232,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-02-20.mp3",
         title: "#2415: The Wrong Kind of Horsepower",
         description:
-            "February 20, 2024 • Ginny drives outo onto a field full of horses. If this were an old movie, Ginny would ride off on the back of one of them into the sunset but, since this is Car Talk, Ginny watches in horror as the horsies begin to eat parts of her car. No Hollywood endings on this episode of the Best of Car Talk. Get access to hundreds of episodes in the Car Talk archive when you sign up for Car Talk+ at plus.npr.org/cartalk",
+            "Ginny drives outo onto a field full of horses. If this were an old movie, Ginny would ride off on the back of one of them into the sunset but, since this is Car Talk, Ginny watches in horror as the horsies begin to eat parts of her car. No Hollywood endings on this episode of the Best of Car Talk. Get access to hundreds of episodes in the Car Talk archive when you sign up for Car Talk+ at plus.npr.org/cartalk",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -247,7 +247,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-02-24.mp3",
         title: "#2416: Debbie's Automotive Impressions",
         description:
-            "February 24, 2024 • Debbie's Toyota has a brake noise, and because she lives near a repair shop she's become very accomplished at mimicking various automotive sounds. It's music to our ears on this episode of the Best of Car Talk. Get access to hundreds of episodes in the Car Talk archive when you sign up for Car Talk+ at plus.npr.org/cartalk",
+            "Debbie's Toyota has a brake noise, and because she lives near a repair shop she's become very accomplished at mimicking various automotive sounds. It's music to our ears on this episode of the Best of Car Talk. Get access to hundreds of episodes in the Car Talk archive when you sign up for Car Talk+ at plus.npr.org/cartalk",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -262,7 +262,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-02-27.mp3",
         title: "#2417: What's the Matter with Montana?",
         description:
-            "February 27, 2024 • More than a few years ago, Montana reacted to the repeal of the federal 55mph speed limit by declaring there to be no speed limit on vast stretches of highway. That -and testosterone-poisoned truckers- has Tommy ranting and raving on this episode of the best of Car Talk.",
+            "More than a few years ago, Montana reacted to the repeal of the federal 55mph speed limit by declaring there to be no speed limit on vast stretches of highway. That -and testosterone-poisoned truckers- has Tommy ranting and raving on this episode of the best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -277,7 +277,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-03-02.mp3",
         title: "#2418: The Great Montreal Hotel Fire",
         description:
-            "March 2, 2024 • Stephanie wants to squeeze Mom for finishing off her ailing clutch, Bill's Blazer is belching a bit of smoke and Ray recounts the tale of 'The Great Montreal Hotel Fire' that consumed his Ford LTD -or so he thought, all on this episode of the Best of Car Talk.",
+            "Stephanie wants to squeeze Mom for finishing off her ailing clutch, Bill's Blazer is belching a bit of smoke and Ray recounts the tale of 'The Great Montreal Hotel Fire' that consumed his Ford LTD -or so he thought, all on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -292,7 +292,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-03-05.mp3",
         title: "#2419: So Much for Brotherly Love",
         description:
-            'March 5, 2024 • Kieran from Louisiana has to leave his car for a long time. The last time he stored it the brakes rusted so bad they had to be replaced. Should he instead leave the car with his brother? Find out how many ways there are to say, "Absolutely Not!" from the Tappet Brothers on this episode of the Best of Car Talk. Get access to hundreds of episodes in the Car Talk archive when you sign up for Car Talk+ at plus.npr.org/cartalk',
+            'Kieran from Louisiana has to leave his car for a long time. The last time he stored it the brakes rusted so bad they had to be replaced. Should he instead leave the car with his brother? Find out how many ways there are to say, "Absolutely Not!" from the Tappet Brothers on this episode of the Best of Car Talk. Get access to hundreds of episodes in the Car Talk archive when you sign up for Car Talk+ at plus.npr.org/cartalk',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -307,7 +307,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-03-09.mp3",
         title: "#2420: I Think You Should Brick Him",
         description:
-            "March 9, 2024 • Heidi has a little neighborhood bird that freaks out several times a day and starts pecking away on the chrome of her Lincoln, thinking that it is defending it's territory. Will Click and Clack recommend extensive efforts to save the little guy or should Heid just 'brick him'? Find out on this episode of the Best of Car Talk.",
+            "Heidi has a little neighborhood bird that freaks out several times a day and starts pecking away on the chrome of her Lincoln, thinking that it is defending it's territory. Will Click and Clack recommend extensive efforts to save the little guy or should Heid just 'brick him'? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -322,7 +322,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-03-12.mp3",
         title: "#2421: Take a Hike, Laddie!",
         description:
-            "March 12, 2024 • When Michael and his family swapped houses and cars for a summer in Scotland, they probably imagined great hikes into the Scottish Highlands. But when their borrowed car blew up without warning and the owners blamed him, should Michael be telling the Scotts to 'kilt-up' and take a hike? Find out on this episode of the Best of Car Talk.",
+            "When Michael and his family swapped houses and cars for a summer in Scotland, they probably imagined great hikes into the Scottish Highlands. But when their borrowed car blew up without warning and the owners blamed him, should Michael be telling the Scotts to 'kilt-up' and take a hike? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -337,7 +337,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-03-16.mp3",
         title: "#2422: The Nissan Alimony",
         description:
-            "March 16, 2024 • Victoria's ex-husband is hoping that she'll forgive an alimony debt in exchange for his Nissan Stanza with 100,000 miles on it. Will Click and Clack applaud the couple's creative attempts to resolve their differences or will they demand that Victoria hold out for a new Lexus? Find out on this episode of the Best of Car Talk.",
+            "Victoria's ex-husband is hoping that she'll forgive an alimony debt in exchange for his Nissan Stanza with 100,000 miles on it. Will Click and Clack applaud the couple's creative attempts to resolve their differences or will they demand that Victoria hold out for a new Lexus? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -352,7 +352,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-03-19.mp3",
         title: "#2423: Cab Driver from Hell",
         description:
-            "March 19, 2024 • You think YOU have a rough commute?!?! Richard from Denver writes to tell us about his cab ride from hell on this episode of the Best of Car Talk.",
+            "You think YOU have a rough commute?!?! Richard from Denver writes to tell us about his cab ride from hell on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -367,7 +367,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-03-23.mp3",
         title: "#2424: Porkchop Boy",
         description:
-            "March 23, 2024 • What's worse, pulling your dipstick and finding it covered with chocolate mousse or having to tie a porkchop around your neck just to get the dog to play with you? Our usual diet of kooky questions and the continuing saga of Click and Clack's nephew, 'porkchop boy', on this episode of the Best of Car Talk.",
+            "What's worse, pulling your dipstick and finding it covered with chocolate mousse or having to tie a porkchop around your neck just to get the dog to play with you? Our usual diet of kooky questions and the continuing saga of Click and Clack's nephew, 'porkchop boy', on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -382,7 +382,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-03-26.mp3",
         title: "#2425: You Need a Cuter Mechanic",
         description:
-            "March 26, 2024 • CJ has an old Honda that she adores but it's costing her more and more in repair bills. Click and Clack suggest that maybe CJ's waning love for the Honda -as well as her savings- could be transferred to her mechanic on this episode of the Best of Car Talk.",
+            "CJ has an old Honda that she adores but it's costing her more and more in repair bills. Click and Clack suggest that maybe CJ's waning love for the Honda -as well as her savings- could be transferred to her mechanic on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -397,7 +397,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-03-30.mp3",
         title: "#2426: Two Feet Aren't Always Better Than One",
         description:
-            "March 30, 2024 • Most of us are happy to have been equipped at the factory with two feet, ya' know? Makes getting around a little easier. But two feet are a problem with some drivers -think grandpa with one foot on the gas and the other on the brake 100% of the time. What do Click and Clack think? Find out on this episode of the Best of Car Talk.",
+            "Most of us are happy to have been equipped at the factory with two feet, ya' know? Makes getting around a little easier. But two feet are a problem with some drivers -think grandpa with one foot on the gas and the other on the brake 100% of the time. What do Click and Clack think? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -412,7 +412,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-04-02.mp3",
         title: "#2427: The Guy Test",
         description:
-            "April 2, 2024 • A few shows back, Click and Clack remarked that guys have a need to do stupid things sometimes -like driving through blinding snowstorms in order to pick up a few extra lightbulbs. And wouldn't you know that a PHD somewhere has seen fit to measure 'Guy-ness' with a quick, multiple-answer quiz. Find out if you're a 'real guy' on this episode of the Best of Car Talk.",
+            "A few shows back, Click and Clack remarked that guys have a need to do stupid things sometimes -like driving through blinding snowstorms in order to pick up a few extra lightbulbs. And wouldn't you know that a PHD somewhere has seen fit to measure 'Guy-ness' with a quick, multiple-answer quiz. Find out if you're a 'real guy' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -427,7 +427,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-04-06.mp3",
         title: "#2428: I Got a '94 West Bend Deluxe",
         description:
-            "April 6, 2024 • If you've got an old British sportscar you'd probably call Car Talk about bad electronics. With an older GM car you probably have issues with your steering. But if you tell Click and Clack that you have a 1994 West Bend Deluxe Breadmaker that's churning out hockey pucks instead of brioche?.. Find out what they say on this episode of the Best of Car Talk.",
+            "If you've got an old British sportscar you'd probably call Car Talk about bad electronics. With an older GM car you probably have issues with your steering. But if you tell Click and Clack that you have a 1994 West Bend Deluxe Breadmaker that's churning out hockey pucks instead of brioche?.. Find out what they say on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -442,7 +442,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-04-09.mp3",
         title: "#2429: Vowels to Bosnia",
         description:
-            "April 9, 2024 • Where were you in '96? Click and Clack weren't exactly on the front lines, but they did report on the serious vowel-drought in the war-torn region of Bosnia in this classic episode of the Best of Car Talk.",
+            "Where were you in '96? Click and Clack weren't exactly on the front lines, but they did report on the serious vowel-drought in the war-torn region of Bosnia in this classic episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -457,7 +457,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-04-13.mp3",
         title: "#2430: Max and the Schnauzer",
         description:
-            "April 13, 2024 • As far as tall tales go, it isn't quite 'War and Peace', but 'Max and the Schnauzer' is about as epic as it gets in the world of auto repair, and it's on this episode of the Best of Car Talk.",
+            "As far as tall tales go, it isn't quite 'War and Peace', but 'Max and the Schnauzer' is about as epic as it gets in the world of auto repair, and it's on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -472,7 +472,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-04-16.mp3",
         title: "#2431: Pork Chop Boy's Revenge",
         description:
-            "April 16, 2024 • What are you going to do if two NPR hosts proclaim that you are so friendless you have to hang a porkchop around your neck just to get the dog to play with you? And what if those heartless hosts were your very own uncles? Find out on this episode of the Best of Car Talk.",
+            "What are you going to do if two NPR hosts proclaim that you are so friendless you have to hang a porkchop around your neck just to get the dog to play with you? And what if those heartless hosts were your very own uncles? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -487,7 +487,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-04-20.mp3",
         title: "#2432: Your Boyfriend is a Knucklehead",
         description:
-            "April 20, 2024 • When Valerie ended up in the hospital her boyfriend didn't bring her flowers or donate his kidney, but he did take her brand new car out onto the highway to see how fast it would go. How fast did Click and Clack tell her to dump him? Find out on this episode of the Best of Car Talk.",
+            "When Valerie ended up in the hospital her boyfriend didn't bring her flowers or donate his kidney, but he did take her brand new car out onto the highway to see how fast it would go. How fast did Click and Clack tell her to dump him? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -502,7 +502,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-04-23.mp3",
         title: "#2433: Leland Pulls a Heel",
         description:
-            "April 23, 2024 • Leland lives just outside Atlanta and his car won't 'pull a heel'. Has Leland stumped Click and Clack with a bit of local automotive jargon? Or is Leland pulling their heels and their legs, too? Find out on this episode of the Best of Car Talk.",
+            "Leland lives just outside Atlanta and his car won't 'pull a heel'. Has Leland stumped Click and Clack with a bit of local automotive jargon? Or is Leland pulling their heels and their legs, too? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -517,7 +517,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-04-27.mp3",
         title: "#2434: Car Talk's Family Vacation",
         description:
-            "April 27, 2024 • Eric's Dad wants to do a once-in-a-lifetime roadtrip to Alaska but no one wants to join him. Are his kids obligated to go? And which is more important: finding a safe car or not falling prey to an enraged family member after 1000 miles cooped-up together? Join our trip to Walley World on this episode of the Best of Car Talk.",
+            "Eric's Dad wants to do a once-in-a-lifetime roadtrip to Alaska but no one wants to join him. Are his kids obligated to go? And which is more important: finding a safe car or not falling prey to an enraged family member after 1000 miles cooped-up together? Join our trip to Walley World on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -532,7 +532,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-04-30.mp3",
         title: "#2435: The Wussification of the American Male",
         description:
-            "April 30, 2024 • For decades American men drove hot rods and muscle cars produced with their testosterone levels in mind. Then came the 'automotive vasectomy' that is the minivan. How's a guy supposed to feel macho cruising into the Costco parking lot in a Dodge Caravan? Take off your fanny pack and ponder the wussification of the American male on this episode of the Best of Car Talk.",
+            "For decades American men drove hot rods and muscle cars produced with their testosterone levels in mind. Then came the 'automotive vasectomy' that is the minivan. How's a guy supposed to feel macho cruising into the Costco parking lot in a Dodge Caravan? Take off your fanny pack and ponder the wussification of the American male on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -547,7 +547,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-05-04.mp3",
         title: "#2436: Cup of Coffee for the Road",
         description:
-            "May 4, 2024 • Stephan from Wyoming probably likes a cup of hot coffee for the road to keep warm, but he was shocked when his mechanic came out with a steaming coffee kettle and began pouring it into his carburetor. One lump or two on this episode of the Best of Car Talk.",
+            "Stephan from Wyoming probably likes a cup of hot coffee for the road to keep warm, but he was shocked when his mechanic came out with a steaming coffee kettle and began pouring it into his carburetor. One lump or two on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -562,7 +562,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-05-07.mp3",
         title: "#2437: Gail the Tollbooth Fugitive",
         description:
-            "May 7, 2024 • Billy the Kid, John Dillinger, Al Capone and now... 'Gail the Tollbooth Fugitive' takes her rightful place among America's most notorious criminals. Find out how wrong your life can go when you don't have exact change on this episode of the Best of Car Talk.",
+            "Billy the Kid, John Dillinger, Al Capone and now... 'Gail the Tollbooth Fugitive' takes her rightful place among America's most notorious criminals. Find out how wrong your life can go when you don't have exact change on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -577,7 +577,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-05-11.mp3",
         title: "#2438: The Volvo Wagon Blues",
         description:
-            "May 11, 2024 • Liz has it so bad with her Volvo that she's giving us the details in a sad song, and Marietta's got the blues because her toddler has jammed his binky into the seat adjustment motor. Sing along with this episode of the Best of Car Talk.",
+            "Liz has it so bad with her Volvo that she's giving us the details in a sad song, and Marietta's got the blues because her toddler has jammed his binky into the seat adjustment motor. Sing along with this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -592,7 +592,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-05-14.mp3",
         title: "#2439: Canine Mobile Eructations",
         description:
-            "May 14, 2024 • Longtime friend of the show and self-described rotund raconteur Daniel Pinkwater stops by to share his wisdom on the subject of doggie carsickness on this episode of the Best of Car Talk.",
+            "Longtime friend of the show and self-described rotund raconteur Daniel Pinkwater stops by to share his wisdom on the subject of doggie carsickness on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -607,7 +607,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-05-18.mp3",
         title: "#2440: Mom is Sprung from the Slammer",
         description:
-            "May 18, 2024 • Were Click and Clack part of some horrible experiment in child-rearing or were they just born that way? Their mother, Elizabeth, joins them on Mother's Day to ponder where she went so terribly wrong with these two on this episode of the Best of Car Talk.",
+            "Were Click and Clack part of some horrible experiment in child-rearing or were they just born that way? Their mother, Elizabeth, joins them on Mother's Day to ponder where she went so terribly wrong with these two on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -622,7 +622,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-05-21.mp3",
         title: "#2441: Gone to the Dogs",
         description:
-            "May 21, 2024 • Jackie is tough, so the squeaky brakes on her Ford only bother her a little bit, but her pet Chihuahuas aren't so happy and Jackie needs to scrape the little guys off the ceiling everytime. Can Click and Clack placate these puppies? Find out on this episode of the Best of Car Talk.",
+            "Jackie is tough, so the squeaky brakes on her Ford only bother her a little bit, but her pet Chihuahuas aren't so happy and Jackie needs to scrape the little guys off the ceiling everytime. Can Click and Clack placate these puppies? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -637,7 +637,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-05-25.mp3",
         title: "#2442: Does Anybody Screen These Calls?",
         description:
-            "May 25, 2024 • On this episode of the Best of Car Talk Click and Clack handle(in no particular order): Where to hide a dead guy's ashes, A young man's descent into existential irrelevance and Barry's libido.",
+            "On this episode of the Best of Car Talk Click and Clack handle(in no particular order): Where to hide a dead guy's ashes, A young man's descent into existential irrelevance and Barry's libido.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -652,7 +652,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-05-28.mp3",
         title: "#2443: Like a Boil on His Neck",
         description:
-            "May 28, 2024 • Beth is pretty sure that her husband is wearing out the clutch on their Honda. If Click and Clack agree that she's right, how much fun is she allowed to have reminding him of this for the rest of their marriage? Click and Clack explore automotive 'love languages' on this episode of the Best of Car Talk.",
+            "Beth is pretty sure that her husband is wearing out the clutch on their Honda. If Click and Clack agree that she's right, how much fun is she allowed to have reminding him of this for the rest of their marriage? Click and Clack explore automotive 'love languages' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -667,7 +667,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-06-01.mp3",
         title: "#2444: The Breath of God",
         description:
-            "June 1, 2024 • Althea's car stalled on a highway up thar in Maine. Then a kindly old priest happens by and offers to 'breathe into her gas tank'. Lo and behold, the car starts again! Click and Clack sermonize on this miracle and other automotive lessons from the good book of the Best of Car Talk.",
+            "Althea's car stalled on a highway up thar in Maine. Then a kindly old priest happens by and offers to 'breathe into her gas tank'. Lo and behold, the car starts again! Click and Clack sermonize on this miracle and other automotive lessons from the good book of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -682,7 +682,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-06-04.mp3",
         title: "#2445: The Cheapskate Sweepstakes",
         description:
-            "June 4, 2024 • Brian wants to spend only a few bucks to make his antique pickup truck handle like a sportscar. Candace's hubby thinks she can save a few pennies on gas by coasting whenever possible. And Keller has purloined a street sign to use as a floorboard in his VW Bug. Who will win 'The Cheapskate Sweepstakes' on this episode of the Best of Car Talk?",
+            "Brian wants to spend only a few bucks to make his antique pickup truck handle like a sportscar. Candace's hubby thinks she can save a few pennies on gas by coasting whenever possible. And Keller has purloined a street sign to use as a floorboard in his VW Bug. Who will win 'The Cheapskate Sweepstakes' on this episode of the Best of Car Talk?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -697,7 +697,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-06-08.mp3",
         title: "#2446: John and His Dipstick",
         description:
-            "June 8, 2024 • John's dipstick keeps popping out and it's kind of embarrassing. Will Click and Clack tell him that it happens to a lot of guys, or do they have a serious automotive diagnosis to offer? Find out on this episode of the Best of Car Talk.",
+            "John's dipstick keeps popping out and it's kind of embarrassing. Will Click and Clack tell him that it happens to a lot of guys, or do they have a serious automotive diagnosis to offer? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -712,7 +712,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-06-11.mp3",
         title: "#2447: Anything but Cars",
         description:
-            "June 11, 2024 • Poor Keller. She just wanted help with her Toyota pickup, but Click and Clack want to discuss anything but that. Will she hang on the line long enough to get an answer? Find out on this episode of the Best of Car Talk.",
+            "Poor Keller. She just wanted help with her Toyota pickup, but Click and Clack want to discuss anything but that. Will she hang on the line long enough to get an answer? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -727,7 +727,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-06-15.mp3",
         title: "#2448: The Costanza Method",
         description:
-            "June 15, 2024 • Click and Clack pride themselves on their subtle communications skills. But every once in a while you have to make your point any way you can. To whit, Ray employs 'The Costanza Method'(Yell at everybody) on this episode of the Best of Car Talk.",
+            "Click and Clack pride themselves on their subtle communications skills. But every once in a while you have to make your point any way you can. To whit, Ray employs 'The Costanza Method'(Yell at everybody) on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -742,7 +742,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-06-18.mp3",
         title: "#2449: Oops!",
         description:
-            "June 18, 2024 • A classic Car Talk diagnosis is derived from our hosts' intimate knowledge of modern automotive systems and their failure points, plus a healthy dose of finger-crossing in the hopes that the caller doesn't add that one last detail that flushes an otherwise elegant diagnosis right down the tubes. Listen as Click and Clack circle the bowl on this episode of the Best of Car Talk.",
+            "A classic Car Talk diagnosis is derived from our hosts' intimate knowledge of modern automotive systems and their failure points, plus a healthy dose of finger-crossing in the hopes that the caller doesn't add that one last detail that flushes an otherwise elegant diagnosis right down the tubes. Listen as Click and Clack circle the bowl on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -757,7 +757,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-06-22.mp3",
         title: "#2450: Great Balls of Fire!",
         description:
-            "June 22, 2024 • Pat from Colorado got a sizzling surprise from her Suzuki Sidekick at the Self-Service Station the other day. Goodness, gracious, great balls of fire on this episode of the Best of Car Talk.",
+            "Pat from Colorado got a sizzling surprise from her Suzuki Sidekick at the Self-Service Station the other day. Goodness, gracious, great balls of fire on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -772,7 +772,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-06-25.mp3",
         title: "#2451: From the Shores of Lake Titicaca",
         description:
-            "June 25, 2024 • Dr. Christine scored herself a plum gig in South America digging up ancient ruins, but unless her stalling Landcruiser gets fixed she might just bury it for a future Indiana Jones to dig up. Can Click and Clack help her explain to Titicaca Toyota's service manager what it needs? Find out on this episode of the Best of Car Talk.",
+            "Dr. Christine scored herself a plum gig in South America digging up ancient ruins, but unless her stalling Landcruiser gets fixed she might just bury it for a future Indiana Jones to dig up. Can Click and Clack help her explain to Titicaca Toyota's service manager what it needs? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -787,7 +787,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-06-29.mp3",
         title: "#2452: Go Ahead, Touch 'em!",
         description:
-            "June 29, 2024 • Spencer from Florida was riding down the highway in his Honda without a care in the world when he was hit with an urgent need to touch his lug nuts. How normal is that? Find out on this episode of the Best of Car Talk.",
+            "Spencer from Florida was riding down the highway in his Honda without a care in the world when he was hit with an urgent need to touch his lug nuts. How normal is that? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -802,7 +802,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-07-02.mp3",
         title: "#2453: A 50/50/50 Mixture",
         description:
-            "July 2, 2024 • Greg from Long Island is pretty sure that his radiator is now holding a mixture of equal parts water, coolant and sealant resulting from his vain attempts to plug up his leaking heater core. Is there any hope for Greg or should he just relocate the cat's litter box to catch the drips? Find out on this episode of the Best of Car Talk.",
+            "Greg from Long Island is pretty sure that his radiator is now holding a mixture of equal parts water, coolant and sealant resulting from his vain attempts to plug up his leaking heater core. Is there any hope for Greg or should he just relocate the cat's litter box to catch the drips? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -817,7 +817,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-07-06.mp3",
         title: "#2454: Shark Attack",
         description:
-            "July 6, 2024 • Scott from Scottsdale is an attorney suing a local mechanic who cracked the engine block on his client's car. The mechanic fessed up immediately and offered to fix it with epoxy. Will Click and Clack side with a lawyer preparing to pounce on a fellow mechanic? It's shark vs grease monkey on this episode of the Best of Car Talk.",
+            "Scott from Scottsdale is an attorney suing a local mechanic who cracked the engine block on his client's car. The mechanic fessed up immediately and offered to fix it with epoxy. Will Click and Clack side with a lawyer preparing to pounce on a fellow mechanic? It's shark vs grease monkey on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -832,7 +832,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-07-09.mp3",
         title: "#2455: Kevorkian Motors",
         description:
-            "July 9, 2024 • Jaime from Virginia must be a longtime listener because he's asking Click and Clack how to put an old Hyundai out of his misery. Creatively euthanizing cars on this episode of the best of Car Talk.",
+            "Jaime from Virginia must be a longtime listener because he's asking Click and Clack how to put an old Hyundai out of his misery. Creatively euthanizing cars on this episode of the best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -847,7 +847,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-07-13.mp3",
         title: "#2456: Mr. Leadfoot",
         description:
-            "July 13, 2024 • It's bad enough that Gayle's new boyfriend hogs the tv remote all the time. Now he's speeding around in her car and Gayle is worried that he's wrecking the engine. Can Click and Clack help Gayle talk some sense into Mr. Leadfoot? Find out on this episode of the Best of Car Talk.",
+            "It's bad enough that Gayle's new boyfriend hogs the tv remote all the time. Now he's speeding around in her car and Gayle is worried that he's wrecking the engine. Can Click and Clack help Gayle talk some sense into Mr. Leadfoot? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -862,7 +862,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-07-16.mp3",
         title: "#2457: Dad Sold the Car!",
         description:
-            "July 16, 2024 • When she was growing up, Linda's family went everywhere in their '66 Rambler Station Wagon. But just the other day, her dad sold it to a neighbor instead of offering it to Linda. Should she just let it go and be satisfied with eyeing it in the neighbor's driveway? Find out what Click and Clack think on this episode of the Best of Car Talk.",
+            "When she was growing up, Linda's family went everywhere in their '66 Rambler Station Wagon. But just the other day, her dad sold it to a neighbor instead of offering it to Linda. Should she just let it go and be satisfied with eyeing it in the neighbor's driveway? Find out what Click and Clack think on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -877,7 +877,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-07-20.mp3",
         title: "#2458: Who Gets the Mechanic in the Divorce?",
         description:
-            "July 20, 2024 • Sarah Volvo and Mr. Mercedes shared everything -including a wonderful car mechanic- until Mr. Mercedes was caught looking under someone else's hood. Now that she and Mercedes are kaput, Sarah wants to know who gets to keep the mechanic? Oye, oye, Divorce court is now in session with the honorable Click and Clack presiding on this episode of the Best of Car Talk.",
+            "Sarah Volvo and Mr. Mercedes shared everything -including a wonderful car mechanic- until Mr. Mercedes was caught looking under someone else's hood. Now that she and Mercedes are kaput, Sarah wants to know who gets to keep the mechanic? Oye, oye, Divorce court is now in session with the honorable Click and Clack presiding on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -892,7 +892,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-07-23.mp3",
         title: "#2459: The Neatnik Mechanic Hypothesis",
         description:
-            "July 23, 2024 • Leif fr Pennsylvania has a theory that if he cleans his car thoroughly inside and out before bringing it in for service he'll get a better result at his local repair shop. Is he right? And why not? Check it out on this episode of the Best of Car Talk.",
+            "Leif fr Pennsylvania has a theory that if he cleans his car thoroughly inside and out before bringing it in for service he'll get a better result at his local repair shop. Is he right? And why not? Check it out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -907,7 +907,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-07-27.mp3",
         title: "#2460: The Antmobile",
         description:
-            "July 27, 2024 • Christine's hubby has a habit of eating sesame bagels in his Honda. A delighted colony of ants has taken notice and taken up residence somewhere inside the car. Can Click and Clack the entomologists solve this one? Find out on this episode of the Best of Car Talk.",
+            "Christine's hubby has a habit of eating sesame bagels in his Honda. A delighted colony of ants has taken notice and taken up residence somewhere inside the car. Can Click and Clack the entomologists solve this one? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -922,7 +922,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-07-30.mp3",
         title: "#2461: Male Answer Syndrome",
         description:
-            "July 30, 2024 • If a tree falls in the forest and there isn't a man there to tell us why it just fell over... did a tree really fall? Click and Clack mansplain it all on this episode of the Best of Car Talk.",
+            "If a tree falls in the forest and there isn't a man there to tell us why it just fell over... did a tree really fall? Click and Clack mansplain it all on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -937,7 +937,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-08-03.mp3",
         title: "#2462: What's the Matter, Lea?",
         description:
-            "August 3, 2024 • Lea is a lost college freshman looking for meaning in the rigors of her academic existence. She somehow got it in her head that Click and Clack, being MIT-trained car mechanics, might be able to help her put things in perspective on this episode of the Best of Car Talk.",
+            "Lea is a lost college freshman looking for meaning in the rigors of her academic existence. She somehow got it in her head that Click and Clack, being MIT-trained car mechanics, might be able to help her put things in perspective on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -952,7 +952,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-08-06.mp3",
         title: "#2463: Pardon the Interruption",
         description:
-            "August 6, 2024 • Sharon loves to settle into a comfy seat and read a book before and after a hard days work. That the seat in question is the driver's seat of her car as she travels to and from work -should that bother the rest of us? Click and Clack supply the outrage on this episode of the Best of Car Talk.",
+            "Sharon loves to settle into a comfy seat and read a book before and after a hard days work. That the seat in question is the driver's seat of her car as she travels to and from work -should that bother the rest of us? Click and Clack supply the outrage on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -967,7 +967,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-08-10.mp3",
         title: "#2464: No Mommy! Not the Wiggly Road!",
         description:
-            "August 10, 2024 • Every time Nancy drives little 3-yr-old Sam in either of the family cars he pukes. But it never happens when Dad is driving. Can Click and Clack help Nancy improve her driving technique before Sam ruins the upholstery? Find out on this episode of the Best of Car Talk.",
+            "Every time Nancy drives little 3-yr-old Sam in either of the family cars he pukes. But it never happens when Dad is driving. Can Click and Clack help Nancy improve her driving technique before Sam ruins the upholstery? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -982,7 +982,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-08-13.mp3",
         title: "#2465: The Dodge Dowry",
         description:
-            "August 13, 2024 • Elysa and her boyfriend have been 'shacking up' for some time and her parents have just approached him to say that they are willing to give them a car as an inducement to tie the knot. Will Click and Clack hit the brakes on this arrangement? Find out on this episode of the Best of Car Talk.",
+            "Elysa and her boyfriend have been 'shacking up' for some time and her parents have just approached him to say that they are willing to give them a car as an inducement to tie the knot. Will Click and Clack hit the brakes on this arrangement? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -997,7 +997,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-08-17.mp3",
         title: "#2466: Hi Sierra, Bye Sierra",
         description:
-            "August 17, 2024 • Sierra's Dodge groans when she's steering it and the boys want her to test it before they give her an answer. So what will our two hosts do while their guest hangs up to go for a short drive? Adventures in 'dead air' on this episode of the Best of Car Talk.",
+            "Sierra's Dodge groans when she's steering it and the boys want her to test it before they give her an answer. So what will our two hosts do while their guest hangs up to go for a short drive? Adventures in 'dead air' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1012,7 +1012,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-08-20.mp3",
         title: "#2467: Fred Not!",
         description:
-            "August 20, 2024 • Fred called us from Hartford... except his name isn't Fred... and he isn't from Hartford... What could be so bad that would make a guy desperate enough to call our lousy show on the Q.T? Find out on this episode of the Best of Car Talk.",
+            "Fred called us from Hartford... except his name isn't Fred... and he isn't from Hartford... What could be so bad that would make a guy desperate enough to call our lousy show on the Q.T? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1027,7 +1027,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-08-24.mp3",
         title: "#2468: Ok for Me but Not for Thee",
         description:
-            "August 24, 2024 • Truth Shmooth! Mere moments after Click and Clack help Victoria from Tucson dismiss her husbands fibs about putting an air conditioning unit in their old car, our boys are making up stuff so that Reed from North Carolina can talk his wife out of pulling a horse trailer with his beloved Ford. It's a delicate dance on this episode of the Best of Car Talk.",
+            "Truth Shmooth! Mere moments after Click and Clack help Victoria from Tucson dismiss her husbands fibs about putting an air conditioning unit in their old car, our boys are making up stuff so that Reed from North Carolina can talk his wife out of pulling a horse trailer with his beloved Ford. It's a delicate dance on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1042,7 +1042,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-08-27.mp3",
         title: "#2469: Right Down the Hatch",
         description:
-            "August 27, 2024 • Barbara's 'grandmamobile' is perfect except for one thing. Every time she leaves something on the dash it slides into the vents. And just the other day that vent swallowed up her car keys. Surgical extractions with Click and Clack on this episode of the Best of Car Talk.",
+            "Barbara's 'grandmamobile' is perfect except for one thing. Every time she leaves something on the dash it slides into the vents. And just the other day that vent swallowed up her car keys. Surgical extractions with Click and Clack on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1057,7 +1057,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-08-31.mp3",
         title: "#2470: The God of Thermostats",
         description:
-            "August 31, 2024 • Max needs help keeping his junker going in Hawaii. John has to tell his Honda mechanic in the most tactful way possible that he's incompetent and Jill and her Ford have to rely on the oracles 'Clickus' and 'Clackus' to appeal to the God of thermostats on this episode of the Best of Car Talk.",
+            "Max needs help keeping his junker going in Hawaii. John has to tell his Honda mechanic in the most tactful way possible that he's incompetent and Jill and her Ford have to rely on the oracles 'Clickus' and 'Clackus' to appeal to the God of thermostats on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1072,7 +1072,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-09-03.mp3",
         title: "#2471: Put a Sock in it",
         description:
-            "September 3, 2024 • While doing some maintenance on his Mercury, Bob from Washington used one of his athletic socks to keep things from falling into the car's manifold. After finishing up he took the car for a spin on the highway until he heard a horrible noise and the car died. That giant, sock-sucking-sound on this episode of the Best of Car Talk.",
+            "While doing some maintenance on his Mercury, Bob from Washington used one of his athletic socks to keep things from falling into the car's manifold. After finishing up he took the car for a spin on the highway until he heard a horrible noise and the car died. That giant, sock-sucking-sound on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1087,7 +1087,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-09-07.mp3",
         title: "#2472: Rover and Over",
         description:
-            "September 7, 2024 • Veronica's hubby wants to buy an old Land Rover for riding through the jungles of... greater Boston. Click and Clack explain that, while on the surface this idea seems illogical, ill-conceived and expensive, it's actually much worse than that. Join our safari for this episode of the Best of Car Talk.",
+            "Veronica's hubby wants to buy an old Land Rover for riding through the jungles of... greater Boston. Click and Clack explain that, while on the surface this idea seems illogical, ill-conceived and expensive, it's actually much worse than that. Join our safari for this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1102,7 +1102,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-09-10.mp3",
         title: "#2473: The Brains in Maine",
         description:
-            "September 10, 2024 • Theresa from Maine has a problem with her car sliding all over the road when she's braking. You'd think that would grab Click and Clack's attention, but you'd be wrong. They would rather use the time to muse on the relative insanity of all of their New England neighbors to the north on this episode of the Best of Car Talk.",
+            "Theresa from Maine has a problem with her car sliding all over the road when she's braking. You'd think that would grab Click and Clack's attention, but you'd be wrong. They would rather use the time to muse on the relative insanity of all of their New England neighbors to the north on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1117,7 +1117,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-09-14.mp3",
         title: "#2474: The Feds Are On To Us!",
         description:
-            "September 14, 2024 • Despite broadcasting the show from a moving van every week for lo these many years it appears 'the jig is up' finally for our hosts as the FCC Chairman has found them and has a few 'questions.' Join us as Click and Clack learn all about Federal Sentencing Guidelines on this episode of the Best of Car Talk.",
+            "Despite broadcasting the show from a moving van every week for lo these many years it appears 'the jig is up' finally for our hosts as the FCC Chairman has found them and has a few 'questions.' Join us as Click and Clack learn all about Federal Sentencing Guidelines on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1132,7 +1132,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-09-17.mp3",
         title: "#2475: Men Before GPS",
         description:
-            "September 17, 2024 • It used to be that the biggest obstacle to getting where you were going wasn't a poorly built or maintained car -it was the guy behind the wheel. Men famously hated asking for directions, preferring instead to try and read a paper map with one eye while keeping the other eye on the road, sort of. Journey back to the 'not-so-long-ago-days-of-pre-GPS-yore' on this episode of the Best of Car Talk.",
+            "It used to be that the biggest obstacle to getting where you were going wasn't a poorly built or maintained car -it was the guy behind the wheel. Men famously hated asking for directions, preferring instead to try and read a paper map with one eye while keeping the other eye on the road, sort of. Journey back to the 'not-so-long-ago-days-of-pre-GPS-yore' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1147,7 +1147,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-09-21.mp3",
         title: "#2476: Houston, We Have a Problem!",
         description:
-            "September 21, 2024 • When John called us from '200 miles north of Hawaii'' it took Click and Clack a minute to realize he meant 200 miles 'straight up'. Boy, NASA budget cuts get must be bad if they're calling us for help. Houston definitely has a problem on this episode of the Best of Car Talk.",
+            "When John called us from '200 miles north of Hawaii'' it took Click and Clack a minute to realize he meant 200 miles 'straight up'. Boy, NASA budget cuts get must be bad if they're calling us for help. Houston definitely has a problem on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1162,7 +1162,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-09-24.mp3",
         title: "#2477: Holistic Car Care",
         description:
-            "September 24, 2024 • Did you know that Click and Clack's roots in car care stretch back to 'hippie days' and their 'Hacker's Haven' DIY Garage? Ed was a customer then and remembers a few of the nutty approaches the boys took to educating beginner mechanics. Change your Patchouli oil & filter with us on this episode of the Best of Car Talk.",
+            "Did you know that Click and Clack's roots in car care stretch back to 'hippie days' and their 'Hacker's Haven' DIY Garage? Ed was a customer then and remembers a few of the nutty approaches the boys took to educating beginner mechanics. Change your Patchouli oil & filter with us on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1177,7 +1177,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-09-28.mp3",
         title: "#2478: Kickin' Some Pinewood Derby Butt!",
         description:
-            "September 28, 2024 • Kathy from Oregon is the Den Mom for her son's local Cub Scout troop and she's bound and determined to teach the little guys important lessons about craftwork, sportsmanship and how parents can mess up a good thing by hijacking their kids' fun. Ladies and gentlemen, start your wooden engines and check out this episode of the Best of Car Talk.",
+            "Kathy from Oregon is the Den Mom for her son's local Cub Scout troop and she's bound and determined to teach the little guys important lessons about craftwork, sportsmanship and how parents can mess up a good thing by hijacking their kids' fun. Ladies and gentlemen, start your wooden engines and check out this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1192,7 +1192,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-10-01.mp3",
         title: "#2479: A Catalytic Converter Repents",
         description:
-            "October 1, 2024 • Yasmina knows that she has transgressed by letting the sleazy repair shop on her street rip out her car's emissions controls, but will Click and Clack Condone this Catalytic Conversion? Find out on this episode of the Best of Car Talk.",
+            "Yasmina knows that she has transgressed by letting the sleazy repair shop on her street rip out her car's emissions controls, but will Click and Clack Condone this Catalytic Conversion? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1207,7 +1207,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-10-05.mp3",
         title: "#2480: Hello, You're on Love Talk",
         description:
-            "October 5, 2024 • After roughly 20 years of trying(and mostly failing) to help folks with their car problems, Click and Clack decided it was time to diversify and give equally questionable relationship advice, too. How hard could it be? Find out on this special Valentine's Day 'Love Talk' edition of the Best of Car Talk.",
+            "After roughly 20 years of trying(and mostly failing) to help folks with their car problems, Click and Clack decided it was time to diversify and give equally questionable relationship advice, too. How hard could it be? Find out on this special Valentine's Day 'Love Talk' edition of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1222,7 +1222,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-10-08.mp3",
         title: "#2481: That Stupid Little Book!",
         description:
-            "October 8, 2024 • Rebecca is a recent college grad living at home and getting financial assistance from Dad who's only request is that she jot down absolutely every bit of data having to do with her car in what 'Becca calls a 'stupid little book'. You could cut the family tension with a torch, eh?! Should be fun on this episode of the Best of Car Talk.",
+            "Rebecca is a recent college grad living at home and getting financial assistance from Dad who's only request is that she jot down absolutely every bit of data having to do with her car in what 'Becca calls a 'stupid little book'. You could cut the family tension with a torch, eh?! Should be fun on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1237,7 +1237,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-10-12.mp3",
         title: "#2482: How Not to Run a Radio Show",
         description:
-            "October 12, 2024 • Apparently, erstwhile producer Doug Berman does more than nap at his desk all day. The evidence: What happens when he heads out of town for a while leaving the rest of us to figure out how this radio stuff works. Enjoy the mutiny on this week's episode of the Best of Car Talk.",
+            "Apparently, erstwhile producer Doug Berman does more than nap at his desk all day. The evidence: What happens when he heads out of town for a while leaving the rest of us to figure out how this radio stuff works. Enjoy the mutiny on this week's episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1252,7 +1252,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-10-15.mp3",
         title: "#2483: Undiplomatic Channels",
         description:
-            "October 15, 2024 • Mike from DC is at war with the Swedish embassy. Some diplomat's car has an alarm that goes off several nights a week for long stretches of time -a clear violation of the Geneva Convention's subsection on 'neighborliness'. What decidedly 'undiplomatic' solution will Click and Clack devise in order to end these nightly alarms while also avoiding an international incident? Find out on this episode of the Best of Car Talk.",
+            "Mike from DC is at war with the Swedish embassy. Some diplomat's car has an alarm that goes off several nights a week for long stretches of time -a clear violation of the Geneva Convention's subsection on 'neighborliness'. What decidedly 'undiplomatic' solution will Click and Clack devise in order to end these nightly alarms while also avoiding an international incident? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1267,7 +1267,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-10-19.mp3",
         title: "#2484: Blame the Car, Not the Driver",
         description:
-            "October 19, 2024 • In a curious case of car vs driver, Esther is convinced that her Mercury Sable is to blame for several recent speeding tickets she's received. Traffic court with the dis-honorable Click and Clack presiding on this episode of the Best of Car Talk.",
+            "In a curious case of car vs driver, Esther is convinced that her Mercury Sable is to blame for several recent speeding tickets she's received. Traffic court with the dis-honorable Click and Clack presiding on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1282,7 +1282,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-10-22.mp3",
         title: "#2485: Men Really Are from Mars After All",
         description:
-            "October 22, 2024 • Deb, Donna, Phil and Russell are waiting on hold for car advice, but Click and Clack just have to share a piece of further proof that Men and Women are truly creatures of different planets. All that and a new Puzzler on this episode of the Best of Car Talk.",
+            "Deb, Donna, Phil and Russell are waiting on hold for car advice, but Click and Clack just have to share a piece of further proof that Men and Women are truly creatures of different planets. All that and a new Puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1297,7 +1297,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-10-26.mp3",
         title: "#2486: Tire Afire",
         description:
-            "October 26, 2024 • Ann spent a winter day snowboarding in Oregon, but as she and her Saab tried to negotiate the mountain road home she smelled smoke and realized her tire was on fire. Being a risk taker, Ann kept driving. Apres ski with Click and Clack on this episode of The Best of Car Talk.",
+            "Ann spent a winter day snowboarding in Oregon, but as she and her Saab tried to negotiate the mountain road home she smelled smoke and realized her tire was on fire. Being a risk taker, Ann kept driving. Apres ski with Click and Clack on this episode of The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1312,7 +1312,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-10-29.mp3",
         title: "#2487: Leah Returns",
         description:
-            "October 29, 2024 • A while back, Leah wrote to Click and Clack despairing that while she was succeeding academically in college she had somehow lost her sense of joyful purpose. And, in a parent's worst nightmare, two mechanics who graduated college by the skin of their teeth commenced with the life advice. On this episode of the Best of Car Talk Leah checks in to tell us how she's doing.",
+            "A while back, Leah wrote to Click and Clack despairing that while she was succeeding academically in college she had somehow lost her sense of joyful purpose. And, in a parent's worst nightmare, two mechanics who graduated college by the skin of their teeth commenced with the life advice. On this episode of the Best of Car Talk Leah checks in to tell us how she's doing.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1327,7 +1327,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-11-02.mp3",
         title: "#2488: True Master Mechanics",
         description:
-            "November 2, 2024 • A true 'Master' mechanic is intimately familiar with the intricate workings of innumerable makes and models of cars, right? Yeah, but can they help Emma from Montana figure out which 'thingie' to put the blue liquid into? Let's all find out on this episode of the Best of Car Talk.",
+            "A true 'Master' mechanic is intimately familiar with the intricate workings of innumerable makes and models of cars, right? Yeah, but can they help Emma from Montana figure out which 'thingie' to put the blue liquid into? Let's all find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1342,7 +1342,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-11-05.mp3",
         title: "#2489: The Burper",
         description:
-            "November 5, 2024 • Calls about smells, burping and an incident at a topless bar on this all-too-typical edition of the Best of Car Talk.",
+            "Calls about smells, burping and an incident at a topless bar on this all-too-typical edition of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1357,7 +1357,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-11-09.mp3",
         title: "#2490: Yet Another Saab Story",
         description:
-            "November 9, 2024 • Nat was absolutely beaming as he proudly showed off his new Saab to his soon-to-be inlaws. Beaming that is right up to the moment that it started to roll downhill without a driver. Could Nat possibly have made a worse first impression? Find out on this episode of the Best of Car Talk.",
+            "Nat was absolutely beaming as he proudly showed off his new Saab to his soon-to-be inlaws. Beaming that is right up to the moment that it started to roll downhill without a driver. Could Nat possibly have made a worse first impression? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1372,7 +1372,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-11-12.mp3",
         title: "#2491: Whose Car Is It?",
         description:
-            "November 12, 2024 • Hannah is about to graduate from college and move in with her boyfriend. They will be sharing everything with the possible exception of his car. Should Hannah immediately assert herself and claim some right to use of his car, or should she play the long game here? Find out on this episode of the Best of Car Talk.",
+            "Hannah is about to graduate from college and move in with her boyfriend. They will be sharing everything with the possible exception of his car. Should Hannah immediately assert herself and claim some right to use of his car, or should she play the long game here? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1387,7 +1387,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-11-16.mp3",
         title: "#2492: A Car for the Zombie Apocalypse",
         description:
-            "November 16, 2024 • We've noticed that Consumer Reports doesn't have a category for choosing the best vehicle for the upcoming zombie apocalypse. Find out what all the best zombies will be driving on this episode of the Best of Car Talk.",
+            "We've noticed that Consumer Reports doesn't have a category for choosing the best vehicle for the upcoming zombie apocalypse. Find out what all the best zombies will be driving on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1402,7 +1402,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-11-19.mp3",
         title: "#2493: You're Lyin' Pookie!",
         description:
-            "November 19, 2024 • Theresa's husband is from jolly old England and he's insisting that they buy an expensive Land Rover for their move from Dallas to Ohio. Click and Clack suss it out on this episode of the Best of Car Talk.",
+            "Theresa's husband is from jolly old England and he's insisting that they buy an expensive Land Rover for their move from Dallas to Ohio. Click and Clack suss it out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1417,7 +1417,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-11-23.mp3",
         title: "#2494: Anyone Want to Buy a Box of Cigars?",
         description:
-            "November 23, 2024 • It's a family affair on this episode of the Best of Car Talk. It all starts when Click and Clack's mother, Lizzie, bends their ears about smoking too many cigars, and it doesn't end until their sister, Luba, gives each of them a well-earned dope slap, too.",
+            "It's a family affair on this episode of the Best of Car Talk. It all starts when Click and Clack's mother, Lizzie, bends their ears about smoking too many cigars, and it doesn't end until their sister, Luba, gives each of them a well-earned dope slap, too.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1432,7 +1432,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-11-26.mp3",
         title: "#2495: Drive Thru Auto Repair",
         description:
-            "November 26, 2024 • Is there anything more depressing than the customer waiting room at your local repair shop? Well, Sarah has found a repair place that will fix her Nissan while she waits -in her car! The view from the top of the auto lift on this episode of the Best of Car Talk.",
+            "Is there anything more depressing than the customer waiting room at your local repair shop? Well, Sarah has found a repair place that will fix her Nissan while she waits -in her car! The view from the top of the auto lift on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1447,7 +1447,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-11-30.mp3",
         title: "#2496: Do it but Do it Right, OK?",
         description:
-            "November 30, 2024 • Therese wants to know if her kids ruined their car by sticking sidewalk chalk up into the tailpipe. Click and Clack chide the kids for not knowing how to properly plug up a car's exhaust to make it inoperable. We're nurturing the next generation of juvenile dlinquents on this episode of the Best of Car Talk.",
+            "Therese wants to know if her kids ruined their car by sticking sidewalk chalk up into the tailpipe. Click and Clack chide the kids for not knowing how to properly plug up a car's exhaust to make it inoperable. We're nurturing the next generation of juvenile dlinquents on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1462,7 +1462,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-12-03.mp3",
         title: "#2497: The Secret Male Handshake",
         description:
-            "December 3, 2024 • When Pam went to pick up her car at the dealership the guys at the service counter seemed to leap to her husband's defense when she suggested that he had wrecked her car. Is there a secret society of men and cars? Find out on this episode of the Best of Car Talk",
+            "When Pam went to pick up her car at the dealership the guys at the service counter seemed to leap to her husband's defense when she suggested that he had wrecked her car. Is there a secret society of men and cars? Find out on this episode of the Best of Car Talk",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1477,7 +1477,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-12-07.mp3",
         title: "#2498: Hi Dad!",
         description:
-            "December 7, 2024 • Christy melted the engine in her Dad's car years ago when she was a new driver. It's been gnawing at her all these years that she never came clean about it. Click and Clack mediate on this episode of the Best of Car Talk.",
+            "Christy melted the engine in her Dad's car years ago when she was a new driver. It's been gnawing at her all these years that she never came clean about it. Click and Clack mediate on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1492,7 +1492,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-12-10.mp3",
         title: "#2499: The Dent Doctors",
         description:
-            "December 10, 2024 • Linzee was watching in disbelief as the last hailstones bounced off her now-dimpled new car when a second plague of low-cost, mobile Dent Doctors swarmed into town promising a quick fix. Should she or shouldn't she? Find out on this episode of the Best of Car Talk.",
+            "Linzee was watching in disbelief as the last hailstones bounced off her now-dimpled new car when a second plague of low-cost, mobile Dent Doctors swarmed into town promising a quick fix. Should she or shouldn't she? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1507,7 +1507,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-12-14.mp3",
         title: "#24100: Bernsteining the Clutch",
         description:
-            "December 14, 2024 • Alexander's dad loved convertibles and dove them with style. Since dad was Leonard Bernstein does it really matter that he had it all wrong? Click and Clack take on a great American composer(and lose!) on this episode of the Best of Car Talk.",
+            "Alexander's dad loved convertibles and dove them with style. Since dad was Leonard Bernstein does it really matter that he had it all wrong? Click and Clack take on a great American composer(and lose!) on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1522,7 +1522,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-12-17.mp3",
         title: "#24101: Unwise Comparisons",
         description:
-            "December 17, 2024 • When you've been married as many times as Tommy has, spousal strife becomes a kind of 'lingua franca' in some helpful and some not so helpful ways. Evidence for the latter case on this episode of the Best of Car Talk.",
+            "When you've been married as many times as Tommy has, spousal strife becomes a kind of 'lingua franca' in some helpful and some not so helpful ways. Evidence for the latter case on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1537,7 +1537,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-12-21.mp3",
         title: "#24102: A Mechanic's Koan",
         description:
-            'December 21, 2024 • A koan is a paradoxical statement that tries to make sense of ambiguity. Sort of like, "The Best of Car Talk". Hear one of our favorite mechanics\' koan all the way from Alabama on this episode.',
+            'A koan is a paradoxical statement that tries to make sense of ambiguity. Sort of like, "The Best of Car Talk". Hear one of our favorite mechanics\' koan all the way from Alabama on this episode.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1552,7 +1552,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-12-24.mp3",
         title: "#24103: That's the Brakes, Jake",
         description:
-            "December 24, 2024 • Harvey from New Mexico was puzzled by a freeway sign he drove past that said something about a 'jake brake'. Who is this 'Jake' and why does he get a break? Find out on this episode of the Best of Car Talk.",
+            "Harvey from New Mexico was puzzled by a freeway sign he drove past that said something about a 'jake brake'. Who is this 'Jake' and why does he get a break? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1567,7 +1567,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-12-28.mp3",
         title: "#24104: To Porsche or Not to Porsche",
         description:
-            "December 28, 2024 • Are you a hopelessly romantic go-getter with a lot of cash to throw away on expensive car repairs? Then have we got a car for YOU on this episode of the Best of Car Talk.",
+            "Are you a hopelessly romantic go-getter with a lot of cash to throw away on expensive car repairs? Then have we got a car for YOU on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,
@@ -1582,7 +1582,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-12-31.mp3",
         title: "#24105: Mickey the Dunce",
         description:
-            "December 31, 2024 • Fortunately, when car trouble arises there are among us many who can avert automotive disaster by dint of their knowledge and decisive action. But what about those rare occasions when it isn't in your interest to fix something? Meet 'Mickey the Dunce' on this episode of the Best of Car Talk.",
+            "Fortunately, when car trouble arises there are among us many who can avert automotive disaster by dint of their knowledge and decisive action. But what about those rare occasions when it isn't in your interest to fix something? Meet 'Mickey the Dunce' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2024,

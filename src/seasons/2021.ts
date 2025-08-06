@@ -22,7 +22,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-01-02.mp3",
         title: "#2101: The Mustang Compost Bin",
         description:
-            "January 2, 2021 • This week on The Best of Car Talk, Mary loaded her Mustang's trunk with compost two months ago. Her husband says it's rotting the floor, but Mary wants to keep the compost all winter for ballast. One added wrinkle: Mary got the Mustang because her husband works for Ford—at least, for the time being. Elsewhere, Carla would love to escape from Alaska for a bit, but the fact that her truck will only drive backwards is making it difficult. Also, can Kathy figure out her Stratus's burnt popcorn smell without asphyxiating her sons? And is Justin's engine making noise, or is he just hearing people laughing a him for driving an old Beetle? All this, plus a plea for more civil Hate Mail, this week on the Best of Car Talk.",
+            "This week on The Best of Car Talk, Mary loaded her Mustang's trunk with compost two months ago. Her husband says it's rotting the floor, but Mary wants to keep the compost all winter for ballast. One added wrinkle: Mary got the Mustang because her husband works for Ford—at least, for the time being. Elsewhere, Carla would love to escape from Alaska for a bit, but the fact that her truck will only drive backwards is making it difficult. Also, can Kathy figure out her Stratus's burnt popcorn smell without asphyxiating her sons? And is Justin's engine making noise, or is he just hearing people laughing a him for driving an old Beetle? All this, plus a plea for more civil Hate Mail, this week on the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -37,7 +37,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-01-09.mp3",
         title: "#2102: The Roadmonster That Ate Cambridge",
         description:
-            "January 9, 2021 • This week on The Best of Car Talk, is Phil's Buick Roadmaster making noise because of a steering problem or because he needs to make 20-point turns to navigate the narrow streets of Our Fair City? Elsewhere, Fred doesn't know whether he should listen to his mechanic or his FSTB (Future Son-in-Law To Be) on how to start the Alfa that's been sitting in his garage for a year. Will siding with the mechanic doom Fred's daughter's marriage? Also, Steve's driver's window glare screen is now a stuck-in-the-door glare screen; Alison's Golf may be suffering from a \"cracked breather\" and \"achin' plugs\"; and is Judy's Escort sending smoke signals that it won't make it to the moon? All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, is Phil's Buick Roadmaster making noise because of a steering problem or because he needs to make 20-point turns to navigate the narrow streets of Our Fair City? Elsewhere, Fred doesn't know whether he should listen to his mechanic or his FSTB (Future Son-in-Law To Be) on how to start the Alfa that's been sitting in his garage for a year. Will siding with the mechanic doom Fred's daughter's marriage? Also, Steve's driver's window glare screen is now a stuck-in-the-door glare screen; Alison's Golf may be suffering from a \"cracked breather\" and \"achin' plugs\"; and is Judy's Escort sending smoke signals that it won't make it to the moon? All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -52,7 +52,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-01-16.mp3",
         title: "#2103: Acute Tirophobia",
         description:
-            "January 16, 2021 • This week on The Best of Car Talk, Peterson is afraid to put air in his tires. Is he doomed to depending on the kindness of strangers with pumps, or can Tom and Ray help cure him—or at least outfit him properly in case there is an explosion? Elsewhere, towing may be Dave's best option for transporting his beloved LeMans cross-country, because the car could fall off somewhere in Nebraska; Hanz can't decide if his wife's behavior at stoplights is utterly brilliant or utterly wacko; and Elizabeth may be asking too much from her Volvo. Is shutting down when she turns on the wipers really such a big deal? All this, plus a world record for parking in a small space and lots more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, Peterson is afraid to put air in his tires. Is he doomed to depending on the kindness of strangers with pumps, or can Tom and Ray help cure him—or at least outfit him properly in case there is an explosion? Elsewhere, towing may be Dave's best option for transporting his beloved LeMans cross-country, because the car could fall off somewhere in Nebraska; Hanz can't decide if his wife's behavior at stoplights is utterly brilliant or utterly wacko; and Elizabeth may be asking too much from her Volvo. Is shutting down when she turns on the wipers really such a big deal? All this, plus a world record for parking in a small space and lots more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -67,7 +67,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-01-23.mp3",
         title: "#2104: Oh, Shut Up",
         description:
-            "January 23, 2021 • This week on The Best of Car Talk, might three simple words be Cathy's best response to her dealer's accusation that she was lax in changing her Camry's oil? Elsewhere, Martin's love for his Cadillac has him concerned that he might actually be older than his Dad; Tony is sleeping on the sofa after his failed attempt to fix his wife's starting problem; and Sarah can only enter her car through the trunk, since the doors are frozen shut. Also, does the ECS light in Ilsa's Subaru mean \"Expect Catastrophe Soon\"? All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, might three simple words be Cathy's best response to her dealer's accusation that she was lax in changing her Camry's oil? Elsewhere, Martin's love for his Cadillac has him concerned that he might actually be older than his Dad; Tony is sleeping on the sofa after his failed attempt to fix his wife's starting problem; and Sarah can only enter her car through the trunk, since the doors are frozen shut. Also, does the ECS light in Ilsa's Subaru mean \"Expect Catastrophe Soon\"? All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -82,7 +82,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-01-30.mp3",
         title: "#2105: They're All Jerks",
         description:
-            "January 30, 2021 • This week on The Best of Car Talk, Joyce's mild-mannered husband teaches meditation by day, but when he gets behind the wheel, he turns into a cross between Mario Andretti and Tony Soprano. Is it the car, the traffic, or does Joyce's husband have a dark side? Elsewhere, Andrew is concerned about his washer fluid lacking testosterone; Catherine has lived five years with a buzzing oil pressure indicator; and Aaron's Impala now takes off like it's dragging a ton of bricks. Also, Jim is worried he may be a Fire Starter, after his battery and muffle both exploded. All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, Joyce's mild-mannered husband teaches meditation by day, but when he gets behind the wheel, he turns into a cross between Mario Andretti and Tony Soprano. Is it the car, the traffic, or does Joyce's husband have a dark side? Elsewhere, Andrew is concerned about his washer fluid lacking testosterone; Catherine has lived five years with a buzzing oil pressure indicator; and Aaron's Impala now takes off like it's dragging a ton of bricks. Also, Jim is worried he may be a Fire Starter, after his battery and muffle both exploded. All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -97,7 +97,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-02-06.mp3",
         title: "#2106: Book This, Dad",
         description:
-            "February 6, 2021 • This week on the Best of Car Talk, how do you handle a slightly anal retentive dad who insists on keeping verrrry thorough car records? If you're Rebecca, you ignore Dad's beloved gas mileage book, tell Dad what you really think, and then call on Tom and Ray to try to get Dad to re-open his wallet. Elsewhere, should Carl try quieting his Rolls Royce by bending the door frame, or splurge for official Rolls duct tape? Also, Jane fears her mechanic may have purged her of $87 with a bogus repair; Ben's girlfriend thinks he needs to factor wind chill into warming up his Rabbit; and Tom and Ray ponder how one sign with two simple words could lead to a utopian society. All this and more, this week on The Best of Car Talk.",
+            "This week on the Best of Car Talk, how do you handle a slightly anal retentive dad who insists on keeping verrrry thorough car records? If you're Rebecca, you ignore Dad's beloved gas mileage book, tell Dad what you really think, and then call on Tom and Ray to try to get Dad to re-open his wallet. Elsewhere, should Carl try quieting his Rolls Royce by bending the door frame, or splurge for official Rolls duct tape? Also, Jane fears her mechanic may have purged her of $87 with a bogus repair; Ben's girlfriend thinks he needs to factor wind chill into warming up his Rabbit; and Tom and Ray ponder how one sign with two simple words could lead to a utopian society. All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -112,7 +112,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-02-13.mp3",
         title: "#2107: My Tire Passed Me",
         description:
-            "February 13, 2021 • You've no doubt heard Tom and Ray warn callers about the danger of wheels falling off their cars. Well, this week on The Best of Car Talk, Mike's wheel fell off—twice! Happily, he lived to tell the tale. Can Tom and Ray help prevent Strike Three? Elsewhere, Carl's daughter drove from Boston to Colorado, and swears her truck added gas along the way; Father John has decided to splurge on a Miata, and doesn't know if he'll get the best deal with his clerical collar on or off; and on Stump the Chumps, we find out if Alison's starting problem was really caused by a cracked breather, or if her mechanic had a cracked skull. Also, could listening to Car Talk really be good for your health? (Aside from the migraines and waves of nausea). All this and more this week on The Best of Car Talk.",
+            "You've no doubt heard Tom and Ray warn callers about the danger of wheels falling off their cars. Well, this week on The Best of Car Talk, Mike's wheel fell off—twice! Happily, he lived to tell the tale. Can Tom and Ray help prevent Strike Three? Elsewhere, Carl's daughter drove from Boston to Colorado, and swears her truck added gas along the way; Father John has decided to splurge on a Miata, and doesn't know if he'll get the best deal with his clerical collar on or off; and on Stump the Chumps, we find out if Alison's starting problem was really caused by a cracked breather, or if her mechanic had a cracked skull. Also, could listening to Car Talk really be good for your health? (Aside from the migraines and waves of nausea). All this and more this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -127,7 +127,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-02-20.mp3",
         title: "#2108: Book This, Rebecca",
         description:
-            "February 20, 2021 • Remember Rebecca from a few weeks ago, whose anal retentive dad insisted she keep detailed records of her gas mileage in his book? This week, Dad has his say. Topher explains the book's origins in a Datsun 510, and what it will take for Rebecca to free herself from book duty. Elsewhere, Scott may have to decide whether he wants to be right or be happy, as he and his wife disagree on how to use their truck's 4-wheel drive; Art's wife drove home from an oil change missing one small ingredient—the oil; and Judy's getting good at holding up her car's hatchback with her head, but would like to get it to stay up on its own. And, what happens when a computer traffic model tries to understand Boston drivers? All this and lots more, this week on The Best of Car Talk.",
+            "Remember Rebecca from a few weeks ago, whose anal retentive dad insisted she keep detailed records of her gas mileage in his book? This week, Dad has his say. Topher explains the book's origins in a Datsun 510, and what it will take for Rebecca to free herself from book duty. Elsewhere, Scott may have to decide whether he wants to be right or be happy, as he and his wife disagree on how to use their truck's 4-wheel drive; Art's wife drove home from an oil change missing one small ingredient—the oil; and Judy's getting good at holding up her car's hatchback with her head, but would like to get it to stay up on its own. And, what happens when a computer traffic model tries to understand Boston drivers? All this and lots more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -142,7 +142,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-02-27.mp3",
         title: "#2109: The Roof Snow Theory",
         description:
-            "February 27, 2021 • We kick off with a proposal that could revolutionize snow measurement, if it wasn't completely bogus. Later, the bogosity continues as Tom and Ray try to explain why Anne's dashboard gauges all stopped working after she filled up her gas tank at a Shell station—twice! Also, Kay's 38 year old daughter left mom's Explorer running all night, and Kay's wondering if she needs to blow out the car's engine or the cobwebs in her daughter's brain; 14-year old Matthew's struggles to wash his parents' car could be a valuable life lesson in how to get out of doing chores forever; and will Rush ever be able to get the smell of rancid butter out of his Land Rover? All this and more, this week on the Best of Car Talk.",
+            "We kick off with a proposal that could revolutionize snow measurement, if it wasn't completely bogus. Later, the bogosity continues as Tom and Ray try to explain why Anne's dashboard gauges all stopped working after she filled up her gas tank at a Shell station—twice! Also, Kay's 38 year old daughter left mom's Explorer running all night, and Kay's wondering if she needs to blow out the car's engine or the cobwebs in her daughter's brain; 14-year old Matthew's struggles to wash his parents' car could be a valuable life lesson in how to get out of doing chores forever; and will Rush ever be able to get the smell of rancid butter out of his Land Rover? All this and more, this week on the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -157,7 +157,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-03-06.mp3",
         title: "#2110: The Evil Twin",
         description:
-            'March 6, 2021 • This week on the Best of Car Talk, Stella bought matching Monteros for her kids but dumped one because it spent more time in the shop than on the road. Should she be worried about the second Montero? Who better to weigh the chances there\'s one good brother and one evil brother than Tom and Ray? Elsewhere, Heather has taken to calling her Jeep "Clunking Matilda"; Abe has an idea to navigate traffic in Our Fair City that may get him to work faster (but with a fat lip); and can Anne risk one more road trip in her overheating Subaru before it blows up? All this, plus a round of Stump the Chumps and more, this week on The Best of Car Talk.',
+            'This week on the Best of Car Talk, Stella bought matching Monteros for her kids but dumped one because it spent more time in the shop than on the road. Should she be worried about the second Montero? Who better to weigh the chances there\'s one good brother and one evil brother than Tom and Ray? Elsewhere, Heather has taken to calling her Jeep "Clunking Matilda"; Abe has an idea to navigate traffic in Our Fair City that may get him to work faster (but with a fat lip); and can Anne risk one more road trip in her overheating Subaru before it blows up? All this, plus a round of Stump the Chumps and more, this week on The Best of Car Talk.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -172,7 +172,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-03-13.mp3",
         title: "#2111: Miles Per Mothball",
         description:
-            "March 13, 2021 • This week on The Best of Car Talk, Jim thought he had a disaster on his hands after he left his gas cap off during a rain storm, but his pal came to the rescue by pouring mothballs into the gas tank. Can Tom and Ray give any explanation for why the mothballs got Jim's truck running? Meanwhile, Ray's got a theory about Heather's Jeep's popping noise that may win points for creativity and bogosity. Also, Patrick hopes the guys can help him design the perfect soapbox derby car; Ann needs assurance that putting a new engine in her beloved Fuego isn't the most ridiculous idea ever; and has one of our listeners identified the true scent of a man? All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, Jim thought he had a disaster on his hands after he left his gas cap off during a rain storm, but his pal came to the rescue by pouring mothballs into the gas tank. Can Tom and Ray give any explanation for why the mothballs got Jim's truck running? Meanwhile, Ray's got a theory about Heather's Jeep's popping noise that may win points for creativity and bogosity. Also, Patrick hopes the guys can help him design the perfect soapbox derby car; Ann needs assurance that putting a new engine in her beloved Fuego isn't the most ridiculous idea ever; and has one of our listeners identified the true scent of a man? All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -187,7 +187,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-03-20.mp3",
         title: "#2112: Love and an Automotive Weenie",
         description:
-            "March 20, 2021 • This week on The Best of Car Talk, Darlene loves her husband but his ignorance about cars has left her at the mercy of a mechanic she doesn't know if she can trust. Meanwhile, Susan may need to to dump her boyfriend before his \"lazy shifting\" croaks her Miata. Also, Richard is planning a road trip in a '64 Dodge Dart and wants to know what spare parts he should bring along--although he might do better with a spare car; Dick's van needs a new alternator every time the seasons change; and, will Tom and Ray actually give helpful advice to a used car salesman? Find out, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, Darlene loves her husband but his ignorance about cars has left her at the mercy of a mechanic she doesn't know if she can trust. Meanwhile, Susan may need to to dump her boyfriend before his \"lazy shifting\" croaks her Miata. Also, Richard is planning a road trip in a '64 Dodge Dart and wants to know what spare parts he should bring along--although he might do better with a spare car; Dick's van needs a new alternator every time the seasons change; and, will Tom and Ray actually give helpful advice to a used car salesman? Find out, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -202,7 +202,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-03-27.mp3",
         title: "#2113: Nature Vs Nurture",
         description:
-            "March 27, 2021 • This week on The Best of Car Talk, if Art passes his AMC Concord onto his 16-year-old son, is he setting the kid on a life path of collecting junk cars? In other words, Art wants to know what Tommy's first car was. And worse, would the Concord doom his son to no social life? Elsewhere, James is about to relocate to Haiti, but needs a car with high ground clearance. His Honda Civic may not fit that description. Also, Wendy's husband is fogging up her car; Troy's VW sounds \"satanic\" at 1500 RPM, and Mary Rawson's friend offered to fix her brakes, but wants to be more than just friends. If she stops his advances, can she expect her car to stop? All this, plus the bright side of an expensive diagnosis, and lots more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, if Art passes his AMC Concord onto his 16-year-old son, is he setting the kid on a life path of collecting junk cars? In other words, Art wants to know what Tommy's first car was. And worse, would the Concord doom his son to no social life? Elsewhere, James is about to relocate to Haiti, but needs a car with high ground clearance. His Honda Civic may not fit that description. Also, Wendy's husband is fogging up her car; Troy's VW sounds \"satanic\" at 1500 RPM, and Mary Rawson's friend offered to fix her brakes, but wants to be more than just friends. If she stops his advances, can she expect her car to stop? All this, plus the bright side of an expensive diagnosis, and lots more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -217,7 +217,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-04-03.mp3",
         title: "#2114: Click and Clack Defined",
         description:
-            "April 3, 2021 • This week on The Best of Car Talk, Merriam-Webster helps answer the second most-asked question in Car Talk history: which brother is \"Click\" and which is \"Clack.\" Unfortunately, they can't the answer the most-asked question: How did these jerks get on the radio in the first place? Elsewhere, Lee's mechanic told him he has a cracked \"whoop tube,\" which may or may not refer to Lee's Town Car; a wayward binky has Marietta's driver's seat stuck in a bad spot; and traveling musician Valerie can't decide whether to dump the Dodge van that tows her trailer in favor of a Cadillac—sounds like a no-brainer to us! Also, on Stump the Chumps, we find out if Wendy used the snorkel test to figure out why her husband is fogging up her car. All this and more, this week on the Best of Car Talk.",
+            "This week on The Best of Car Talk, Merriam-Webster helps answer the second most-asked question in Car Talk history: which brother is \"Click\" and which is \"Clack.\" Unfortunately, they can't the answer the most-asked question: How did these jerks get on the radio in the first place? Elsewhere, Lee's mechanic told him he has a cracked \"whoop tube,\" which may or may not refer to Lee's Town Car; a wayward binky has Marietta's driver's seat stuck in a bad spot; and traveling musician Valerie can't decide whether to dump the Dodge van that tows her trailer in favor of a Cadillac—sounds like a no-brainer to us! Also, on Stump the Chumps, we find out if Wendy used the snorkel test to figure out why her husband is fogging up her car. All this and more, this week on the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -232,7 +232,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-04-10.mp3",
         title: "#2115: The Floral Belvedere",
         description:
-            "April 10, 2021 • This week on The Best of Car Talk, Chris has flowers growing in his Belvedere, after birdseed got into his fresh air vent. To make matters worse, a kid stuffed chunks of blue cheese in the vents, so the car is stinky, too. Elsewhere, good intentions go really bad when Todd buys his girlfriend a 1973 Ford LTD, on the premise it would be safe and easy to work on. The car's loud backfire has led to one dead cat, several deceased goldfish, and one very strained relationship. Also, Andy wants to know if electronic gizmos can improve his Suburban's gas mileage to, say, 5 miles per gallon; and Dari wants to know if her truck is safe to drive, or sell, after falling off a lift. If she decides to sell, does she need to mention it?",
+            "This week on The Best of Car Talk, Chris has flowers growing in his Belvedere, after birdseed got into his fresh air vent. To make matters worse, a kid stuffed chunks of blue cheese in the vents, so the car is stinky, too. Elsewhere, good intentions go really bad when Todd buys his girlfriend a 1973 Ford LTD, on the premise it would be safe and easy to work on. The car's loud backfire has led to one dead cat, several deceased goldfish, and one very strained relationship. Also, Andy wants to know if electronic gizmos can improve his Suburban's gas mileage to, say, 5 miles per gallon; and Dari wants to know if her truck is safe to drive, or sell, after falling off a lift. If she decides to sell, does she need to mention it?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -247,7 +247,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-04-17.mp3",
         title: "#2116: Alas, Poor Wobble Butt",
         description:
-            "April 17, 2021 • This week on the Best of Car Talk, Laurie's Pathfinder earned the unfortunate nickname \"Wobble Butt\" because its rear end rocks from side to side. Can Tom and Ray calm Wobble Butt down and save it from further embarrassment? Elsewhere, Bob wants to know just how wacko his brother in law is for proposing adding duct work to improve the heat in Bob's mom's car. Also, Ellen's dad scolded her for having too many keys on her key ring; Chris got a little aggressive with his Dremel tool on his Camry; and Ray shares the joys (and terrors) of teaching middle school, while trying to help Susannah strengthen her anemic windshield wiper squirt. All this and more, this week on The Best of Car Talk.",
+            "This week on the Best of Car Talk, Laurie's Pathfinder earned the unfortunate nickname \"Wobble Butt\" because its rear end rocks from side to side. Can Tom and Ray calm Wobble Butt down and save it from further embarrassment? Elsewhere, Bob wants to know just how wacko his brother in law is for proposing adding duct work to improve the heat in Bob's mom's car. Also, Ellen's dad scolded her for having too many keys on her key ring; Chris got a little aggressive with his Dremel tool on his Camry; and Ray shares the joys (and terrors) of teaching middle school, while trying to help Susannah strengthen her anemic windshield wiper squirt. All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -262,7 +262,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-04-24.mp3",
         title: "#2117: Inter-Species Communication",
         description:
-            "April 24, 2021 • This week on the Best of Car Talk, thanks to modern research we can decipher what your mechanic is trying to tell you through his grunts. Meanwhile, Liz can only communicate her Volvo's steering problem through song. Elsewhere, Marni wants to pay tribute to her departed dad by pouring some of his ashes into his beloved Corvette's gas tank; Su (yes, that's how she spells it) wants to use a hair dryer to straighten her dented fender; and is the whirring noise Eric is hearing the death-bed cry of his Saab's turbo? Also, advice for Noah who's \"going away\" for a year, and wants his van to start when he gets back. All this and more, this week on The Best of Car Talk.",
+            "This week on the Best of Car Talk, thanks to modern research we can decipher what your mechanic is trying to tell you through his grunts. Meanwhile, Liz can only communicate her Volvo's steering problem through song. Elsewhere, Marni wants to pay tribute to her departed dad by pouring some of his ashes into his beloved Corvette's gas tank; Su (yes, that's how she spells it) wants to use a hair dryer to straighten her dented fender; and is the whirring noise Eric is hearing the death-bed cry of his Saab's turbo? Also, advice for Noah who's \"going away\" for a year, and wants his van to start when he gets back. All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -277,7 +277,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-05-01.mp3",
         title: "#2118: The Rhinestone Sundance",
         description:
-            "May 1, 2021 • This week on the Best of Car Talk, Savannah wants to decorate her Plymouth Sundance with rhinestones because, well, they couldn't make it look worse, could they? Is she going to appear even more wacko by asking Tom and Ray for advice? Elsewhere, Peter may wish that the whining sound coming from his car is his mother-in-law after he finds out what it's going to cost to make it go away; over in Germany, Steve is wondering whether his Tracer can survive keeping up with the BMWs going 100 on the Autobahn; and Richard is so desperate to find out why his cab has vapor lock, he's willing to kick out a passenger so he can talk to Tom and Ray. All this, plus one listener's fond Puzzler memory, and lots more, this week on The Best of Car Talk.",
+            "This week on the Best of Car Talk, Savannah wants to decorate her Plymouth Sundance with rhinestones because, well, they couldn't make it look worse, could they? Is she going to appear even more wacko by asking Tom and Ray for advice? Elsewhere, Peter may wish that the whining sound coming from his car is his mother-in-law after he finds out what it's going to cost to make it go away; over in Germany, Steve is wondering whether his Tracer can survive keeping up with the BMWs going 100 on the Autobahn; and Richard is so desperate to find out why his cab has vapor lock, he's willing to kick out a passenger so he can talk to Tom and Ray. All this, plus one listener's fond Puzzler memory, and lots more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -292,7 +292,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-05-08.mp3",
         title: "#2119: The Scrape Theory",
         description:
-            "May 8, 2021 • You're driving down a long hill in San Francisco. Your brakes fail and there's a stop sign at the bottom. What do you do, aside from uttering every prayer in the book? This week on The Best of Car Talk, Tom and Ray offer two suggestions, one of which might actually help avoid a big hospital bill. Elsewhere, Robin loves her Tourismo, even though it needs more than $1000 worth of repairs and it's causing a family rift. Is it time for her to kiss it goodbye? Also, Alex thinks her boyfriend's technique may have led to the premature demise of his Jetta's shifter; Finley needs help convincing his friend to baptize his new truck by hauling some manure; and after losing a lot of money to the IRS, will Ruth have to lose even more to her mechanic because of her Achieva's coolant leak? All this, plus a round of Stump the Chumps, and more--this week on The Best of Car Talk.",
+            "You're driving down a long hill in San Francisco. Your brakes fail and there's a stop sign at the bottom. What do you do, aside from uttering every prayer in the book? This week on The Best of Car Talk, Tom and Ray offer two suggestions, one of which might actually help avoid a big hospital bill. Elsewhere, Robin loves her Tourismo, even though it needs more than $1000 worth of repairs and it's causing a family rift. Is it time for her to kiss it goodbye? Also, Alex thinks her boyfriend's technique may have led to the premature demise of his Jetta's shifter; Finley needs help convincing his friend to baptize his new truck by hauling some manure; and after losing a lot of money to the IRS, will Ruth have to lose even more to her mechanic because of her Achieva's coolant leak? All this, plus a round of Stump the Chumps, and more--this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -307,7 +307,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-05-15.mp3",
         title: "#2120: Garage Camping",
         description:
-            "May 15, 2021 • This week on The Best of Car Talk, is there a better Mother's Day gift than a kid helping his mom work on her car? Well, Anne might have done better with breakfast in bed. Her four-year-old son Matthew \"helped\" by pouring Ring Seal into her Jeep steering reservoir. Is next year's Mother's Day gift going to be a new car for Mom? Elsewhere, Bruce's tire is being attacked by air pressure goblins in the night; Ellen wants her Accord's door to stop squeaking so her new neighbors won't know how late she's getting home at night; and is it time for Steve to say goodbye to his beloved, wallet-draining Datsun or could it have a future life as a coffee table? All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, is there a better Mother's Day gift than a kid helping his mom work on her car? Well, Anne might have done better with breakfast in bed. Her four-year-old son Matthew \"helped\" by pouring Ring Seal into her Jeep steering reservoir. Is next year's Mother's Day gift going to be a new car for Mom? Elsewhere, Bruce's tire is being attacked by air pressure goblins in the night; Ellen wants her Accord's door to stop squeaking so her new neighbors won't know how late she's getting home at night; and is it time for Steve to say goodbye to his beloved, wallet-draining Datsun or could it have a future life as a coffee table? All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -322,7 +322,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-05-22.mp3",
         title: "#2121:All's Well in Endwell, NY",
         description:
-            "May 22, 2021 • Slackers of the world, unite! Ah, never mind, that's probably too much effort. But this week The Best of Car Talk pays tribute to those dedicated to avoiding the rat race. In matters automotive, Liz's husband really wants to celebrate the end of his medical residency by buying a used Porsche, but Liz is worried the repair bills will negate any salary increase he's about to receive; Julie is wondering if her Accord's electrical problems are related to the series of \"encounters\" (accidents) she's had; and Marc's gas mileage appeared to increase by 20 percent after he left the gas cap off. Should OPEC be worried? All this and more, this week on The Best of Car Talk.",
+            "Slackers of the world, unite! Ah, never mind, that's probably too much effort. But this week The Best of Car Talk pays tribute to those dedicated to avoiding the rat race. In matters automotive, Liz's husband really wants to celebrate the end of his medical residency by buying a used Porsche, but Liz is worried the repair bills will negate any salary increase he's about to receive; Julie is wondering if her Accord's electrical problems are related to the series of \"encounters\" (accidents) she's had; and Marc's gas mileage appeared to increase by 20 percent after he left the gas cap off. Should OPEC be worried? All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -337,7 +337,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-05-29.mp3",
         title: "#2122: Automotive Marital Wagering",
         description:
-            "May 29, 2021 • This week on The Best of Car Talk, Cynthia is so convinced her gas mileage improves when she gets her oil changed, she bet her boss 100 bucks. If she can't win on technical grounds, might Tommy the Philosopher King be able to bail her out? Elsewhere, Linda may be on firmer scientific footing by claiming her husband's \"wah-wah\" pedal driving style is doing more harm than good. Also, Joyce's hood won't open, and given the overall condition of her car, an air chisel might be the right tool; Scott is looking for eco-friendly windshield washer fluid, and on Stump the Chumps, we find out if Tom and Ray helped Laurie's Pathfinder lose its nickname, \"Wobble Butt\". All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, Cynthia is so convinced her gas mileage improves when she gets her oil changed, she bet her boss 100 bucks. If she can't win on technical grounds, might Tommy the Philosopher King be able to bail her out? Elsewhere, Linda may be on firmer scientific footing by claiming her husband's \"wah-wah\" pedal driving style is doing more harm than good. Also, Joyce's hood won't open, and given the overall condition of her car, an air chisel might be the right tool; Scott is looking for eco-friendly windshield washer fluid, and on Stump the Chumps, we find out if Tom and Ray helped Laurie's Pathfinder lose its nickname, \"Wobble Butt\". All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -352,7 +352,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-06-05.mp3",
         title: "#2123: But it Drives Pretty Good",
         description:
-            "June 5, 2021 • This week on The Best of Car Talk, Ellen's Civic has been in three crashes, vandalized nine times, and had a tree fall on it, all of which has somehow convinced Ellen the car is cursed. If she tries to sell it, does she have to divulge these mishaps? Elsewhere, Keller's Beetle is missing its front passenger floorboard. Will a \"found\" street sign and a friend with an oxyacetylene torch cover the hole, without a 911 call? Also, Peter's Jeep knows when he's in a hurry, and chooses those moments to not start; Sandra accidentally pumped five gallons of diesel into her Odyssey, and can Warren really live a happy life without a working oxygen sensor in his Camry? All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, Ellen's Civic has been in three crashes, vandalized nine times, and had a tree fall on it, all of which has somehow convinced Ellen the car is cursed. If she tries to sell it, does she have to divulge these mishaps? Elsewhere, Keller's Beetle is missing its front passenger floorboard. Will a \"found\" street sign and a friend with an oxyacetylene torch cover the hole, without a 911 call? Also, Peter's Jeep knows when he's in a hurry, and chooses those moments to not start; Sandra accidentally pumped five gallons of diesel into her Odyssey, and can Warren really live a happy life without a working oxygen sensor in his Camry? All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -367,7 +367,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-06-15.mp3",
         title: "#2124: Empathic Shared Meaning 101",
         description:
-            "June 15, 2021 • This week, The Best of Car Talk kicks off with some of our favorite Country song titles. Can anything top, \"I'd Rather Pass a Kidney Stone Than Another Night With You?\" Then it's off to Maui, where Jeff would be advised to stop bragging about the weather if he wants to find out why his brake pedal is sinking to the floor. Elsewhere, Inga is wondering which of her several mistakes caused her parked car to lurch down hill; Matt's brother talked him into a DIY timing belt change on his Acura, and a month later, the car still isn't running right; Bryan would like his vintage pickup truck to handle like a Dodge Viper; and can Stephanie's Corolla survive a cross-country trip? All this and more, this week on The Best of Car Talk.",
+            "This week, The Best of Car Talk kicks off with some of our favorite Country song titles. Can anything top, \"I'd Rather Pass a Kidney Stone Than Another Night With You?\" Then it's off to Maui, where Jeff would be advised to stop bragging about the weather if he wants to find out why his brake pedal is sinking to the floor. Elsewhere, Inga is wondering which of her several mistakes caused her parked car to lurch down hill; Matt's brother talked him into a DIY timing belt change on his Acura, and a month later, the car still isn't running right; Bryan would like his vintage pickup truck to handle like a Dodge Viper; and can Stephanie's Corolla survive a cross-country trip? All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -382,7 +382,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-06-19.mp3",
         title: "#2125: The Spark of a Bad Idea",
         description:
-            "June 19, 2021 • This week on The Best of Car Talk, Steve left a fresh turkey in his car for a week, and well, things don't smell so fresh anymore. Will any combination of soap, air freshener, and bad cologne get the stench out, or does Steve need to call Vinny the Torch? Elsewhere, Michael doesn't know if he should be worried about a couple of green spark plugs; Maggie's son has fallen in love with a hand-me-down Buick Regal that could kill him; and Linda is about to relocate from Ohio to the Virgin Islands. She wants to know if she should bring her Corolla. Tom and Ray want to know if Linda can fit them in her suitcase. All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, Steve left a fresh turkey in his car for a week, and well, things don't smell so fresh anymore. Will any combination of soap, air freshener, and bad cologne get the stench out, or does Steve need to call Vinny the Torch? Elsewhere, Michael doesn't know if he should be worried about a couple of green spark plugs; Maggie's son has fallen in love with a hand-me-down Buick Regal that could kill him; and Linda is about to relocate from Ohio to the Virgin Islands. She wants to know if she should bring her Corolla. Tom and Ray want to know if Linda can fit them in her suitcase. All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -397,7 +397,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-06-26.mp3",
         title: "#2126: The Secret Male Handshake",
         description:
-            "June 26, 2021 • This week on The Best of Car Talk, Katie's roommate's pseudo-scientific explanation for getting her Civic's door stuck on a sidewalk struck her as bogus, so she's turning to two pseudo-MIT grads. Can Tom and Ray separate truth from bogosity? Elsewhere, Tim and Pam need a ruling on whether his joyride on a washboard road crushed her Saturn's engine mounts. Also, can Gene's Corolla survive 100,000 miles with a leaking fuel pump and axle seal, and a dope slap reminder to check both daily; Flo's Mazda has bad universal joints or jockey shorts that are too tight; and after two years of driving with a wobbling rear wheel has Keller's luck run out? All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, Katie's roommate's pseudo-scientific explanation for getting her Civic's door stuck on a sidewalk struck her as bogus, so she's turning to two pseudo-MIT grads. Can Tom and Ray separate truth from bogosity? Elsewhere, Tim and Pam need a ruling on whether his joyride on a washboard road crushed her Saturn's engine mounts. Also, can Gene's Corolla survive 100,000 miles with a leaking fuel pump and axle seal, and a dope slap reminder to check both daily; Flo's Mazda has bad universal joints or jockey shorts that are too tight; and after two years of driving with a wobbling rear wheel has Keller's luck run out? All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -412,7 +412,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-07-03.mp3",
         title: "#2127: Perspicacity and the Sundance Kid",
         description:
-            "July 3, 2021 • This week on The Best of Car Talk, after years of ranting and raving about bad drivers, Tommy makes a shocking confession. What previously unthinkable driving sin did he commit, and why? Meanwhile, Tommy's erstwhile soulmate Rob drives like a tortoise in a land of rabbits and is looking for a visual cue to keep his fellow motorists' blood pressure down. Elsewhere, Sherry loves her new Town Car but can't fit a bike rack on it. Alas, her husband isn't wild about Sherry's proposed solution—a used stretch limo. Also, Joanne is trying to teach two teenagers to drive a stick shift without needing family counseling; Bert's 280z died on his way home from a successful wild boar hunt; and on Stump the Chumps, we find out if Rich still has to push his Passat into his garage to get it started. All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, after years of ranting and raving about bad drivers, Tommy makes a shocking confession. What previously unthinkable driving sin did he commit, and why? Meanwhile, Tommy's erstwhile soulmate Rob drives like a tortoise in a land of rabbits and is looking for a visual cue to keep his fellow motorists' blood pressure down. Elsewhere, Sherry loves her new Town Car but can't fit a bike rack on it. Alas, her husband isn't wild about Sherry's proposed solution—a used stretch limo. Also, Joanne is trying to teach two teenagers to drive a stick shift without needing family counseling; Bert's 280z died on his way home from a successful wild boar hunt; and on Stump the Chumps, we find out if Rich still has to push his Passat into his garage to get it started. All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -427,7 +427,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-07-10.mp3",
         title: "#2128: Geek Camp",
         description:
-            "July 10, 2021 • This week on the Best of Car Talk, got a pencil neck and an empty summer calendar? Tom and Ray are here for you, with the first (and probably last) Geek Week Summer Camp. Elsewhere, Shelly thinks she's killing a small animal when she turns her Subaru's steering wheel, because of the noise it makes. Might it actually be one of the gerbils powering its engine? Also, Steve's power steering needs a wake-up call for five minutes into his morning drive; Jackie's boyfriend's starting technique may not be hurting her truck, but is doing a number on her back; and on Stump the Chumps, we find out if Roy really had a stuck brake caliper or if Tommy is going to be dining on his hat. All this and more, this week on The Best of Car Talk.",
+            "This week on the Best of Car Talk, got a pencil neck and an empty summer calendar? Tom and Ray are here for you, with the first (and probably last) Geek Week Summer Camp. Elsewhere, Shelly thinks she's killing a small animal when she turns her Subaru's steering wheel, because of the noise it makes. Might it actually be one of the gerbils powering its engine? Also, Steve's power steering needs a wake-up call for five minutes into his morning drive; Jackie's boyfriend's starting technique may not be hurting her truck, but is doing a number on her back; and on Stump the Chumps, we find out if Roy really had a stuck brake caliper or if Tommy is going to be dining on his hat. All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -442,7 +442,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-07-17.mp3",
         title: "#2129: We Don't Recommend the Hot Wax",
         description:
-            "July 17, 2021 • This week on The Best of Car Talk, we've all been there. You're in the midst of a long drive when nature calls but doesn't provide a venue for you to answer that call. If the only urgent haircut option is a fast-food restaurant, are you obligated to buy something if you use the facility? Elsewhere, Heather took her Volvo to Helmut The Mechanic because her glove compartment was stuck. Three weeks and $3000 later, Heather now has a new fuel system and a Volvo that stalls. Did Helmut get a little overly ambitious? Also, Susan needs to store a vintage Mini; Dennis is wondering if the bungee cord holding his Corolla in gear can hang on for another 200,000 miles; and Karen is tired of old ladies passing her on hills while she's towing her horse trailer. All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, we've all been there. You're in the midst of a long drive when nature calls but doesn't provide a venue for you to answer that call. If the only urgent haircut option is a fast-food restaurant, are you obligated to buy something if you use the facility? Elsewhere, Heather took her Volvo to Helmut The Mechanic because her glove compartment was stuck. Three weeks and $3000 later, Heather now has a new fuel system and a Volvo that stalls. Did Helmut get a little overly ambitious? Also, Susan needs to store a vintage Mini; Dennis is wondering if the bungee cord holding his Corolla in gear can hang on for another 200,000 miles; and Karen is tired of old ladies passing her on hills while she's towing her horse trailer. All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -457,7 +457,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-07-24.mp3",
         title: "#2130: Til Death Do Us Park",
         description:
-            "July 24, 2021 • This week on The Best of Car Talk, Katherine's new job got off to a bumpy start (literally!), when she rear-ended her boss' shiny new car on her first day. Katherine has been eyeing a new car herself, but should she wait for her first performance review? Meanwhile, Elisa's parents say they'll buy her a new car if she marries her live-in boyfirend. Should she accept, or will she be opening the door to future car-motivated life events? Also, Spencer couldn't resist the urge to touch his lugnuts, and found them to hot handle; Brett gets a shock every time he gets out of his Camry; and what does your Oreo cookie strategy say about your pesonality? All this and more, this week on The Best of Car Talk.",
+            "This week on The Best of Car Talk, Katherine's new job got off to a bumpy start (literally!), when she rear-ended her boss' shiny new car on her first day. Katherine has been eyeing a new car herself, but should she wait for her first performance review? Meanwhile, Elisa's parents say they'll buy her a new car if she marries her live-in boyfirend. Should she accept, or will she be opening the door to future car-motivated life events? Also, Spencer couldn't resist the urge to touch his lugnuts, and found them to hot handle; Brett gets a shock every time he gets out of his Camry; and what does your Oreo cookie strategy say about your pesonality? All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -472,7 +472,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-07-31.mp3",
         title: "#2131: Adventures in Bogosity",
         description:
-            "July 31, 2021 • This week on the Best of Car Talk, Ray takes Male Answer Syndrome to a whole new level, trying to explain why Dave's keyless remote works better when Dave points it at his chin rather than the car. Is the Great Dispersion Theory utterly brilliant, or utterly booooogus? Elsewhere, Andy dropped a straw in his dad's Buick's gas tank, and somehow \"forgot\" to mention it. Now that dad's car is running lousy, does Andy need to 'fess up? Also, Doris may need to dump her mechanic after he sent her away with a pegged temperature gauge; and in a follow-up, we hear from Elisa's boyfriend Tracy and find out if he accepted her mom's offer of a new car if he popped the question. All this and more, this week on The Best of Car Talk",
+            "This week on the Best of Car Talk, Ray takes Male Answer Syndrome to a whole new level, trying to explain why Dave's keyless remote works better when Dave points it at his chin rather than the car. Is the Great Dispersion Theory utterly brilliant, or utterly booooogus? Elsewhere, Andy dropped a straw in his dad's Buick's gas tank, and somehow \"forgot\" to mention it. Now that dad's car is running lousy, does Andy need to 'fess up? Also, Doris may need to dump her mechanic after he sent her away with a pegged temperature gauge; and in a follow-up, we hear from Elisa's boyfriend Tracy and find out if he accepted her mom's offer of a new car if he popped the question. All this and more, this week on The Best of Car Talk",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -487,7 +487,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-08-07.mp3",
         title: "#2132: Choosing the Right Vehicle",
         description:
-            "August 7, 2021 • This week on The Best of Car Talk, Amanda is getting married in a few days, and has one last item on her To-Do list—convincing her fiancé to get rid of his truck. Should she just throw the keys instead of a bouquet? Elsewhere, Glen's wife is a parish priest in need of a new car, and a cure for her habit of driving 120 mph. Also, Karen learned why you should let sleeping cars lie after her perfect Civic started running lousy following a tune-up; Jerry's taillight is exploding every few weeks; and our on-call Physicist Wolfgang helps settle the great keyless remote dispersion debate. All this and more, this week on the Best of Car Talk.",
+            "This week on The Best of Car Talk, Amanda is getting married in a few days, and has one last item on her To-Do list—convincing her fiancé to get rid of his truck. Should she just throw the keys instead of a bouquet? Elsewhere, Glen's wife is a parish priest in need of a new car, and a cure for her habit of driving 120 mph. Also, Karen learned why you should let sleeping cars lie after her perfect Civic started running lousy following a tune-up; Jerry's taillight is exploding every few weeks; and our on-call Physicist Wolfgang helps settle the great keyless remote dispersion debate. All this and more, this week on the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -502,7 +502,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-08-14.mp3",
         title: "#2133: Joys of Family Car Trouble",
         description:
-            "August 14, 2021 • This week on The Best of Car Talk, Vern's sister-in-law's husband accused him of wrecking the engine in his Windstar by adding too much oil. On a scale of 1 to 10, how guilty should Vern feel? And does their tenuous connection on the family tree drive the guilt meter into negative numbers? Also, tales of VW Bugs: Maureen's caught on fire, and she's hoping for some encouragement that it won't happen again, while Wendy is wondering if the one she's been gifted by her parents can make it from Kansas to Washington. Also, a close call at Car Talk Plaza—how our Producer Dougie's laziness may have saved his life. All this and more, this week on The Best Car Talk.",
+            "This week on The Best of Car Talk, Vern's sister-in-law's husband accused him of wrecking the engine in his Windstar by adding too much oil. On a scale of 1 to 10, how guilty should Vern feel? And does their tenuous connection on the family tree drive the guilt meter into negative numbers? Also, tales of VW Bugs: Maureen's caught on fire, and she's hoping for some encouragement that it won't happen again, while Wendy is wondering if the one she's been gifted by her parents can make it from Kansas to Washington. Also, a close call at Car Talk Plaza—how our Producer Dougie's laziness may have saved his life. All this and more, this week on The Best Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -517,7 +517,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-08-21.mp3",
         title: "#2134: My Dog Still Hates You",
         description:
-            "August 21, 2021 • This week on the Best of Car Talk, we hear from Tom and Ray's all-time #1 nemesis, Melissa Peterson. Years after her first missive, Melissa wants to remind the guys that she (and her dog) still hate them, but would they mind giving her some potentially life saving advice? Elsewhere, Eric's horn started blaring in he middle of the night, and he resorted to a hammer to silence it. So now he's got a busted horn and still doesn't know what set it off. Also, Pat's Lumina is running out of gas with several gallons still in the tank; Farrah's VW is blowing hot air non-stop; and Suzi's Porsche has become a great conversation starter with her male colleagues, but she can't answer any questions to keep the conversation going. All this and more, this week on The Best of Car Talk.",
+            "This week on the Best of Car Talk, we hear from Tom and Ray's all-time #1 nemesis, Melissa Peterson. Years after her first missive, Melissa wants to remind the guys that she (and her dog) still hate them, but would they mind giving her some potentially life saving advice? Elsewhere, Eric's horn started blaring in he middle of the night, and he resorted to a hammer to silence it. So now he's got a busted horn and still doesn't know what set it off. Also, Pat's Lumina is running out of gas with several gallons still in the tank; Farrah's VW is blowing hot air non-stop; and Suzi's Porsche has become a great conversation starter with her male colleagues, but she can't answer any questions to keep the conversation going. All this and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -532,7 +532,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-08-28.mp3",
         title: "#2135: The Camaro Contretemps",
         description:
-            "August 28, 2021 • Who better than Tom and Ray to solve a dispute between two brothers over a vintage Camaro? Well, lots of people, actually. But Cynthia wasn't able to reach any of them, so this week on The Best of Car Talk, she'll hope our heroes can bring peace to Thanksgiving this year. Elsewhere, Virginia's Honda keeps getting stolen and returned. She's resorted to drastic measures to protect it, but would she be better off just leaving the car unlocked and engine running? Also, John's Corvette's engine is misfiring, but John's hesitant to go to the dealer since the miss only occurs above 140 mph; and why did Bill's attempt to replace a broken belt with his daughter's tights fail? All this, plus a few u",
+            "Who better than Tom and Ray to solve a dispute between two brothers over a vintage Camaro? Well, lots of people, actually. But Cynthia wasn't able to reach any of them, so this week on The Best of Car Talk, she'll hope our heroes can bring peace to Thanksgiving this year. Elsewhere, Virginia's Honda keeps getting stolen and returned. She's resorted to drastic measures to protect it, but would she be better off just leaving the car unlocked and engine running? Also, John's Corvette's engine is misfiring, but John's hesitant to go to the dealer since the miss only occurs above 140 mph; and why did Bill's attempt to replace a broken belt with his daughter's tights fail? All this, plus a few u",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -547,7 +547,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-09-04.mp3",
         title: "#2136: Thirty Four Years of Lousy Marital Advice",
         description:
-            "September 4, 2021 • Believe it or not, Car Talk is celebrating its 34th Anniversary on NPR. We know we should mark the occasion with a sincere apology for wasting all those hours, but instead, we're celebrating with a series of special shows featuring some of our all-time favorite calls. This week's theme: Relationships! Can lonely guy Chris use his car to meet a woman? Did Ellen really wreck her husband's Explorer by accidentally filling it with diesel? Should Doug buy a manual shift car so his messy wife can't drive it? Did Kim or her husband make the more foolish car purchase? And what happens to a radio show host who implies his wife looks like a truck? All this, and more great moments, this week on The Best of Car Talk.",
+            "Believe it or not, Car Talk is celebrating its 34th Anniversary on NPR. We know we should mark the occasion with a sincere apology for wasting all those hours, but instead, we're celebrating with a series of special shows featuring some of our all-time favorite calls. This week's theme: Relationships! Can lonely guy Chris use his car to meet a woman? Did Ellen really wreck her husband's Explorer by accidentally filling it with diesel? Should Doug buy a manual shift car so his messy wife can't drive it? Did Kim or her husband make the more foolish car purchase? And what happens to a radio show host who implies his wife looks like a truck? All this, and more great moments, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -562,7 +562,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-09-11.mp3",
         title: "#2137: Thirty Four Years of the North American Wacko",
         description:
-            'September 11, 2021 • This week, we continue celebrating (and apologizing for) Car Talk\'s 34th Anniversary on NPR, with some of our all-time favorite "out there" calls. Our roster includes space shuttle astronaut John, whose government vehicle had a slight hesitation problem at 17,000 miles per hour; Gail, the Most Wanted Tollbooth fugitive at the Betsy Ross Bridge; Dave from Bemidji, MN, whose road trip from Alaska included using a campfire grill to fix his catalytic converter; Will, whose old dog Moses "blew beets"; and the saga of one of our heroes, lawn chair pilot Larry Walters. All this and more, this week on The Best of Car Talk\'s Field Guide to the North American Wacko',
+            'This week, we continue celebrating (and apologizing for) Car Talk\'s 34th Anniversary on NPR, with some of our all-time favorite "out there" calls. Our roster includes space shuttle astronaut John, whose government vehicle had a slight hesitation problem at 17,000 miles per hour; Gail, the Most Wanted Tollbooth fugitive at the Betsy Ross Bridge; Dave from Bemidji, MN, whose road trip from Alaska included using a campfire grill to fix his catalytic converter; Will, whose old dog Moses "blew beets"; and the saga of one of our heroes, lawn chair pilot Larry Walters. All this and more, this week on The Best of Car Talk\'s Field Guide to the North American Wacko',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -577,7 +577,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-09-18.mp3",
         title: "#2138: Thirty Four Years of Listener Retaliation",
         description:
-            "September 18, 2021 • This week, Car Talk's month long 34th Anniversary Celebration/Apology continues, with an all-listener request show. We've got the Bosnian Vowel Drop, Arup Gupta, the original Melissa Peterson letter, Death Valley Dinesh, and the circumferentially challenged Daniel Pinkwater reading highlights from the BMW owner's manual. Also, Dana needs help removing a chunk of the Berlin Wall from a friend's trunk, and Christy decides it's time to 'fess up to her Dad about destroying his car 15 years ago. All this and more, on The Best of Car Talk.",
+            "This week, Car Talk's month long 34th Anniversary Celebration/Apology continues, with an all-listener request show. We've got the Bosnian Vowel Drop, Arup Gupta, the original Melissa Peterson letter, Death Valley Dinesh, and the circumferentially challenged Daniel Pinkwater reading highlights from the BMW owner's manual. Also, Dana needs help removing a chunk of the Berlin Wall from a friend's trunk, and Christy decides it's time to 'fess up to her Dad about destroying his car 15 years ago. All this and more, on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -592,7 +592,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-09-25.mp3",
         title: "#2139: Thirty Four Years of Wasting Perfectly Good Hours",
         description:
-            "September 25, 2021 • This week on Car Talk, we wrap up our 34th Anniversary celebration/apology, with our all-time favorite laughs. We've got the infamous electric brakes call and the philosophical breakthrough it inspired. Also, Tom's misadventures in the US Army; the ultimate Puzzler faux pas; an appearance by Tom and Ray's dear mother, Elizabeth; a tale that epitomizes Magliozzi brotherly devotion; and the saga of Richard, his goats, and Doris. All of this, plus some entries from the listener noises Hall of Fame, and more, this week on The Best of Car Talk.",
+            "This week on Car Talk, we wrap up our 34th Anniversary celebration/apology, with our all-time favorite laughs. We've got the infamous electric brakes call and the philosophical breakthrough it inspired. Also, Tom's misadventures in the US Army; the ultimate Puzzler faux pas; an appearance by Tom and Ray's dear mother, Elizabeth; a tale that epitomizes Magliozzi brotherly devotion; and the saga of Richard, his goats, and Doris. All of this, plus some entries from the listener noises Hall of Fame, and more, this week on The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -607,7 +607,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-10-02.mp3",
         title: "#2140: When Yugos Roamed the Earth",
         description:
-            "October 2, 2021 • This week's show starts a new/old chapter for Car Talk as we go back to the show's beginnings to try and figure out where such a simple concept -giving nice listeners useful car advice- went so horribly wrong. Turns out we can't blame this on the internet, but enjoy the laughs as the boys try to help Andy with his fair-weather Nissan and Nancy with her grounded T bird and Ellen attempts to 'out jalopy' Tommy in her search for a $2000 car. All this and a classic puzzler!",
+            "This week's show starts a new/old chapter for Car Talk as we go back to the show's beginnings to try and figure out where such a simple concept -giving nice listeners useful car advice- went so horribly wrong. Turns out we can't blame this on the internet, but enjoy the laughs as the boys try to help Andy with his fair-weather Nissan and Nancy with her grounded T bird and Ellen attempts to 'out jalopy' Tommy in her search for a $2000 car. All this and a classic puzzler!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -622,7 +622,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-10-05.mp3",
         title: "#2141: Greetings from the Bushings Institute",
         description:
-            "October 5, 2021 • The important think tanks tackle global peace, poverty and the really deep problems facing humanity. Tom and Ray's 'Bushings Institute' set their sites a bit lower: Where is Stacey's oil leak coming from?.. When is the right time to sell your Saab?.. and how can the boys settle the $100 bet between Sarah and her friend fairly and still take their standard 50% commission?",
+            "The important think tanks tackle global peace, poverty and the really deep problems facing humanity. Tom and Ray's 'Bushings Institute' set their sites a bit lower: Where is Stacey's oil leak coming from?.. When is the right time to sell your Saab?.. and how can the boys settle the $100 bet between Sarah and her friend fairly and still take their standard 50% commission?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -637,7 +637,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-10-09.mp3",
         title: "#2142: Weekend at Dougie's",
         description:
-            "October 9, 2021 • When the producer is away, our cats will play. The boys figured out where producer Doug Berman hides his spare housekey and spend this week's showtime raiding Dougie's fridge and torturing his cat inbetween calls. Shelly and her misbehaving clutch, Jennifer with her 'possessed' dashboard and Larry with his noisy Mercedes are all accomplices.",
+            "When the producer is away, our cats will play. The boys figured out where producer Doug Berman hides his spare housekey and spend this week's showtime raiding Dougie's fridge and torturing his cat inbetween calls. Shelly and her misbehaving clutch, Jennifer with her 'possessed' dashboard and Larry with his noisy Mercedes are all accomplices.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -652,7 +652,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-10-12.mp3",
         title: "#2143: Have You Lived a Good, Clean Life?",
         description:
-            "October 12, 2021 • Broadcasting again this time from their new think tank -The Bushings Institute, Tom and Ray advise Cynthia that the fate of her beloved 1980 Chevy Citation is inextricably linked up with her personal life choices. Jim's shaking VW, Eileen's Nissan and Dave's Subaru get more conventional- but equally entertaining- diagnoses.",
+            "Broadcasting again this time from their new think tank -The Bushings Institute, Tom and Ray advise Cynthia that the fate of her beloved 1980 Chevy Citation is inextricably linked up with her personal life choices. Jim's shaking VW, Eileen's Nissan and Dave's Subaru get more conventional- but equally entertaining- diagnoses.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -667,7 +667,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-10-16.mp3",
         title: "#2144: What Transmission Trouble?",
         description:
-            "October 16, 2021 • In today's show Click and Clack are confronted with two callers whose car's transmissions are in really bad shape but the boys tell them to do NOTHING! Now, why would they risk their good standing in the local mechanic's yachting club by turning down such potentially lucrative repairs? Could Ellen's starting problem or Tom's electrical issues be more labor-intensive goldmines? Doubt it. All this and a new puzzler, too!",
+            "In today's show Click and Clack are confronted with two callers whose car's transmissions are in really bad shape but the boys tell them to do NOTHING! Now, why would they risk their good standing in the local mechanic's yachting club by turning down such potentially lucrative repairs? Could Ellen's starting problem or Tom's electrical issues be more labor-intensive goldmines? Doubt it. All this and a new puzzler, too!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -682,7 +682,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-10-19.mp3",
         title: "#2145: To Form a More Imperfect Union",
         description:
-            "October 19, 2021 • Nothing succeeds like secession! Or at least that's the thinking as Tom and Ray plan for Car Talk Plaza's imminent secession(from what exactly, we're not sure). But the crazy car problems will of course emigrate to wherever they land. This week's beleagured citizens of Car-Talk-istan include John and his Chevy's 'woobie', Robin's stuck Rabbit and Mazz with her chirping transmission. All this and the new puzzler!",
+            "Nothing succeeds like secession! Or at least that's the thinking as Tom and Ray plan for Car Talk Plaza's imminent secession(from what exactly, we're not sure). But the crazy car problems will of course emigrate to wherever they land. This week's beleagured citizens of Car-Talk-istan include John and his Chevy's 'woobie', Robin's stuck Rabbit and Mazz with her chirping transmission. All this and the new puzzler!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -697,7 +697,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-10-23.mp3",
         title: "#2146: The Clink and Clunk Compendium of Car Noises",
         description:
-            "October 23, 2021 • You would think that two guys named after noises would know their rattles and shimmies pretty well, but Click and Clack spend much of this week's show consulting the Ford Motor Company Official List of Car Noises whenever they're stumped. Will this help Greg and his Dodge Pickup or Erin from Colorado get better diagnoses? Find out on this episode of the Best of Car Talk.",
+            "You would think that two guys named after noises would know their rattles and shimmies pretty well, but Click and Clack spend much of this week's show consulting the Ford Motor Company Official List of Car Noises whenever they're stumped. Will this help Greg and his Dodge Pickup or Erin from Colorado get better diagnoses? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -712,7 +712,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-10-26.mp3",
         title: "#2147: Diogenes Auto Repair",
         description:
-            "October 26, 2021 • Jeff, who has just moved to Pittsburgh, has a problem with his Toyota and Tom and Ray want him to make like the ancient Philosopher Diogenes and use the opportunity to test the honesty of the local mechanics. Shorter, but no less noble automotive quests have Kay hoping to preserve her Nissan's turbo and Richard attempting to unstick his Corvette's clutch. Will they all achieve auto-enlightenment? Check it out.",
+            "Jeff, who has just moved to Pittsburgh, has a problem with his Toyota and Tom and Ray want him to make like the ancient Philosopher Diogenes and use the opportunity to test the honesty of the local mechanics. Shorter, but no less noble automotive quests have Kay hoping to preserve her Nissan's turbo and Richard attempting to unstick his Corvette's clutch. Will they all achieve auto-enlightenment? Check it out.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -727,7 +727,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-10-30.mp3",
         title: "#2148: Whoop Whoop Whoop Goes the Pickup",
         description:
-            "October 30, 2021 • Whoop Whoop Whoop Goes the Pickup... pretty sure that's a nursery school rhyme but it's also what Gail's truck sounds like. The boys also try their hand with Dan's quieter pickup(won't start), Libby's Dodge Dartre and Lisa fr TX who has to visit the auto repair section of her local bed&bath store to try out Tommy's suggested repair. All this and the puzzler!",
+            "Whoop Whoop Whoop Goes the Pickup... pretty sure that's a nursery school rhyme but it's also what Gail's truck sounds like. The boys also try their hand with Dan's quieter pickup(won't start), Libby's Dodge Dartre and Lisa fr TX who has to visit the auto repair section of her local bed&bath store to try out Tommy's suggested repair. All this and the puzzler!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -742,7 +742,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-11-02.mp3",
         title: "#2149: Bugsy is Moonlighting",
         description:
-            "November 2, 2021 • On today's show our long-time technical editor John 'Bugsy' Lawlor is found to be providing a new definition for the term 'moonlighting'. After that revelation the boys get down to the main business at hand and try to help John figure out if he really needs to use his clutch, if Buck's Chrysler needs a 'turbectomy' and then Tommy surprises us with one of the show's more memorable puzzlers.",
+            "On today's show our long-time technical editor John 'Bugsy' Lawlor is found to be providing a new definition for the term 'moonlighting'. After that revelation the boys get down to the main business at hand and try to help John figure out if he really needs to use his clutch, if Buck's Chrysler needs a 'turbectomy' and then Tommy surprises us with one of the show's more memorable puzzlers.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -757,7 +757,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-11-06.mp3",
         title: "#2150: Hark, I Hear a Cannon!",
         description:
-            "November 6, 2021 • At the end of the New Puzzler each week Tommy has one line of exactly three words that he's responsible for, yet somehow it's too much for him sometimes. This was one of those weeks. Together, the boys have better luck with Clayton's Jaguar noise, E.G.'s self-steering Jeep and Ira's Acura.",
+            "At the end of the New Puzzler each week Tommy has one line of exactly three words that he's responsible for, yet somehow it's too much for him sometimes. This was one of those weeks. Together, the boys have better luck with Clayton's Jaguar noise, E.G.'s self-steering Jeep and Ira's Acura.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -772,7 +772,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-11-09.mp3",
         title: "#2151: Mothbalderdash",
         description:
-            "November 9, 2021 • Jim from Oklahoma was driving with his buddy through a torrential rain when his Nissan pickup stalled due to water in the fuel tank. Buddy walked off in the rain to the general store and came back with a miracle cure right off the shelf. Did it fix the problem? Or was the fix all-wet like Buddy? This and more on today's show!",
+            "Jim from Oklahoma was driving with his buddy through a torrential rain when his Nissan pickup stalled due to water in the fuel tank. Buddy walked off in the rain to the general store and came back with a miracle cure right off the shelf. Did it fix the problem? Or was the fix all-wet like Buddy? This and more on today's show!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -787,7 +787,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-11-13.mp3",
         title: "#2152: Oinga Boinga Boinga",
         description:
-            "November 13, 2021 • Today's show starts out with a listener communique from the future spelling out Click and Clack's fate, and it ends with the boys repeating the words, 'Oinga, Boinga, Boinga' like some lost explorers in an old B movie. In between, our time travelers help Dan with his foggy windshield, Nancy with her squeaky brakes and Rita with her soon to be ex' questionable car advice. And of course, a new puzzler!",
+            "Today's show starts out with a listener communique from the future spelling out Click and Clack's fate, and it ends with the boys repeating the words, 'Oinga, Boinga, Boinga' like some lost explorers in an old B movie. In between, our time travelers help Dan with his foggy windshield, Nancy with her squeaky brakes and Rita with her soon to be ex' questionable car advice. And of course, a new puzzler!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -802,7 +802,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-11-16.mp3",
         title: "#2153: Save the Skeets Foundation",
         description:
-            "November 16, 2021 • Somewhere between 'Save the Whales' and 'Save Our Planet' Click and Clack took up the cause of the endangered North American Skeet. Contrary to popular opinion, it was the desperate plight of these poor creatures who are bred in captivity for the sole purpose of blowing them to smithereens with shotguns that 'pulled' at Tom and Ray's heartstrings: Not the money-making potential to fleece unwitting listeners out of a few bucks. No, it definitely wasn't that. But just in case the SEC was listening the boys did take a few calls to keep up appearances.",
+            "Somewhere between 'Save the Whales' and 'Save Our Planet' Click and Clack took up the cause of the endangered North American Skeet. Contrary to popular opinion, it was the desperate plight of these poor creatures who are bred in captivity for the sole purpose of blowing them to smithereens with shotguns that 'pulled' at Tom and Ray's heartstrings: Not the money-making potential to fleece unwitting listeners out of a few bucks. No, it definitely wasn't that. But just in case the SEC was listening the boys did take a few calls to keep up appearances.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -817,7 +817,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-11-20.mp3",
         title: "#2154: Being Right vs Being Married",
         description:
-            "November 20, 2021 • After several wives, Tommy came to the realization that within the spousal universe you can either be right or you can stay married. So when Warren fr IL called looking for help in settling a disagreement between him and his wife, the advice about the car was secondary to keeping the relationship in proper tune. That high-wire act, more calls and a new puzzler all on today's show.",
+            "After several wives, Tommy came to the realization that within the spousal universe you can either be right or you can stay married. So when Warren fr IL called looking for help in settling a disagreement between him and his wife, the advice about the car was secondary to keeping the relationship in proper tune. That high-wire act, more calls and a new puzzler all on today's show.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -832,7 +832,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-11-23.mp3",
         title: "#2155: Shake Rattle and Roll",
         description:
-            "November 23, 2021 • As the boys near the date for their '3rd Annual Car Talk Sock Hop' Tamsen calls in from California with a VW Superbeetle that Shakes, Rattles and Rolls down the highway. Robin has a rotten exhaust, Debbie's Peugeot won't go, and Kirk wonders if the $19 alignments he's been getting regularly will eventually solve his Dodge's habit of heading for the ditch. All this and a new puzzler on today's show!",
+            "As the boys near the date for their '3rd Annual Car Talk Sock Hop' Tamsen calls in from California with a VW Superbeetle that Shakes, Rattles and Rolls down the highway. Robin has a rotten exhaust, Debbie's Peugeot won't go, and Kirk wonders if the $19 alignments he's been getting regularly will eventually solve his Dodge's habit of heading for the ditch. All this and a new puzzler on today's show!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -847,7 +847,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-11-27.mp3",
         title: "#2156: Son of Oinga Boinga Boinga",
         description:
-            "November 27, 2021 • On a recent show, the boys had to figure out what could possibly be the source of a car noise that went 'Oinga, Boinga, Boinga'. No sooner do listeners leap to their aid with the answer than they are then confronted once again with an odd and perplexing car noise courteousy of Karen fr CO. They also help Dayton fr AZ and Matt fr AL realize that speedometers and temperature gauges are helpful but hardly necessary auto accoutrements",
+            "On a recent show, the boys had to figure out what could possibly be the source of a car noise that went 'Oinga, Boinga, Boinga'. No sooner do listeners leap to their aid with the answer than they are then confronted once again with an odd and perplexing car noise courteousy of Karen fr CO. They also help Dayton fr AZ and Matt fr AL realize that speedometers and temperature gauges are helpful but hardly necessary auto accoutrements",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -862,7 +862,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-11-30.mp3",
         title: "#2157: Stop in the Name of Love",
         description:
-            "November 30, 2021 • Suzanne from San Diego always downshifts when coming to a traffic stop. Her husband David coasts in neutral with his foot on the brake. Will Tom and Ray declare one of them to be right and thus doom this marriage? Listen to today's show and find out.",
+            "Suzanne from San Diego always downshifts when coming to a traffic stop. Her husband David coasts in neutral with his foot on the brake. Will Tom and Ray declare one of them to be right and thus doom this marriage? Listen to today's show and find out.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -877,7 +877,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-12-04.mp3",
         title: "#2158: Donna Drives a Datsun?",
         description:
-            "December 4, 2021 • Back 'in the day' Click and Clack observed that there were many species of peculiar drivers around their 'fair city'. Older men wearing hats were feared only slightly less than young women named Donna who zipped along in their Firebirds or Camaros without a care or a turn signal. Today the boys meet a conscientious, Datsun-driving ,Philadelphian Donna who is pretty sure that her mechanic is soaking her for a second round of major engine work. Can they talk her into junking this car in favor of the new Z28, or do they have a new subspecies of Donna on their hands?",
+            "Back 'in the day' Click and Clack observed that there were many species of peculiar drivers around their 'fair city'. Older men wearing hats were feared only slightly less than young women named Donna who zipped along in their Firebirds or Camaros without a care or a turn signal. Today the boys meet a conscientious, Datsun-driving ,Philadelphian Donna who is pretty sure that her mechanic is soaking her for a second round of major engine work. Can they talk her into junking this car in favor of the new Z28, or do they have a new subspecies of Donna on their hands?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -892,7 +892,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-12-07.mp3",
         title: "#2159: Honey I Shrunk the Car",
         description:
-            "December 7, 2021 • Susan fr Florida has to put her beloved 1960 Austin Healey 'Bugeye' Sprite into storage for 3 years. According to Click and Clack there are two schools of thought on how to put a car into storage properly: The right way and my knucklehead brother's way. Will Susan get useful advice? Possibly. Will you be entertained? Probably.",
+            "Susan fr Florida has to put her beloved 1960 Austin Healey 'Bugeye' Sprite into storage for 3 years. According to Click and Clack there are two schools of thought on how to put a car into storage properly: The right way and my knucklehead brother's way. Will Susan get useful advice? Possibly. Will you be entertained? Probably.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -907,7 +907,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-12-11.mp3",
         title: "#2160: Two Losers Try to Pick a Winner",
         description:
-            "December 11, 2021 • To add excitement to the annual Car Talk Sock Hop listener party held at the Good News Garage, Tom and Ray run a contest that promises free airfare and accomodations to one lucky entrant. Pretty exciting, huh?! Well, not nearly as exciting as our two bozos trying to pick the contest winner out of the trunk of Tommy's '63 Dodge Dartre. Go figure!",
+            "To add excitement to the annual Car Talk Sock Hop listener party held at the Good News Garage, Tom and Ray run a contest that promises free airfare and accomodations to one lucky entrant. Pretty exciting, huh?! Well, not nearly as exciting as our two bozos trying to pick the contest winner out of the trunk of Tommy's '63 Dodge Dartre. Go figure!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -922,7 +922,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-12-14.mp3",
         title: "#2161: Picking the Best Post Divorce Car",
         description:
-            "December 14, 2021 • Any old car salesman can talk a young and enthusiastic car buyer into an appropriate new vehicle. It takes a special skill set -honed by many trips to one's divorce attorney- to help the soon-to-be-unwed find the right car with which to reenter singledom. Hear Tom, the master, along with his unwilling apprentice Ray, at work on today's show.",
+            "Any old car salesman can talk a young and enthusiastic car buyer into an appropriate new vehicle. It takes a special skill set -honed by many trips to one's divorce attorney- to help the soon-to-be-unwed find the right car with which to reenter singledom. Hear Tom, the master, along with his unwilling apprentice Ray, at work on today's show.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -937,7 +937,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-12-18.mp3",
         title: "#2162: Mid Life Crisis Car on a Budget",
         description:
-            "December 18, 2021 • Like a lot of middle-aged drivers, John from North Carolina wanted to cut loose and buy a cool car. But instead of reaching back to his youth for a 1960s muscle car he decided to settle for his idea of a contemporary mid-life crisis mobile: a Hyundai. How's that, John? This and more on today's Best of Car Talk!",
+            "Like a lot of middle-aged drivers, John from North Carolina wanted to cut loose and buy a cool car. But instead of reaching back to his youth for a 1960s muscle car he decided to settle for his idea of a contemporary mid-life crisis mobile: a Hyundai. How's that, John? This and more on today's Best of Car Talk!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -952,7 +952,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-12-21.mp3",
         title: "#2163: The VW Golf from Hell",
         description:
-            "December 21, 2021 • Elizabeth loves her VW Golf so much that she named it 'Miss Gilda'. Rather than love her back, 'Miss Gilda's' fusebox decided to burst into flames on a trip down the highway and ol' Gilda hasn't been right since. Is the problem the dealer who hasn't fixed the car after repeated attempts? Or does Elizabeth need to rename 'Miss Gilda' 'Chucky' and perform some sort of 'auto-exorcism'? This and more on today's Best of Car Talk.",
+            "Elizabeth loves her VW Golf so much that she named it 'Miss Gilda'. Rather than love her back, 'Miss Gilda's' fusebox decided to burst into flames on a trip down the highway and ol' Gilda hasn't been right since. Is the problem the dealer who hasn't fixed the car after repeated attempts? Or does Elizabeth need to rename 'Miss Gilda' 'Chucky' and perform some sort of 'auto-exorcism'? This and more on today's Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -967,7 +967,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-12-25.mp3",
         title: "#2164: Cross the USA in Your New Ford Festiva",
         description:
-            "December 25, 2021 • Katherine from Maine occasionally drives her Ford Festiva all the way to New Mexico for fun. The boys try to take her brake trouble seriously, nonetheless. Ditto Keith from Montana who swears that his Plymouth Horizon is trying to electrocute him, and Consuelo from Texas who wants us to believe that her Mercedes won't stay still after she parks it. All this and more on today's show!",
+            "Katherine from Maine occasionally drives her Ford Festiva all the way to New Mexico for fun. The boys try to take her brake trouble seriously, nonetheless. Ditto Keith from Montana who swears that his Plymouth Horizon is trying to electrocute him, and Consuelo from Texas who wants us to believe that her Mercedes won't stay still after she parks it. All this and more on today's show!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,
@@ -982,7 +982,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2021-12-28.mp3",
         title: "#2165: Hello You're on Bird Talk",
         description:
-            "December 28, 2021 • Most of us have had the displeasure of walking up to our car to find an industrial-sized, avian ordinance splattered across the door handle and into places we'll never get it completely out of, but only a select few of us has asked, \"Does it have to be so?\" This and other non-ornithological investigations on today's Best of Car Talk.",
+            "Most of us have had the displeasure of walking up to our car to find an industrial-sized, avian ordinance splattered across the door handle and into places we'll never get it completely out of, but only a select few of us has asked, \"Does it have to be so?\" This and other non-ornithological investigations on today's Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2021,

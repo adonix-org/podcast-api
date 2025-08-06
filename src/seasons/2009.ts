@@ -22,7 +22,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-01-03.mp3",
         title: "Car Talk 0901 January 3, 2009",
         description:
-            "January 3, 2009 • On this encore episode, could Summer be the cause of a bumpy ride in a 125,000 pound truck at McMurdo Station? Also, is it wise to let sleeping block heaters lie, should you look a gift remote starter in the mouth, and, the results of the First Car Talk Guy Car/Chick Car Survey.",
+            "On this encore episode, could Summer be the cause of a bumpy ride in a 125,000 pound truck at McMurdo Station? Also, is it wise to let sleeping block heaters lie, should you look a gift remote starter in the mouth, and, the results of the First Car Talk Guy Car/Chick Car Survey.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -37,7 +37,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-01-16.mp3",
         title: "Car Talk 0902 January 10, 2009",
         description:
-            'January 10, 2009 • Is Detroit desperate enough to take marketing advice from Tom and Ray? If so, the guys have a few ideas to help "move the metal". Also, a 35-minute Windy City warmup, a round of "ABS roulette", and a problem that\'s too serious for black tape... so bring on the spray paint! And, a new Puzzler from the Dark and Stormy Night series.',
+            'Is Detroit desperate enough to take marketing advice from Tom and Ray? If so, the guys have a few ideas to help "move the metal". Also, a 35-minute Windy City warmup, a round of "ABS roulette", and a problem that\'s too serious for black tape... so bring on the spray paint! And, a new Puzzler from the Dark and Stormy Night series.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -52,7 +52,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-01-17.mp3",
         title: "Car Talk 0903 January 17, 2009",
         description:
-            "January 17, 2009 • A few choice words from Groucho Marx. Also, a caller has more fun on Car Talk than we ever thought possible, can bad homemade wine be re-purposed as wiper fluid, and one man's electric car dream is his wife's nightmare. Also, the Puzzler commemorates the Presidential inauguration, Stump the Chumps, and lots more.",
+            "A few choice words from Groucho Marx. Also, a caller has more fun on Car Talk than we ever thought possible, can bad homemade wine be re-purposed as wiper fluid, and one man's electric car dream is his wife's nightmare. Also, the Puzzler commemorates the Presidential inauguration, Stump the Chumps, and lots more.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -67,7 +67,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-01-24.mp3",
         title: "Car Talk 0904 January 24, 2009",
         description:
-            "January 24, 2009 • A bad case of Male Answer Syndrome hits Rochester, New York. Can Tom and Ray help its victim/perpetrator, discreetly? Also, a family of cockroaches hitches a ride in an Accord, a Preacher may soon need to really pass the collection plate, and how can warm brownies help thaw a full tub of frozen wiper fluid?",
+            "A bad case of Male Answer Syndrome hits Rochester, New York. Can Tom and Ray help its victim/perpetrator, discreetly? Also, a family of cockroaches hitches a ride in an Accord, a Preacher may soon need to really pass the collection plate, and how can warm brownies help thaw a full tub of frozen wiper fluid?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -82,7 +82,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-01-31.mp3",
         title: "Car Talk 0905 January 31, 2009",
         description:
-            "January 31, 2009 • 18 years of hauling fish and 6-months as a bat hostel leave an Isuzu with an odor most foul. But, its owner's plan to de-stink it may be over the border into Wackoville. Also, a Cadillac engine threatens to run away from home, a dream car needs to stay away from cliffs and could the gas tank of the future be made of mahogany?",
+            "18 years of hauling fish and 6-months as a bat hostel leave an Isuzu with an odor most foul. But, its owner's plan to de-stink it may be over the border into Wackoville. Also, a Cadillac engine threatens to run away from home, a dream car needs to stay away from cliffs and could the gas tank of the future be made of mahogany?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -97,7 +97,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-02-07.mp3",
         title: "Car Talk 0906 February 7, 2009",
         description:
-            "February 7, 2009 • Is a Saab vs. Suzuki dispute a sign of things to come for a soon to be married couple? Also, how to handle a freshly-shoveled parking spot invader, a 3rd hand starting solution, and the damage done by dirty fingers.",
+            "Is a Saab vs. Suzuki dispute a sign of things to come for a soon to be married couple? Also, how to handle a freshly-shoveled parking spot invader, a 3rd hand starting solution, and the damage done by dirty fingers.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -112,7 +112,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-02-14.mp3",
         title: "Car Talk 0907 February 14, 2009",
         description:
-            'February 14, 2009 • The oft-maligned Car Talk Puzzler hits new poetic heights. Also, a Jeep owner regrets not choosing the "laundry package " option; how many bungee cords equal the cost of a brake job; how do you thaw a frozen convertible top; and, words of wisdom from...Steven Seagal?',
+            'The oft-maligned Car Talk Puzzler hits new poetic heights. Also, a Jeep owner regrets not choosing the "laundry package " option; how many bungee cords equal the cost of a brake job; how do you thaw a frozen convertible top; and, words of wisdom from...Steven Seagal?',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -127,7 +127,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-02-26.mp3",
         title: "Car Talk 0908 February 21, 2009",
         description:
-            'February 21, 2009 • Daniel Pinkwater\'s search for a car with "relaxed fit" comes to a happy end. Also, is some out-dated fatherly advice just an attempt to keep his daughter off the road? Plus, why one woman may be desperately seeking the most unethical mechanic in Pittsburgh, and, what life-saving words were uttered from the inky shadows of the dimly lit Quonset Hut?',
+            'Daniel Pinkwater\'s search for a car with "relaxed fit" comes to a happy end. Also, is some out-dated fatherly advice just an attempt to keep his daughter off the road? Plus, why one woman may be desperately seeking the most unethical mechanic in Pittsburgh, and, what life-saving words were uttered from the inky shadows of the dimly lit Quonset Hut?',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -142,7 +142,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-02-28.mp3",
         title: "Car Talk 0909 February 28, 2009",
         description:
-            'February 28, 2009 • A warm blanket can work wonders, but can it really take credit for starting a Subaru? Also, a game of Hide and Seek with a Ford Escort battery, does motor oil separate a la Paul Newman salad dressing, does a missing tailpipe count as a "necessary repair", and Ray\'s "near-hernia" experience becomes Puzzler fodder.',
+            'A warm blanket can work wonders, but can it really take credit for starting a Subaru? Also, a game of Hide and Seek with a Ford Escort battery, does motor oil separate a la Paul Newman salad dressing, does a missing tailpipe count as a "necessary repair", and Ray\'s "near-hernia" experience becomes Puzzler fodder.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -157,7 +157,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-03-07.mp3",
         title: "Car Talk 0910 March 7, 2009",
         description:
-            "March 7, 2009 • Formerly depressed student Lea checks in to explain why distance from Tom and Ray makes life a whole lot more enjoyable. Also, does a Rabbit diesel need an extra pair of Bronco Nagurskis, did Steve find the missing battery in his Escort, and, what's a mechanic to do when the car he's working on falls off the lift? Find out Ray's response, and lots more.",
+            "Formerly depressed student Lea checks in to explain why distance from Tom and Ray makes life a whole lot more enjoyable. Also, does a Rabbit diesel need an extra pair of Bronco Nagurskis, did Steve find the missing battery in his Escort, and, what's a mechanic to do when the car he's working on falls off the lift? Find out Ray's response, and lots more.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -172,7 +172,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-03-14.mp3",
         title: "Car Talk 0911 March 14, 2009",
         description:
-            "March 14, 2009 • Will duct tape and panty hose protect a Subaru from volcanic ash? Does a divorce agreement need to cover the mealworms that have taken residence in a Prius? Also, a quick Latin quiz for the Ides of March, a Jeep sings a sad, familiar song, and an Explorer owner may single-handedly be eliminating all the tricycles in her neighborhood.",
+            "Will duct tape and panty hose protect a Subaru from volcanic ash? Does a divorce agreement need to cover the mealworms that have taken residence in a Prius? Also, a quick Latin quiz for the Ides of March, a Jeep sings a sad, familiar song, and an Explorer owner may single-handedly be eliminating all the tricycles in her neighborhood.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -187,7 +187,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-03-21.mp3",
         title: "Car Talk 0912 March 21, 2009",
         description:
-            "March 21, 2009 • Title: Everything I Don't Know About Cars, I Learned from Car Talk For all you budding mechanics, a case study in why not to choose Tom and Ray as your mentors. Also, a Toyota owner worries her minivan's tailgate is trying to kill her, why a furniture trip ends with zero couches and two new tires, and we meet Brooklyn gas station attendants' Public Enemy Number 1.",
+            "Title: Everything I Don't Know About Cars, I Learned from Car Talk For all you budding mechanics, a case study in why not to choose Tom and Ray as your mentors. Also, a Toyota owner worries her minivan's tailgate is trying to kill her, why a furniture trip ends with zero couches and two new tires, and we meet Brooklyn gas station attendants' Public Enemy Number 1.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -202,7 +202,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-03-28.mp3",
         title: "Car Talk 0913 March 28, 2009",
         description:
-            'March 28, 2009 • A hair-singeing tale that goes beyond Tommy dropping a lit cigarette in his lap. Also, the solution to a stuck key is--yoga? Plus, why the movie classic "Gaslight" may be to blame for poor tire pressure, and on Stump the Chumps, one caller plus two problems equals a sweep, a split, or a double drubbing?',
+            'A hair-singeing tale that goes beyond Tommy dropping a lit cigarette in his lap. Also, the solution to a stuck key is--yoga? Plus, why the movie classic "Gaslight" may be to blame for poor tire pressure, and on Stump the Chumps, one caller plus two problems equals a sweep, a split, or a double drubbing?',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -217,7 +217,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-04-04.mp3",
         title: "Car Talk 0914 April 4, 2009",
         description:
-            "April 4, 2009 • On Stump the Chumps, we find out whether Bill and his Subaru survived Mount Redoubt's eruptions. Also, a spoon prank goes awry in a Grand Am, another reason why you shouldn't trust a mechanic with hairy knuckles, and could a dealer really use feed corn to conceal a failing muffler?",
+            "On Stump the Chumps, we find out whether Bill and his Subaru survived Mount Redoubt's eruptions. Also, a spoon prank goes awry in a Grand Am, another reason why you shouldn't trust a mechanic with hairy knuckles, and could a dealer really use feed corn to conceal a failing muffler?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -232,7 +232,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-04-11.mp3",
         title: "Car Talk 0915 April 11, 2009",
         description:
-            "April 11, 2009 • Is the price of a new power steering pump worth not having to admit your wife and her ex-boyfriend are right? Also, hungry squirrels choose an unlikely Corolla part as a snack, a caller returns for more buying advice 22 years later, and some thoughts from noted maritotologists Henny Youngman, Rodney Dangerfield, and Rita Rudner.",
+            "Is the price of a new power steering pump worth not having to admit your wife and her ex-boyfriend are right? Also, hungry squirrels choose an unlikely Corolla part as a snack, a caller returns for more buying advice 22 years later, and some thoughts from noted maritotologists Henny Youngman, Rodney Dangerfield, and Rita Rudner.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -247,7 +247,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-04-18.mp3",
         title: "Car Talk 0916 April 18, 2009",
         description:
-            "April 18, 2009 • A Nissan owner's tire pressure warning light flashes--in front of an NSA building. Can Tom and Ray figure it out, or is this a case for Jack Bauer? Also, a Sebring begins to channel a VW diesel, a Mercedes owner can only laugh at the prospect of a 2,000 dollar brake job, and could a series of problems plaguing a Camry have been avoided by naming the car?",
+            "A Nissan owner's tire pressure warning light flashes--in front of an NSA building. Can Tom and Ray figure it out, or is this a case for Jack Bauer? Also, a Sebring begins to channel a VW diesel, a Mercedes owner can only laugh at the prospect of a 2,000 dollar brake job, and could a series of problems plaguing a Camry have been avoided by naming the car?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -262,7 +262,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-04-25.mp3",
         title: "Car Talk 0917 April 25, 2009",
         description:
-            "April 25, 2009 • A wife worries that her husband's foray into \"Procedural Deviancy\" may croak their car. Also, the car to avoid if you're driving around Cincinnati, a classic case of a car in need of an enema, some trenchant questions from an 11 year old, and late night TV strikes again!",
+            "A wife worries that her husband's foray into \"Procedural Deviancy\" may croak their car. Also, the car to avoid if you're driving around Cincinnati, a classic case of a car in need of an enema, some trenchant questions from an 11 year old, and late night TV strikes again!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -277,7 +277,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-05-02.mp3",
         title: "Car Talk 0918 May 2, 2009",
         description:
-            "May 2, 2009 • On Stump the Chumps, we find out whether a blanket really was the solution to a Subaru's starting problem. Also, why one woman's key ring raised her father's blood pressure, a VW with a little too much get up and go, and will Saab lust come between a woman and her family?",
+            "On Stump the Chumps, we find out whether a blanket really was the solution to a Subaru's starting problem. Also, why one woman's key ring raised her father's blood pressure, a VW with a little too much get up and go, and will Saab lust come between a woman and her family?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -292,7 +292,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-05-11.mp3",
         title: "Car Talk 0919 May 9, 2009",
         description:
-            "May 9, 2009 • Two separate incidents: A bowling sized boulder in Death Valley and a stuck ignition key, elicit the same reaction--a 2-word phase beginning with, \"Oh\", and ending with a word we can't print here. Also, is 15,000 miles too long between oil changes, even if the car company's paying for it, one teenager gets advice guaranteed to get his parents (and their lawyer) on the phone, and St. Elmo's fire appears on a DC street?",
+            "Two separate incidents: A bowling sized boulder in Death Valley and a stuck ignition key, elicit the same reaction--a 2-word phase beginning with, \"Oh\", and ending with a word we can't print here. Also, is 15,000 miles too long between oil changes, even if the car company's paying for it, one teenager gets advice guaranteed to get his parents (and their lawyer) on the phone, and St. Elmo's fire appears on a DC street?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -307,7 +307,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-05-16.mp3",
         title: "Car Talk 0920 May 16, 2009",
         description:
-            "May 16, 2009 • What does the Chrysler-Fiat merger really mean? The return of Fiat jokes, of course! Also, a victim of catalytic converter theft explores his options, a Pontiac owner wonders who will look after his Vibe, and why is a '95 Mercedes driving all the cats out of Los Gatos, CA? Also, a new Puzzler from the world of Nouvelle Pneumatics, and lots more",
+            "What does the Chrysler-Fiat merger really mean? The return of Fiat jokes, of course! Also, a victim of catalytic converter theft explores his options, a Pontiac owner wonders who will look after his Vibe, and why is a '95 Mercedes driving all the cats out of Los Gatos, CA? Also, a new Puzzler from the world of Nouvelle Pneumatics, and lots more",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -322,7 +322,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-05-23.mp3",
         title: "Car Talk 0921 May 23, 2009",
         description:
-            "May 23, 2009 • This week on Car Talk, Tom and Ray's advice helps fix the Hubble Telescope. Plus Ray's new numerical puzzler.",
+            "This week on Car Talk, Tom and Ray's advice helps fix the Hubble Telescope. Plus Ray's new numerical puzzler.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -337,7 +337,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-05-30.mp3",
         title: "Car Talk 0922 May 30, 2009",
         description:
-            "May 30, 2009 • Astronaut John Grunsfeld seeks help trying to loosen a calcified bolt from the Hubble Telescope. Also, a 1939 Cadillac Datemobile needs a power boost, a Jetta owner's devotion is tested by a series of unfortunate events, a roadtrip to Mount Rushmore gets muy expensive and we answer the question: Who is Pravo Yasda and why is he getting so many tickets?",
+            "Astronaut John Grunsfeld seeks help trying to loosen a calcified bolt from the Hubble Telescope. Also, a 1939 Cadillac Datemobile needs a power boost, a Jetta owner's devotion is tested by a series of unfortunate events, a roadtrip to Mount Rushmore gets muy expensive and we answer the question: Who is Pravo Yasda and why is he getting so many tickets?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -352,7 +352,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-06-06.mp3",
         title: "Car Talk 0923 June 6, 2009",
         description:
-            "June 6, 2009 • A Chevy pickup owner wonders why his tuck runs well only if it's overloaded with 1500 pounds of compost. Meanwhile, a GMC Safari owner searches for the perfect gunk to avoid a transmission rebuild, a whooping Taurus becomes a good relationship tester, and would you trade a pair of busted skis for a 10-year old Jetta that won't shift?",
+            "A Chevy pickup owner wonders why his tuck runs well only if it's overloaded with 1500 pounds of compost. Meanwhile, a GMC Safari owner searches for the perfect gunk to avoid a transmission rebuild, a whooping Taurus becomes a good relationship tester, and would you trade a pair of busted skis for a 10-year old Jetta that won't shift?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -367,7 +367,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-06-13.mp3",
         title: "Car Talk 0924 June 13, 2009",
         description:
-            "June 13, 2009 • Mathematicians, 4th Graders, and his own brother unite to challenge Ray on a recent Puzzler--who knew there were so many ways to get to 26? Also, a flamenco guitarist who may be one turn away from a wheel falling off, and one bouquet away from a restraining order; a forgetful husband who needs to de-stinkify his wife's Camry, and a painful lesson in clutch engagement.",
+            "Mathematicians, 4th Graders, and his own brother unite to challenge Ray on a recent Puzzler--who knew there were so many ways to get to 26? Also, a flamenco guitarist who may be one turn away from a wheel falling off, and one bouquet away from a restraining order; a forgetful husband who needs to de-stinkify his wife's Camry, and a painful lesson in clutch engagement.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -382,7 +382,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-06-20.mp3",
         title: "Car Talk 0925 June 20, 2009",
         description:
-            "June 20, 2009 • Loose lugnuts have a Park Ranger checking her list of enemies, but her Dad may be the prime suspect. Also, Ray recalls a Commencement foot-in-mouth incident, a caller searches for any Old Wives Tale that'll change his friend's gas habits, and how too much refrigerant can make for a very hot Summer",
+            "Loose lugnuts have a Park Ranger checking her list of enemies, but her Dad may be the prime suspect. Also, Ray recalls a Commencement foot-in-mouth incident, a caller searches for any Old Wives Tale that'll change his friend's gas habits, and how too much refrigerant can make for a very hot Summer",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -397,7 +397,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-06-27.mp3",
         title: "Car Talk 0926 June 27, 2009",
         description:
-            "June 27, 2009 • A husband seeks helps convincing his wife that a 13 year old, 212,000 mile Tahoe is the perfect ride for their Summer vacation. Also, Nunzio the Knucklescraper takes the car he's fixing for a night on the town and leaves evidence, a '93 Buick evokes fond memories of breakfast, and on Stump the Chumps, the source of a baffling noise is revealed.",
+            "A husband seeks helps convincing his wife that a 13 year old, 212,000 mile Tahoe is the perfect ride for their Summer vacation. Also, Nunzio the Knucklescraper takes the car he's fixing for a night on the town and leaves evidence, a '93 Buick evokes fond memories of breakfast, and on Stump the Chumps, the source of a baffling noise is revealed.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -412,7 +412,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-07-04.mp3",
         title: "Car Talk 0927 July 4, 2009",
         description:
-            "July 4, 2009 • The Van Man winds up being Mr. Right for Tara in Fremont, California, who now seeks guidance for a cross-continent drive. Also, a family Volvo grows ever more hilarious as it becomes ever more difficult to stop, a prank war in Wyoming gets out of hand, and can Tom and Ray solve a problem that has vexed every Honda mechanic in Kansas?",
+            "The Van Man winds up being Mr. Right for Tara in Fremont, California, who now seeks guidance for a cross-continent drive. Also, a family Volvo grows ever more hilarious as it becomes ever more difficult to stop, a prank war in Wyoming gets out of hand, and can Tom and Ray solve a problem that has vexed every Honda mechanic in Kansas?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -427,7 +427,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-07-11.mp3",
         title: "Car Talk 0928 July 11, 2009",
         description:
-            "July 11, 2009 • What's the proper way to thank a mechanic for fixing a problem in 12 seconds, and charging 25 bucks? Also, should a guy who just drove across a stream be more afraid of car damage, or his wife? And, a case of distracted braking leads to cries of \"Booooogusss!\" All this, some excruciating puns and more, on this week's encore edition.",
+            "What's the proper way to thank a mechanic for fixing a problem in 12 seconds, and charging 25 bucks? Also, should a guy who just drove across a stream be more afraid of car damage, or his wife? And, a case of distracted braking leads to cries of \"Booooogusss!\" All this, some excruciating puns and more, on this week's encore edition.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -442,7 +442,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-07-18.mp3",
         title: "Car Talk 0929 July 18, 2009",
         description:
-            "July 18, 2009 • On this week's encore episode, a Magliozzi family celebration turns into a case of Grand Theft Birthday Cake. Also, a a devoted Minivan Mom finds herself tempted by a seductive Jeep Liberty, a recent college grad wonders how fast he can drive his 1938 Dodge across country, and one caller wonders if her father's trying to tell her subtly that her driving is stinko. All this, plus the most obfuscated Puzzler ever, and more.",
+            "On this week's encore episode, a Magliozzi family celebration turns into a case of Grand Theft Birthday Cake. Also, a a devoted Minivan Mom finds herself tempted by a seductive Jeep Liberty, a recent college grad wonders how fast he can drive his 1938 Dodge across country, and one caller wonders if her father's trying to tell her subtly that her driving is stinko. All this, plus the most obfuscated Puzzler ever, and more.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -457,7 +457,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-07-25.mp3",
         title: "Car Talk 0930 July 25, 2009",
         description:
-            "July 25, 2009 • The son of a music legend earns a spot in the \"somewhat wacko but probably harmless driving technique\" lexicon. Also, should Julie 'fess up to a fender bender, did Denise's impulse auto purchase doom her to misery, and why did Sarah's chicken go for a ride? Also, Mechanic Speak in Translation, and lots more.",
+            "The son of a music legend earns a spot in the \"somewhat wacko but probably harmless driving technique\" lexicon. Also, should Julie 'fess up to a fender bender, did Denise's impulse auto purchase doom her to misery, and why did Sarah's chicken go for a ride? Also, Mechanic Speak in Translation, and lots more.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -472,7 +472,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-08-01.mp3",
         title: "Car Talk 0931 August 1, 2009",
         description:
-            "August 1, 2009 • One listener presents his case that Tom and Ray are nothing more than a pair of dummies--the wooden kind (at least they could have been made cuter). Also, how can a guy fit into a Dodge, by any means surgical; a dog-owner wonders how to take her car-sick pooch for a test-drive that won't get messy; one man's effort to remain Licenseless in Lincoln; and one way to make public transportation more entertaining.",
+            "One listener presents his case that Tom and Ray are nothing more than a pair of dummies--the wooden kind (at least they could have been made cuter). Also, how can a guy fit into a Dodge, by any means surgical; a dog-owner wonders how to take her car-sick pooch for a test-drive that won't get messy; one man's effort to remain Licenseless in Lincoln; and one way to make public transportation more entertaining.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -487,7 +487,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-08-08.mp3",
         title: "Car Talk 0932 August 8, 2009",
         description:
-            "August 8, 2009 • A goat rescuer tries to find a way to keep his 4-legged tenants from climbing all over cars--especially the Alfa belonging to his girlfriend. Also, is a planned cross-country drive just a ruse to get a new car? Plus, the nigh Tommy drove on three wheels (don't drive like my brother, indeed!), and, one listener's backhanded plea for hate-mail civility.",
+            "A goat rescuer tries to find a way to keep his 4-legged tenants from climbing all over cars--especially the Alfa belonging to his girlfriend. Also, is a planned cross-country drive just a ruse to get a new car? Plus, the nigh Tommy drove on three wheels (don't drive like my brother, indeed!), and, one listener's backhanded plea for hate-mail civility.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -502,7 +502,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-08-15.mp3",
         title: "Car Talk 0933 August 15, 2009",
         description:
-            "August 15, 2009 • A Park Ranger's wife seeks an intervention to get her husband to fix the oil leak in his beloved BMW. Also, two cars that call for a redefinition of Cash for Clunkers--a '96 Geo that won't stop, and a '94 Escort that's bid farewell to 5th gear. And, paging Honda of Tiblesi! A CRV owner tries to prepare her car for two years overseas.",
+            "A Park Ranger's wife seeks an intervention to get her husband to fix the oil leak in his beloved BMW. Also, two cars that call for a redefinition of Cash for Clunkers--a '96 Geo that won't stop, and a '94 Escort that's bid farewell to 5th gear. And, paging Honda of Tiblesi! A CRV owner tries to prepare her car for two years overseas.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -517,7 +517,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-08-22.mp3",
         title: "Car Talk 0934 August 22, 2009",
         description:
-            "August 22, 2009 • A daughter's attempt to cure her Dad of one wacko driving habit could open the door to a new one. Also, how a mild-mannered Doctor's BMW became \"Noah's Ark of Pestilence\", a Saturn indicates a need for Xanax, two friends argue over whether pointing a remote at your chin improves its performance, and a major ethical question is answered--specifically, who gets the brownies?",
+            "A daughter's attempt to cure her Dad of one wacko driving habit could open the door to a new one. Also, how a mild-mannered Doctor's BMW became \"Noah's Ark of Pestilence\", a Saturn indicates a need for Xanax, two friends argue over whether pointing a remote at your chin improves its performance, and a major ethical question is answered--specifically, who gets the brownies?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -532,7 +532,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-08-29.mp3",
         title: "Car Talk 0935 August 29, 2009",
         description:
-            'August 29, 2009 • Can a 40-year crush on a Beetle convertible withstand a relocation to the Great Frozen North? Also, a Jeep that\'s running too well has an owner seeking euthanasia tips, a Lincoln channels Niagara Falls, Tommy turns into "Henny Magliozzi", and another misdirected birthday cake episode, from the Grammy files.',
+            'Can a 40-year crush on a Beetle convertible withstand a relocation to the Great Frozen North? Also, a Jeep that\'s running too well has an owner seeking euthanasia tips, a Lincoln channels Niagara Falls, Tommy turns into "Henny Magliozzi", and another misdirected birthday cake episode, from the Grammy files.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -547,7 +547,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-09-05.mp3",
         title: "Car Talk 0936 September 5, 2009",
         description:
-            "September 5, 2009 • On this week's encore episode, Michelle in Spokane is presented with her dream vehicle--a 1974 Datsun with a missing rear window, holes in the floor, and enough other problems to make her consider sending her dream straight to the crusher. Also, a question of merging etiquette, we gain new respect for the French. and Tommy rants against--perfection.",
+            "On this week's encore episode, Michelle in Spokane is presented with her dream vehicle--a 1974 Datsun with a missing rear window, holes in the floor, and enough other problems to make her consider sending her dream straight to the crusher. Also, a question of merging etiquette, we gain new respect for the French. and Tommy rants against--perfection.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -562,7 +562,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-09-12.mp3",
         title: "Car Talk 0937 September 12, 2009",
         description:
-            'September 12, 2009 • An impulse drive up Lombard Street comes to a smoky conclusion. Also, is a quarter and a roll of tape all you really need to "fix" a cracked windshield? Plus, Stump the Chumps welcomes back Brad, the "walking talking environmental disaster", the Great Brownie-to-Mechanic Ratio debate continues, and stupidity comes to the classroom--literally!',
+            'An impulse drive up Lombard Street comes to a smoky conclusion. Also, is a quarter and a roll of tape all you really need to "fix" a cracked windshield? Plus, Stump the Chumps welcomes back Brad, the "walking talking environmental disaster", the Great Brownie-to-Mechanic Ratio debate continues, and stupidity comes to the classroom--literally!',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -577,7 +577,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-09-19.mp3",
         title: "Car Talk 0938 September 19, 2009",
         description:
-            "September 19, 2009 • A couple disagrees over how many headlight bulbs to replace when one burns out. Also, a Civic owner becomes a dry cleaner's best friend after his backseat begins staining all his passengers' pants, a trip to Blockbuster turns death-defying, and a Mercury fights back after becoming a Cash for Clunkers candidate. Also, Opening Day for the new Puzzler season, and lots more.",
+            "A couple disagrees over how many headlight bulbs to replace when one burns out. Also, a Civic owner becomes a dry cleaner's best friend after his backseat begins staining all his passengers' pants, a trip to Blockbuster turns death-defying, and a Mercury fights back after becoming a Cash for Clunkers candidate. Also, Opening Day for the new Puzzler season, and lots more.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -592,7 +592,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-09-26.mp3",
         title: "Car Talk 0939 September 26, 2009",
         description:
-            'September 26, 2009 • Is a new Mom\'s baby soothing technique also a recipe for brake cooking? Also, a resolution to a marital dispute elicits an unexpected response, a college student tries to get the cigarette stink out of his car before Mom and Dad come to visit, and a Suzuki owner stresses over one of the 6,438 noises his car is making. Also, a new Puzzler from the "Loaves and No Fishes" department, and lots more.',
+            'Is a new Mom\'s baby soothing technique also a recipe for brake cooking? Also, a resolution to a marital dispute elicits an unexpected response, a college student tries to get the cigarette stink out of his car before Mom and Dad come to visit, and a Suzuki owner stresses over one of the 6,438 noises his car is making. Also, a new Puzzler from the "Loaves and No Fishes" department, and lots more.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -607,7 +607,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-10-03.mp3",
         title: "Car Talk 0940 October 3, 2009",
         description:
-            "October 3, 2009 • A Ford Explorer becomes Fido's best friend, after dog food starts spitting out from its AC vents. Also, can Tom and Ray save halibut season on the Homer Spit, by figuring out why Bill's forklift won't start? Plus, over aggressive sap removal exposes a Suburban, a Caravan emits a chirp like clockwork, and the funniest jokes in the world--that we can tell on radio.",
+            "A Ford Explorer becomes Fido's best friend, after dog food starts spitting out from its AC vents. Also, can Tom and Ray save halibut season on the Homer Spit, by figuring out why Bill's forklift won't start? Plus, over aggressive sap removal exposes a Suburban, a Caravan emits a chirp like clockwork, and the funniest jokes in the world--that we can tell on radio.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -622,7 +622,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-10-10.mp3",
         title: "Car Talk 0941 October 10, 2009",
         description:
-            'October 10, 2009 • A novice hearse owner learns the hard way that his "passenger" compartment doesn\'t have an exit strategy. Also, a Mercedes owner enjoys a 300 dollar cup of coffee and leaves with the same noise he came in with, a family of 10 goes car shopping, the true cost of home-grown tomatoes, and Ray takes the Puzzler back out on a limb.',
+            'A novice hearse owner learns the hard way that his "passenger" compartment doesn\'t have an exit strategy. Also, a Mercedes owner enjoys a 300 dollar cup of coffee and leaves with the same noise he came in with, a family of 10 goes car shopping, the true cost of home-grown tomatoes, and Ray takes the Puzzler back out on a limb.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -637,7 +637,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-10-17.mp3",
         title: "Car Talk 0942 October 17, 2009",
         description:
-            "October 17, 2009 • Paging Alfred Hitchcock! A flock of turkeys has gone on the attack against--a Toyota Prius! This week on Car Talk, Tom and Ray try to figure out what's attracting the birds, and what the owner can do to discourage them? Also, three separate car owners with one goal: an encounter with a UPS truck; how to explode a muffler in one easy step; and, on Stump the Chumps, the return of Nunzio the Knucklescraper.",
+            "Paging Alfred Hitchcock! A flock of turkeys has gone on the attack against--a Toyota Prius! This week on Car Talk, Tom and Ray try to figure out what's attracting the birds, and what the owner can do to discourage them? Also, three separate car owners with one goal: an encounter with a UPS truck; how to explode a muffler in one easy step; and, on Stump the Chumps, the return of Nunzio the Knucklescraper.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -652,7 +652,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-10-24.mp3",
         title: "Car Talk 0943 October 24, 2009",
         description:
-            "October 24, 2009 • Tommy invokes his marital mantra to helps settle a dispute over burning bugs and a smoking defroster vent. Also, a hairdryer proves to be the crucial piece of evidence in a soggy starting mystery, how to handle an annoying passenger who's also telling everyone you're a lousy driver, and a Hall of Fame worthy display of answer avoidance from Tom and Ray. Plus, a new Puzzler and lots more.",
+            "Tommy invokes his marital mantra to helps settle a dispute over burning bugs and a smoking defroster vent. Also, a hairdryer proves to be the crucial piece of evidence in a soggy starting mystery, how to handle an annoying passenger who's also telling everyone you're a lousy driver, and a Hall of Fame worthy display of answer avoidance from Tom and Ray. Plus, a new Puzzler and lots more.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -667,7 +667,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-10-31.mp3",
         title: "Car Talk 0944 October 31, 2009",
         description:
-            'October 31, 2009 • How many thousands of dollars does it take to make the new owner of a classic Jaguar cry, "Uncle!" ? Also, Winterizing 101 for a relocated Professor and her Jetta, a couple debate the best way to escape a "Stinky" on the road, and will Jamie in Nashville still love her Toyota more than her husband when she finds out why it won\'t go? Also, a new Puzzler from the Perfect Words series, and lots moe.',
+            'How many thousands of dollars does it take to make the new owner of a classic Jaguar cry, "Uncle!" ? Also, Winterizing 101 for a relocated Professor and her Jetta, a couple debate the best way to escape a "Stinky" on the road, and will Jamie in Nashville still love her Toyota more than her husband when she finds out why it won\'t go? Also, a new Puzzler from the Perfect Words series, and lots moe.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -682,7 +682,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-11-07.mp3",
         title: "Car Talk 0945 November 7, 2009",
         description:
-            "November 7, 2009 • Only on Planet Magliozzi would two dreadful diagnoses constitute good news for a Caravan owner. Also, on Stump the Chumps, did Tom and Ray successfully solve Simon's wibbly-wobblies, a Saab turns into a sullen teenager, a Dad wonders if there's a \"Hey guys, watch this\" gene, and a few things you never heard your mother say.",
+            "Only on Planet Magliozzi would two dreadful diagnoses constitute good news for a Caravan owner. Also, on Stump the Chumps, did Tom and Ray successfully solve Simon's wibbly-wobblies, a Saab turns into a sullen teenager, a Dad wonders if there's a \"Hey guys, watch this\" gene, and a few things you never heard your mother say.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -697,7 +697,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-11-14.mp3",
         title: "Car Talk 0946 November 14, 2009",
         description:
-            "November 14, 2009 • How big a focus group do you need to consign a car to Dorksville? Is the fact that Mom drives one all the evidence you need? Also, will a facelift rekindle a Volvo owner's passion, is a Summer in Palm Springs hot enough to melt tires, and on Stump the Chumps, was Champagne's rattle really caused by a loose heat shield?",
+            "How big a focus group do you need to consign a car to Dorksville? Is the fact that Mom drives one all the evidence you need? Also, will a facelift rekindle a Volvo owner's passion, is a Summer in Palm Springs hot enough to melt tires, and on Stump the Chumps, was Champagne's rattle really caused by a loose heat shield?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -712,7 +712,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-11-21.mp3",
         title: "Car Talk 0947 November 21, 2009",
         description:
-            "November 21, 2009 • Bad news comes in three's for two callers: Rick, who's had three differentials burst into flames while driving, and Jonathan, who's seen three sparkplugs jump out of his engine. Also, is an open invitation to a car thief the best deterrent, a road-trip turns into a real blowout, and Ray delivers a mea culpa on the now infamous football Puzzler.",
+            "Bad news comes in three's for two callers: Rick, who's had three differentials burst into flames while driving, and Jonathan, who's seen three sparkplugs jump out of his engine. Also, is an open invitation to a car thief the best deterrent, a road-trip turns into a real blowout, and Ray delivers a mea culpa on the now infamous football Puzzler.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -727,7 +727,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-11-28.mp3",
         title: "Car Talk 0948 November 28, 2009",
         description:
-            "November 28, 2009 • Meet Tom and Ray's new pal, Sal. He's got a Chevy with a problem that can be solved with 1200 dollars, or an early morning call from nature. But it's his voice that truly catches our hosts' fancy. Also, is Grandpa's '72 Dodge worth resuscitating, or should Quentin just take the hat off the dashboard and call it a day? And, if you were searching for an elk-proof car, would a Mini spring to mind?",
+            "Meet Tom and Ray's new pal, Sal. He's got a Chevy with a problem that can be solved with 1200 dollars, or an early morning call from nature. But it's his voice that truly catches our hosts' fancy. Also, is Grandpa's '72 Dodge worth resuscitating, or should Quentin just take the hat off the dashboard and call it a day? And, if you were searching for an elk-proof car, would a Mini spring to mind?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -742,7 +742,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-12-05.mp3",
         title: "Car Talk 0949 December 5, 2009",
         description:
-            "December 5, 2009 • Three years after looking for a car for a cross-country road trip, Libbie from Seattle checks in on Stump the Chumps. Did she take Tom and Ray's advice? Was Ray's prophecy that she'd never return to Seattle come true? Also, a gym teacher gets a chance to set a good example for his students, a CRV turns into a Catmobile, and what's considered \"high mileage\" on a used car?",
+            "Three years after looking for a car for a cross-country road trip, Libbie from Seattle checks in on Stump the Chumps. Did she take Tom and Ray's advice? Was Ray's prophecy that she'd never return to Seattle come true? Also, a gym teacher gets a chance to set a good example for his students, a CRV turns into a Catmobile, and what's considered \"high mileage\" on a used car?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -757,7 +757,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-12-12.mp3",
         title: "Car Talk 0950 December 12, 2009",
         description:
-            "December 12, 2009 • A few songs you likely won't hear this Hanukkah. Also, the morning commute in Louisville gets a lot more interesting, thanks to Bill's loss of brakes; a roll of quarters stages a mass escape into the floor of an Avalon, and why one Jeep owner is especially wary of potholes.",
+            "A few songs you likely won't hear this Hanukkah. Also, the morning commute in Louisville gets a lot more interesting, thanks to Bill's loss of brakes; a roll of quarters stages a mass escape into the floor of an Avalon, and why one Jeep owner is especially wary of potholes.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -772,7 +772,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-12-19.mp3",
         title: "Car Talk 0951 December 19, 2009",
         description:
-            "December 19, 2009 • After three years of parking only in circular driveways, Steve in Florida decides it's time to address (cheaply) the absence of Reverse in his '97 Jetta. Also, a Dad's promise to his soccer star daughter has Mom in a tizzy, a Highlander owner tries to free her stuck-open sunroof from volcanic ash before she has to measure snowfall in the backseat with a meter stick, and lots more.",
+            "After three years of parking only in circular driveways, Steve in Florida decides it's time to address (cheaply) the absence of Reverse in his '97 Jetta. Also, a Dad's promise to his soccer star daughter has Mom in a tizzy, a Highlander owner tries to free her stuck-open sunroof from volcanic ash before she has to measure snowfall in the backseat with a meter stick, and lots more.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,
@@ -787,7 +787,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2009-12-26.mp3",
         title: "Car Talk 0952 December 26, 2009",
         description:
-            "December 26, 2009 • What do a tire pressure gauge, a football helmet and a spaceman suit have in common? They're all suggestions from Tom and Ray to help a caller get over his fear of inflating tires. Meanwhile, another caller wonders if jumper cables are overrated after watching a battery-to-battery jumpstart. Also, a Corolla that won't quit--even when its owner wants it to, and a biathlete searches for the perfect $400 car.",
+            "What do a tire pressure gauge, a football helmet and a spaceman suit have in common? They're all suggestions from Tom and Ray to help a caller get over his fear of inflating tires. Meanwhile, another caller wonders if jumper cables are overrated after watching a battery-to-battery jumpstart. Also, a Corolla that won't quit--even when its owner wants it to, and a biathlete searches for the perfect $400 car.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2009,

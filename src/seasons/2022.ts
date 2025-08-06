@@ -22,7 +22,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-01-01.mp3",
         title: "#2201: Let Me Break It In For You Honey",
         description:
-            "January 1, 2022 • Donna is tired of boring cars so she just went out and bought herself a new Mazda Miata convertible. Donna's husband convinced her that the car's \"break-in period\" is critical to the long, trouble-free life of the car's engine, so he really should be driving it now as a 'favor' to her. Yes, Donna's husband is a lout, but will Tom and Ray expose his ruse? Find out on today's Best of Car Talk.",
+            "Donna is tired of boring cars so she just went out and bought herself a new Mazda Miata convertible. Donna's husband convinced her that the car's \"break-in period\" is critical to the long, trouble-free life of the car's engine, so he really should be driving it now as a 'favor' to her. Yes, Donna's husband is a lout, but will Tom and Ray expose his ruse? Find out on today's Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -37,7 +37,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-01-04.mp3",
         title: "#2202: How to Adjust Your Fahrvergnugen",
         description:
-            "January 4, 2022 • Automakers are legendary for developing new ways to sell more cars. But cruise control, abs and premium sound systems have nothing on 'Fahrvergnugen'. What's 'Fahrvergnugen'? Find out(or not) on today's Best of Car Talk.",
+            "Automakers are legendary for developing new ways to sell more cars. But cruise control, abs and premium sound systems have nothing on 'Fahrvergnugen'. What's 'Fahrvergnugen'? Find out(or not) on today's Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -52,7 +52,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-01-08.mp3",
         title: "#2203: Sonja Henie's Tutu!",
         description:
-            "January 8, 2022 • A lot of listeners want to know where Tom and Ray latched onto phrases like 'Don't drive like my Brother!' or 'No matter what it is, it's gonna cost you $200, if that's what it is.' Well ok, very few listeners actually asked, but the puzzler's still on vacation and there's a lot of air time to fill, alright? Enjoy this week's offering from the 'Car Talk Folklore Dissemination Division': \"Sonja Henie's Tutu!'",
+            "A lot of listeners want to know where Tom and Ray latched onto phrases like 'Don't drive like my Brother!' or 'No matter what it is, it's gonna cost you $200, if that's what it is.' Well ok, very few listeners actually asked, but the puzzler's still on vacation and there's a lot of air time to fill, alright? Enjoy this week's offering from the 'Car Talk Folklore Dissemination Division': \"Sonja Henie's Tutu!'",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -67,7 +67,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-01-11.mp3",
         title: "#2204: Na-nu Na-nu THIS!",
         description:
-            "January 11, 2022 • Vacation is tough work! Especially if you're an academic like Tom and you have a hard time keeping all of your holidays, Spring Breaks and Sabbaticals straight. Following several weeks of time off from sweating over a hot microphone the boys are back and ready to dispense more questionable car advice.",
+            "Vacation is tough work! Especially if you're an academic like Tom and you have a hard time keeping all of your holidays, Spring Breaks and Sabbaticals straight. Following several weeks of time off from sweating over a hot microphone the boys are back and ready to dispense more questionable car advice.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -82,7 +82,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-01-15.mp3",
         title: "#2205: The Hitchhiker Test",
         description:
-            "January 15, 2022 • Reggie from South Carolina noticed an odor coming from her car's air conditioning that smelled suspiciously like the stink of the kids in her car pool. Will the dealer's remedy for the problem work or will the ac and the kids continue to duke it out for 'stink supremacy' until one of them wins, Reggie perishes or both? Find out on this episode of The Best of Car Talk!",
+            "Reggie from South Carolina noticed an odor coming from her car's air conditioning that smelled suspiciously like the stink of the kids in her car pool. Will the dealer's remedy for the problem work or will the ac and the kids continue to duke it out for 'stink supremacy' until one of them wins, Reggie perishes or both? Find out on this episode of The Best of Car Talk!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -97,7 +97,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-01-18.mp3",
         title: "#2206: Click and Clack's 40 Weight Cleanse",
         description:
-            "January 18, 2022 • Most of us have had that family member who went off the deep end with some cockamamie diet or exercise or other 'miracle cure' for something. But the health and wellness industry has nothing on the world of automotive miracle cures. Stu from Maryland may be inadvertently on to something thanks to a recent maintenance mix-up on his Nissan. Find out what on this episode of The Best of Car Talk!",
+            "Most of us have had that family member who went off the deep end with some cockamamie diet or exercise or other 'miracle cure' for something. But the health and wellness industry has nothing on the world of automotive miracle cures. Stu from Maryland may be inadvertently on to something thanks to a recent maintenance mix-up on his Nissan. Find out what on this episode of The Best of Car Talk!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -112,7 +112,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-01-22.mp3",
         title: "#2207: The Italian Tune Up",
         description:
-            "January 22, 2022 • Lisa from Washington, DC was told by her mechanic that she doesn't drive her VW Golf often enough and that this will lead to all sorts of mechanical malfunction in the car's future. Tom and Ray try to explain why cars that only travel a few miles per day are prone to certain failures. Lisa thinks that an 'Italian Tune-up' should cure it. Find out why on this episode of the Best of Car Talk!",
+            "Lisa from Washington, DC was told by her mechanic that she doesn't drive her VW Golf often enough and that this will lead to all sorts of mechanical malfunction in the car's future. Tom and Ray try to explain why cars that only travel a few miles per day are prone to certain failures. Lisa thinks that an 'Italian Tune-up' should cure it. Find out why on this episode of the Best of Car Talk!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -127,7 +127,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-01-25.mp3",
         title: "#2208: How Safe is Too Safe?",
         description:
-            "January 25, 2022 • Carolyn lives just around the corner from 'our fair city' and is married to a former automotive safety engineer who apparently can't let go of his old job. He wants Carolyn to wear a bike helmet while driving -just for a little extra safety. Is this a case of inspired innovation, Social suicide?(Yep) or both? Check it out -along with the return of the puzzler- on this episode of the Best of Car Talk!",
+            "Carolyn lives just around the corner from 'our fair city' and is married to a former automotive safety engineer who apparently can't let go of his old job. He wants Carolyn to wear a bike helmet while driving -just for a little extra safety. Is this a case of inspired innovation, Social suicide?(Yep) or both? Check it out -along with the return of the puzzler- on this episode of the Best of Car Talk!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -142,7 +142,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-01-29.mp3",
         title: "#2209: More Good News from the Tappet Brothers",
         description:
-            "January 29, 2022 • Like a lot of callers, Kasey from Minnesota is hoping for some good news about her problem Honda Civic. Hard to imagine that a car that sprays oil all over the engine compartment at a rate of a quart per tank-of-gas is going to generate good news, but the brothers manage it somehow. This, more calls and a new puzzler right here on the Best of Car Talk.",
+            "Like a lot of callers, Kasey from Minnesota is hoping for some good news about her problem Honda Civic. Hard to imagine that a car that sprays oil all over the engine compartment at a rate of a quart per tank-of-gas is going to generate good news, but the brothers manage it somehow. This, more calls and a new puzzler right here on the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -157,7 +157,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-02-01.mp3",
         title: "#2210: In Search of an Honest Mechanic",
         description:
-            "February 1, 2022 • How to find an honest mechanic? Call AAA? The BBB? Or see if you can devise your own method? Listen while Tom and Ray try to help Bruce from Phoenix come up with a test to vet his local grease monkeys. More calls and a new puzzler right here on The Best of Car Talk!",
+            "How to find an honest mechanic? Call AAA? The BBB? Or see if you can devise your own method? Listen while Tom and Ray try to help Bruce from Phoenix come up with a test to vet his local grease monkeys. More calls and a new puzzler right here on The Best of Car Talk!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -172,7 +172,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-02-05.mp3",
         title: "#2211: Click and Clack's Car Repair and Croissant",
         description:
-            "February 5, 2022 • Bill's shift lever on his Ford Ranger Pick Up is constantly rattling. The boys, realizing immediately that this is a case of a problem too minor to actually spend money to fix, cast about for a more creative solution involving the local patisserie. Check it out along with the new puzzler and more calls on this 'delicieux' episode of the Best of Car Talk.",
+            "Bill's shift lever on his Ford Ranger Pick Up is constantly rattling. The boys, realizing immediately that this is a case of a problem too minor to actually spend money to fix, cast about for a more creative solution involving the local patisserie. Check it out along with the new puzzler and more calls on this 'delicieux' episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -187,7 +187,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-02-08.mp3",
         title: "#2212: Listen to Your Wife, George!",
         description:
-            "February 8, 2022 • George has a problem with his Honda Civic that won't start. George also has a bigger problem in that his wife insists that he take the car to the Honda dealer who is sure to charge big bucks. Tom and Ray know that it's better to be married than to be right, but can they convince George before it's too late? Check it out along with the new puzzler and more calls on this episode of the Best of Car Talk.",
+            "George has a problem with his Honda Civic that won't start. George also has a bigger problem in that his wife insists that he take the car to the Honda dealer who is sure to charge big bucks. Tom and Ray know that it's better to be married than to be right, but can they convince George before it's too late? Check it out along with the new puzzler and more calls on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -202,7 +202,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-02-12.mp3",
         title: "#2213: A Real Mickey Mouse Operation",
         description:
-            "February 12, 2022 • Having cemented their reputations as America's preeminent purveyors of questionable car advice, the brothers would occasionally get invited to do the show from some semi-exotic locale like Alaska, Hawaii or even Hoboken. This show has them visiting wonderful Walt Disney World. Between fixing the monorail, cutting the line to Space Mountain, taking some calls and trying to remember where they left their kids they conducted a little tour. What could go wrong? Plenty!",
+            "Having cemented their reputations as America's preeminent purveyors of questionable car advice, the brothers would occasionally get invited to do the show from some semi-exotic locale like Alaska, Hawaii or even Hoboken. This show has them visiting wonderful Walt Disney World. Between fixing the monorail, cutting the line to Space Mountain, taking some calls and trying to remember where they left their kids they conducted a little tour. What could go wrong? Plenty!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -217,7 +217,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-02-15.mp3",
         title: "#2214: Diagnosis by Intimidation",
         description:
-            "February 15, 2022 • Luis from Shreveport is having power problems with his Ford Escort. After they remind him that the Escort didn't have any power to begin with, the boys roll out two perfectly reasonable diagnoses. When Luis shoots down the first one, Tom and Ray cling desperately to the other -facts be damned. Did they get lucky or will Luis be forever pushing the Escort around Shreveport? This, more calls and a new puzzler on today's Best of Car Talk!",
+            "Luis from Shreveport is having power problems with his Ford Escort. After they remind him that the Escort didn't have any power to begin with, the boys roll out two perfectly reasonable diagnoses. When Luis shoots down the first one, Tom and Ray cling desperately to the other -facts be damned. Did they get lucky or will Luis be forever pushing the Escort around Shreveport? This, more calls and a new puzzler on today's Best of Car Talk!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -232,7 +232,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-02-19.mp3",
         title: "#2215: Working with Lexan",
         description:
-            "February 19, 2022 • Georgia really loves her Fiat Spider but years of driving it in the hot California sun have baked the dashboard to the point that it looks like puff pastry. She's tried finding a new dash locally without any luck. Will Tom and Ray have any suggestions? I mean, will they have any USEFUL suggestions? Find out on today's episode of The Best of Car Talk.",
+            "Georgia really loves her Fiat Spider but years of driving it in the hot California sun have baked the dashboard to the point that it looks like puff pastry. She's tried finding a new dash locally without any luck. Will Tom and Ray have any suggestions? I mean, will they have any USEFUL suggestions? Find out on today's episode of The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -247,7 +247,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-02-22.mp3",
         title: "#2216: One Sure Fire Way to Test a Car's Airbag",
         description:
-            "February 22, 2022 • David from Texas has a newish Mazda Miata that's coming off its warranty soon. He wants to be sure that the airbags are functioning properly. The boys have ideas. Not particularly good ideas, but ideas nonetheless. That, a new puzzler and more calls on this episode of the Best of Car Talk.",
+            "David from Texas has a newish Mazda Miata that's coming off its warranty soon. He wants to be sure that the airbags are functioning properly. The boys have ideas. Not particularly good ideas, but ideas nonetheless. That, a new puzzler and more calls on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -262,7 +262,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-02-26.mp3",
         title: "#2217: A Haircut in Horsetown",
         description:
-            "February 26, 2022 • With this installment of the Best of Car Talk we bring you a classic puzzler. On a cross-country drive a traveler is gripped by a sudden, irrepressible need to get a haircut. We've all been there, right? As luck would have it, our traveler finds himself in One Horse, Nevada where there are two barbers to choose from. How does he choose?",
+            "With this installment of the Best of Car Talk we bring you a classic puzzler. On a cross-country drive a traveler is gripped by a sudden, irrepressible need to get a haircut. We've all been there, right? As luck would have it, our traveler finds himself in One Horse, Nevada where there are two barbers to choose from. How does he choose?",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -277,7 +277,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-03-01.mp3",
         title: "#2218: That OLD Car Smell",
         description:
-            "March 1, 2022 • That 'new car smell' has long been part of American automotive lore. Following distantly behind is the more familiar 'old car smell': a noxious blend of dust, dirt and whatever mysterious goo has been decomposing in between the seats for the past few years. Well, Fran and her boyfriend are athletes and their b.o. is taking the old car smell to new depths. Can the brothers hold their noses long enough to help them fumigate their Ford? Find out on this episode of the Best of Car Talk.",
+            "That 'new car smell' has long been part of American automotive lore. Following distantly behind is the more familiar 'old car smell': a noxious blend of dust, dirt and whatever mysterious goo has been decomposing in between the seats for the past few years. Well, Fran and her boyfriend are athletes and their b.o. is taking the old car smell to new depths. Can the brothers hold their noses long enough to help them fumigate their Ford? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -292,7 +292,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-03-05.mp3",
         title: "#2219: Too Cool for School",
         description:
-            "March 5, 2022 • Alberto is a sociology professor in Utah teaching his students about issues of societal inequality. His old, banged up VW is consistent with his self-image as a hip college prof. But his wife is dead set on buying a new Volvo and Alberto is in a panic about what such a bourgie ride will mean for his campus cool factor. Will the brothers be sympathetic? FAT CHANCE! That, more calls and a new puzzler on this episode of the Best of Car Talk.",
+            "Alberto is a sociology professor in Utah teaching his students about issues of societal inequality. His old, banged up VW is consistent with his self-image as a hip college prof. But his wife is dead set on buying a new Volvo and Alberto is in a panic about what such a bourgie ride will mean for his campus cool factor. Will the brothers be sympathetic? FAT CHANCE! That, more calls and a new puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -307,7 +307,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-03-08.mp3",
         title: "#2220: A Little R and R",
         description:
-            "March 8, 2022 • In the wider world, 'a little R and R'(rest and relaxation) is a good thing. But here at Car Talk Plaza, 'R and R' stands for 'Rant and Rave' and that means that it's time to duck and cover while Tommy holds court on one or more of his pet driving peeves. Today's target: inconsiderate younger drivers who don't yield right of way. And that's just the beginning. That, more calls and a new puzzler on this episode of the Best of Car Talk.",
+            "In the wider world, 'a little R and R'(rest and relaxation) is a good thing. But here at Car Talk Plaza, 'R and R' stands for 'Rant and Rave' and that means that it's time to duck and cover while Tommy holds court on one or more of his pet driving peeves. Today's target: inconsiderate younger drivers who don't yield right of way. And that's just the beginning. That, more calls and a new puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -322,7 +322,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-03-12.mp3",
         title: "#2221: Calling Dr Cheapskate",
         description:
-            "March 12, 2022 • Linda from Ambler, PA has a boyfriend who is a medical doctor AND a cheapskate. We know he's a cheapskate not just because he drives an old Ford Escort Wagon, but Linda says it moans constantly when in motion. Can Tom and Ray save this patient? Check out this episode of the Best of Car Talk for this, more calls and a new puzzler!",
+            "Linda from Ambler, PA has a boyfriend who is a medical doctor AND a cheapskate. We know he's a cheapskate not just because he drives an old Ford Escort Wagon, but Linda says it moans constantly when in motion. Can Tom and Ray save this patient? Check out this episode of the Best of Car Talk for this, more calls and a new puzzler!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -337,7 +337,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-03-15.mp3",
         title: "#2222: When Your Mechanic is Either Honest or Competent",
         description:
-            "March 15, 2022 • Politicians aren't the only ones in DC that come in just two types. Allen from Washington, DC is facing a dilemma regarding his local mechanics and humbly asks the boys a very profound question: When faced with a mechanic who is either honest and incompetent or one who is competent but crooked, how do you choose? Fortunately(or unfortunately?), Allen has come to the leading authorities on automotive incompetency. That, plus more calls and a new puzzler on this episode of the Best of Car Talk.",
+            "Politicians aren't the only ones in DC that come in just two types. Allen from Washington, DC is facing a dilemma regarding his local mechanics and humbly asks the boys a very profound question: When faced with a mechanic who is either honest and incompetent or one who is competent but crooked, how do you choose? Fortunately(or unfortunately?), Allen has come to the leading authorities on automotive incompetency. That, plus more calls and a new puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -352,7 +352,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-03-19.mp3",
         title: "#2223: Everything's Bigger in Texas",
         description:
-            "March 19, 2022 • Melissa from Roseville, Texas has a car on it's last legs. Her mother has kindly offered to sell Melissa her Pontiac Grand Am, but Melissa's husband, 'Tex' -he of the Nissan Pickup with multiple roadkills to its name- won't have it. \"Too small\", says Tex. Can the boys settle this Texas-sized marital dispute? Check it out along with more calls and a new puzzler on this episode of the Best of Car Talk!",
+            "Melissa from Roseville, Texas has a car on it's last legs. Her mother has kindly offered to sell Melissa her Pontiac Grand Am, but Melissa's husband, 'Tex' -he of the Nissan Pickup with multiple roadkills to its name- won't have it. \"Too small\", says Tex. Can the boys settle this Texas-sized marital dispute? Check it out along with more calls and a new puzzler on this episode of the Best of Car Talk!",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -367,7 +367,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-03-22.mp3",
         title: "#2224: Breaking the Curse",
         description:
-            "March 22, 2022 • Jill from California has a dilemma. Her family's habit is to drive their cars into the ground -past the point of usefulness(do not pass 'Go', do not collect $200). But Jill is having thoughts of selling her '82 Landcruiser, while it's still running ok. Should she dare attempt to break the family car curse and actually sell this car while it still runs? What will the neighbors say? Find out what Tom and Ray say to Jill and the rest of the callers on this episode of the Best of Car Talk.",
+            "Jill from California has a dilemma. Her family's habit is to drive their cars into the ground -past the point of usefulness(do not pass 'Go', do not collect $200). But Jill is having thoughts of selling her '82 Landcruiser, while it's still running ok. Should she dare attempt to break the family car curse and actually sell this car while it still runs? What will the neighbors say? Find out what Tom and Ray say to Jill and the rest of the callers on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -382,7 +382,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-03-26.mp3",
         title: "#2225: I Have the Answer! Now Where Did it Go?",
         description:
-            "March 26, 2022 • Kris from Washington has a Subaru that 'thunks' around corners. After the boys ask a few probing and insightful questions they seize upon an answer -and promptly forget it in the excitement. Will Kris get some useful help? Will this week's puzzler be better than last week's? Only one way to find out: Check out this episode of the Best of Car Talk for all this, a new puzzler and more calls.",
+            "Kris from Washington has a Subaru that 'thunks' around corners. After the boys ask a few probing and insightful questions they seize upon an answer -and promptly forget it in the excitement. Will Kris get some useful help? Will this week's puzzler be better than last week's? Only one way to find out: Check out this episode of the Best of Car Talk for all this, a new puzzler and more calls.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -397,7 +397,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-03-29.mp3",
         title: "#2226: The Klutz and the Clutch",
         description:
-            "March 29, 2022 • Carol was heading back to school in her Corolla and managed to knock the shifter out of 5th gear and into neutral twice and now it won't go into 5th anymore. Her mechanic is certain that she broke the synchronizer in her transmission and he's getting that 'instant boat payment' look in his eyes. Did Carol really break the synchro?.. And so what if she did? Does she have to fix it or is four gears 'good enough'? Find out on this episode of the Best of Car Talk.",
+            "Carol was heading back to school in her Corolla and managed to knock the shifter out of 5th gear and into neutral twice and now it won't go into 5th anymore. Her mechanic is certain that she broke the synchronizer in her transmission and he's getting that 'instant boat payment' look in his eyes. Did Carol really break the synchro?.. And so what if she did? Does she have to fix it or is four gears 'good enough'? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -412,7 +412,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-04-02.mp3",
         title: "#2227: Bovine Auto Elixirs",
         description:
-            "April 2, 2022 • Did you know that 'cow magnets' -which keep our bovine friends from digesting too much metal- can also improve your car's(and perhaps the cow's)gas mileage? Neither did we. Listen, learn and laugh on today's Best of Car Talk.",
+            "Did you know that 'cow magnets' -which keep our bovine friends from digesting too much metal- can also improve your car's(and perhaps the cow's)gas mileage? Neither did we. Listen, learn and laugh on today's Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -427,7 +427,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-04-05.mp3",
         title: "#2228: Hockin' Loogies",
         description:
-            "April 5, 2022 • Robert from Los Angeles has just about had it with the traffic on his local, bumper-to-bumper, take-no-prisoners highway and he's begun jousting with aggressive tractor trailer drivers to vent his frustration. To put it mildly, the truckers aren't amused or intimidated by Robert in his Ford Escort and they are letting him know this in a road-ragey kind of way. Can Tom and Ray calm Robert down, or will he end up 'flattened on the 405'? Also, a new puzzler and more calls right here on the Best of Car Talk.",
+            "Robert from Los Angeles has just about had it with the traffic on his local, bumper-to-bumper, take-no-prisoners highway and he's begun jousting with aggressive tractor trailer drivers to vent his frustration. To put it mildly, the truckers aren't amused or intimidated by Robert in his Ford Escort and they are letting him know this in a road-ragey kind of way. Can Tom and Ray calm Robert down, or will he end up 'flattened on the 405'? Also, a new puzzler and more calls right here on the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -442,7 +442,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-04-09.mp3",
         title: "#2229: Sarah's Ford Taurus IHOP",
         description:
-            "April 9, 2022 • You may know that for a few years Ford produced a testosterone-poisoned version of their popular Taurus sedan that they labeled the 'IROC'. Well, it seems that Sarah from nearby Brookline, MA somehow ended up with the Ford Taurus 'IHOP'. She has an unrelenting smell of waffles and maple syrup every time she turns on her heat. Will the boys be able to figure this one out? Grab a cup of joe and enjoy this breakfast edition of the Best of Car Talk.",
+            "You may know that for a few years Ford produced a testosterone-poisoned version of their popular Taurus sedan that they labeled the 'IROC'. Well, it seems that Sarah from nearby Brookline, MA somehow ended up with the Ford Taurus 'IHOP'. She has an unrelenting smell of waffles and maple syrup every time she turns on her heat. Will the boys be able to figure this one out? Grab a cup of joe and enjoy this breakfast edition of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -457,7 +457,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-04-12.mp3",
         title: "#2230: Relevant Inexperience",
         description:
-            "April 12, 2022 • Kevin's Pontiac is outfitted with an early version of a modern digital dashboard and it's giving him trouble. But his mechanic won't work on it because he's never worked on one before. Click and Clack, however, are firm believers in broadening one's knowledge base and expertise at the customer's expense and they find this mechanic's wimpiness professionally disappointing. Find out if Kevin and the rest of the callers get any qualified car advice on this episode of the Best of Car Talk.",
+            "Kevin's Pontiac is outfitted with an early version of a modern digital dashboard and it's giving him trouble. But his mechanic won't work on it because he's never worked on one before. Click and Clack, however, are firm believers in broadening one's knowledge base and expertise at the customer's expense and they find this mechanic's wimpiness professionally disappointing. Find out if Kevin and the rest of the callers get any qualified car advice on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -472,7 +472,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-04-16.mp3",
         title: "#2231: The Tale of the Two Wheeled Tailgater",
         description:
-            "April 16, 2022 • On a recent show the brothers flatly stated that no one ever gets cited for tailgating on the roads nowadays. Christopher, a humble student from St. Louis begs to differ. He was going down the road in his Peugeot when he got pulled over for following to close to the vehicle in front of him. Hear Chris tell the rest of his tailgating tale on this episode of the Best of Car Talk.",
+            "On a recent show the brothers flatly stated that no one ever gets cited for tailgating on the roads nowadays. Christopher, a humble student from St. Louis begs to differ. He was going down the road in his Peugeot when he got pulled over for following to close to the vehicle in front of him. Hear Chris tell the rest of his tailgating tale on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -487,7 +487,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-04-19.mp3",
         title: "#2232: Donna's Theft-Proof Pontiac",
         description:
-            "April 19, 2022 • Donna's Pontiac is giving her problems. Instead of being the prototypical 'Donna Pontiac' of Car Talk lore -a Firebird, she's stuck with a lowly Pontiac 1000 -a Chevy Chevette in disguise. And if that wasn't bad enough, her ignition key, of all things, is causing trouble. Can Tom and Ray talk Donna into trading-in this heap for a shiny new Firebird or will they come up with a fix for this 'starter Pontiac'? Find out on this episode of the Best of Car Talk.",
+            "Donna's Pontiac is giving her problems. Instead of being the prototypical 'Donna Pontiac' of Car Talk lore -a Firebird, she's stuck with a lowly Pontiac 1000 -a Chevy Chevette in disguise. And if that wasn't bad enough, her ignition key, of all things, is causing trouble. Can Tom and Ray talk Donna into trading-in this heap for a shiny new Firebird or will they come up with a fix for this 'starter Pontiac'? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -502,7 +502,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-04-23.mp3",
         title: "#2233: To Wash or Not To Wash",
         description:
-            'April 23, 2022 • "Ford or Chevy?", "Standard or Auto-magic?", "Two-door or Four-door?", "Hard-top or convertible?", "Does She or Doesn\'t She?". Add to this list of great automotive choices Jerry and his girlfriend Mari\'s, "To wash or not to wash?" Is it really necessary in the middle of a New York winter to wash your car when it will be just as dirty within a few days? As luck would have it, the brothers disagree with both choices. Check it out on this episode of the Best of Car Talk.',
+            '"Ford or Chevy?", "Standard or Auto-magic?", "Two-door or Four-door?", "Hard-top or convertible?", "Does She or Doesn\'t She?". Add to this list of great automotive choices Jerry and his girlfriend Mari\'s, "To wash or not to wash?" Is it really necessary in the middle of a New York winter to wash your car when it will be just as dirty within a few days? As luck would have it, the brothers disagree with both choices. Check it out on this episode of the Best of Car Talk.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -517,7 +517,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-04-26.mp3",
         title: "#2234: It's the Fuel Economy, Stupid!",
         description:
-            "April 26, 2022 • Sheila's husband is running for President of the United States and the two of them are about to embark on a barnstorming tour of the US in Sheila's Chevy Chevette. So, yeah, we're guessing this has got to be a longshot campaign. Sheila says that her mechanic recently fixed something in the car's electrical system with his wife's earring and some epoxy and now Sheila and her Presidential hopeful husband want to know if they should reconsider at least the Chevette's candidacy? Check it out on this episode of the Best of Car Talk.",
+            "Sheila's husband is running for President of the United States and the two of them are about to embark on a barnstorming tour of the US in Sheila's Chevy Chevette. So, yeah, we're guessing this has got to be a longshot campaign. Sheila says that her mechanic recently fixed something in the car's electrical system with his wife's earring and some epoxy and now Sheila and her Presidential hopeful husband want to know if they should reconsider at least the Chevette's candidacy? Check it out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -532,7 +532,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-04-30.mp3",
         title: "#2235: Masters of Noise",
         description:
-            "April 30, 2022 • Today the boys try to help Erin from Maryland with her Honda's oddly-timed noise and then they say hello to one of the show's all-time favorite callers: Lyle from Alabama, who's suffering from a stuck dipstick. Imagine the possibilities. All this and a new puzzler on this episode of the Best of Car Talk.",
+            "Today the boys try to help Erin from Maryland with her Honda's oddly-timed noise and then they say hello to one of the show's all-time favorite callers: Lyle from Alabama, who's suffering from a stuck dipstick. Imagine the possibilities. All this and a new puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -547,7 +547,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-05-03.mp3",
         title: "#2236: What Number is This?",
         description:
-            "May 3, 2022 • The Puzzler usually goes off the rails when the brothers' grasp of the concept is 'imperfect', shall we say. This time it's the demonstration of the concept that almost gets them in trouble. Good thing they have 'faces made for radio' or the FCC would be all over them. That, and more, on this episode of the Best of Car Talk.",
+            "The Puzzler usually goes off the rails when the brothers' grasp of the concept is 'imperfect', shall we say. This time it's the demonstration of the concept that almost gets them in trouble. Good thing they have 'faces made for radio' or the FCC would be all over them. That, and more, on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -562,7 +562,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-05-07.mp3",
         title: "#2237: Honk if I'm on Fire",
         description:
-            "May 7, 2022 • Deb's 12 year old Volvo has served her well but it's starting to show it's age. She's ok with driving a 'beater', but an oil leak in the area of her hot exhaust pipes has her pretty concerned. Is she going to go out in a 'blaze of glory' while bopping down the highway? The brothers attempt to calm her fears and have a little fun in the process. All this and the story of the 'Princess of Unidilla, New York' on this episode of the Best of Car Talk.",
+            "Deb's 12 year old Volvo has served her well but it's starting to show it's age. She's ok with driving a 'beater', but an oil leak in the area of her hot exhaust pipes has her pretty concerned. Is she going to go out in a 'blaze of glory' while bopping down the highway? The brothers attempt to calm her fears and have a little fun in the process. All this and the story of the 'Princess of Unidilla, New York' on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -577,7 +577,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-05-10.mp3",
         title: "#2238: The Three Mikes",
         description:
-            "May 10, 2022 • After taking delivery of his recently purchased BMW, author and friend of the show Daniel Pinkwater struggles to interpret a few clues: Strobing dashboard lights, an overflowing ashtray, a pile of corn chips and the curious behavior of the dog. From Car Talk's 'Pinkwater Files' comes, \"The Tale of the Three Mikes.\" Can Tom and Ray make like Holmes and Watson and solve this puzzler(and a few others)? Find out on this episode of the Best of Car Talk.",
+            "After taking delivery of his recently purchased BMW, author and friend of the show Daniel Pinkwater struggles to interpret a few clues: Strobing dashboard lights, an overflowing ashtray, a pile of corn chips and the curious behavior of the dog. From Car Talk's 'Pinkwater Files' comes, \"The Tale of the Three Mikes.\" Can Tom and Ray make like Holmes and Watson and solve this puzzler(and a few others)? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -592,7 +592,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-05-14.mp3",
         title: "#2239: Le Citron de Karen",
         description:
-            'May 14, 2022 • Being the owner of a French car can be, well... challenging. Poor Karen. Her Renault Encore has been in the shop regularly for major work and her most recent problem sounds like a doozie. The car is making a bunch of noises(in French!) that have her worried. Comment dit-on "paiement du bateau" en français? Check it out on this episode of the Best of Car Talk.',
+            'Being the owner of a French car can be, well... challenging. Poor Karen. Her Renault Encore has been in the shop regularly for major work and her most recent problem sounds like a doozie. The car is making a bunch of noises(in French!) that have her worried. Comment dit-on "paiement du bateau" en français? Check it out on this episode of the Best of Car Talk.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -607,7 +607,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-05-17.mp3",
         title: "#2240: Car Talk Confidential",
         description:
-            "May 17, 2022 • 'Sonja Henie's Tutu'? A 'Full Chicago'? For the uninitiated, Tom and Ray take a moment to provide an insider's guide to a few of Car Talk's shorthand phrases while still finding time to 'help' Toni and others with their car problems. Also, the first mention of perennial puzzler foil 'Krusty' the mechanic as part of the new puzzler on this episode of The Best of Car Talk.",
+            "'Sonja Henie's Tutu'? A 'Full Chicago'? For the uninitiated, Tom and Ray take a moment to provide an insider's guide to a few of Car Talk's shorthand phrases while still finding time to 'help' Toni and others with their car problems. Also, the first mention of perennial puzzler foil 'Krusty' the mechanic as part of the new puzzler on this episode of The Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -622,7 +622,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-05-21.mp3",
         title: "#2241: Krusty's Big Debut",
         description:
-            "May 21, 2022 • Every car repair shop has that old, grizzled mechanic who's willing to be strapped to the hood of a moving car in order to listen for a noise, or to hold two wires together with his bare hands in order to check for high voltage current. At Car Talk, that mechanic was Krusty. Krusty could not only tell you -with a taste off his fingertip- whether that oil stain was 30 or 40-weight , but he could do it while wafting tailpipe smoke into his mouth as a way of double checking the shop's exhaust gas analyzer. The legend that was Krusty was a feature of the puzzler for decades and here is one of his early mentions.",
+            "Every car repair shop has that old, grizzled mechanic who's willing to be strapped to the hood of a moving car in order to listen for a noise, or to hold two wires together with his bare hands in order to check for high voltage current. At Car Talk, that mechanic was Krusty. Krusty could not only tell you -with a taste off his fingertip- whether that oil stain was 30 or 40-weight , but he could do it while wafting tailpipe smoke into his mouth as a way of double checking the shop's exhaust gas analyzer. The legend that was Krusty was a feature of the puzzler for decades and here is one of his early mentions.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -637,7 +637,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-05-24.mp3",
         title: "#2242: Picking an Urban Safari Vehicle",
         description:
-            "May 24, 2022 • Kyla will be looking for a new ride soon and she has her sights set on an odd class of vehicle that includes the Geo Tracker and the Suzuki Sidekick, which were supposed to look like off-road vehicles. Well, they got the 'off-road' part sort of right: they never should have been allowed on roads of any kind. But it will take some careful persuasion to talk Kyla out of this potential purchase. That, a new puzzler and more calls on this episode of the Best of Car Talk.",
+            "Kyla will be looking for a new ride soon and she has her sights set on an odd class of vehicle that includes the Geo Tracker and the Suzuki Sidekick, which were supposed to look like off-road vehicles. Well, they got the 'off-road' part sort of right: they never should have been allowed on roads of any kind. But it will take some careful persuasion to talk Kyla out of this potential purchase. That, a new puzzler and more calls on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -652,7 +652,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-05-28.mp3",
         title: "#2243: Mike Scuttles His Acura",
         description:
-            "May 28, 2022 • How sea-worthy is your car? Not sure? Neither was Mike, but he found himself doing a little impromptu pond skimming in his Acura Integra at about 26 knotts and it didn't go so well. Find out what happens when your car takes a big drink of water on this episode of the Best of Car Talk.",
+            "How sea-worthy is your car? Not sure? Neither was Mike, but he found himself doing a little impromptu pond skimming in his Acura Integra at about 26 knotts and it didn't go so well. Find out what happens when your car takes a big drink of water on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -667,7 +667,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-05-31.mp3",
         title: "#2244: Don't Furry About It!",
         description:
-            "May 31, 2022 • The other day Ashley was standing behind her Toyota Camry while a friend tried to start it. At the very moment the engine roared to life, out of the car's muffler came a fur ball with enough force that it passed right by her. Now, the Camry has been having a few power issues lately, but is Ashley going to have to replace all four hamsters AND their little exercise wheels, or can her Camry run fine on just three of the little guys? Find out on this episode of the Best of Car Talk.",
+            "The other day Ashley was standing behind her Toyota Camry while a friend tried to start it. At the very moment the engine roared to life, out of the car's muffler came a fur ball with enough force that it passed right by her. Now, the Camry has been having a few power issues lately, but is Ashley going to have to replace all four hamsters AND their little exercise wheels, or can her Camry run fine on just three of the little guys? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -682,7 +682,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-06-04.mp3",
         title: "#2245: To Wax Or Not To Wax",
         description:
-            "June 4, 2022 • Andy from Colorado loves to wax his cars. Andy's friends think that he is completely wasting his time because, they say, modern cars have protective coatings that make waxing unnecessary. Hear the brothers waxing poetically, philosophically and in tight overlapping circular motions on this episode of the Best of Car Talk.",
+            "Andy from Colorado loves to wax his cars. Andy's friends think that he is completely wasting his time because, they say, modern cars have protective coatings that make waxing unnecessary. Hear the brothers waxing poetically, philosophically and in tight overlapping circular motions on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -697,7 +697,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-06-07.mp3",
         title: "#2246: Have Another Starter!",
         description:
-            "June 7, 2022 • Susan from Virginia took her trusty Dodge Omni on a long trip recently and encountered starting problems after stopping every few hours. A local mechanic at her destination talked her into replacing the starter but the problem persisted on her return trip. Did Susan get ripped-off and get a starter she didn't need? Can Tom and Ray interest her in another starter? Hear our know-it-alls try and figure out Susan's problem along with several others on this episode of the Best of Car Talk.",
+            "Susan from Virginia took her trusty Dodge Omni on a long trip recently and encountered starting problems after stopping every few hours. A local mechanic at her destination talked her into replacing the starter but the problem persisted on her return trip. Did Susan get ripped-off and get a starter she didn't need? Can Tom and Ray interest her in another starter? Hear our know-it-alls try and figure out Susan's problem along with several others on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -712,7 +712,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-06-11.mp3",
         title: "#2247: Steve's Fowl-Smelling Caravan",
         description:
-            "June 11, 2022 • Steve from Virginia couldn't locate the turkey that he was sure he had just picked up at the grocery store the other day, so he went out and got another. About one week later, the guys at his local repair shop opened up his Dodge Caravan and found the missing turkey under the backseat! Find out how many air fresheners it will take to mask that smell on this episode of the Best of Car Talk.",
+            "Steve from Virginia couldn't locate the turkey that he was sure he had just picked up at the grocery store the other day, so he went out and got another. About one week later, the guys at his local repair shop opened up his Dodge Caravan and found the missing turkey under the backseat! Find out how many air fresheners it will take to mask that smell on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -727,7 +727,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-06-14.mp3",
         title: "#2248: The Games of Ancient Grease",
         description:
-            "June 14, 2022 • WBUR management used to make us host a party for our listeners about once a year as a way of apologizing for our lousy show. Having had our fill of Sock Hops and other themed events in previous years, we settled on a carnival-styled occasion and called it, \"The Games of Ancient Grease\". We rounded up a bunch of old car parts and we invented some games of (little) skill like 'the discus-brake-us toss', 'The MacPherson Strut' and 'Pin the Tail on Tommy's Dodge Dart'. In this episode of the Best of Car Talk we pick the winner of the all-expenses paid trip to our party from the trunk of the Dart.",
+            "WBUR management used to make us host a party for our listeners about once a year as a way of apologizing for our lousy show. Having had our fill of Sock Hops and other themed events in previous years, we settled on a carnival-styled occasion and called it, \"The Games of Ancient Grease\". We rounded up a bunch of old car parts and we invented some games of (little) skill like 'the discus-brake-us toss', 'The MacPherson Strut' and 'Pin the Tail on Tommy's Dodge Dart'. In this episode of the Best of Car Talk we pick the winner of the all-expenses paid trip to our party from the trunk of the Dart.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -742,7 +742,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-06-18.mp3",
         title: "#2249: Sixty, Sexy and Single",
         description:
-            "June 18, 2022 • Ann from Minnesota needs a new car that helps her maintain her self image as 'sixty, sexy and single' without making her look like she's trying to compete with her daughter. '63 Dodge Darts are few and far between, so which of the other available convertibles on the market will suit Ann? Find out on this episode of the Best of Car Talk.",
+            "Ann from Minnesota needs a new car that helps her maintain her self image as 'sixty, sexy and single' without making her look like she's trying to compete with her daughter. '63 Dodge Darts are few and far between, so which of the other available convertibles on the market will suit Ann? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -757,7 +757,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-06-21.mp3",
         title: "#2250: He Broke My Nose!",
         description:
-            "June 21, 2022 • On this episode of the Best of Car Talk more callers with car questions and a story from the Magliozzi family facial-reconstruction files. Ray recalls how his older, wiser brother Tom turned a friendly game of catch in their yard into a trip to the hospital.",
+            "On this episode of the Best of Car Talk more callers with car questions and a story from the Magliozzi family facial-reconstruction files. Ray recalls how his older, wiser brother Tom turned a friendly game of catch in their yard into a trip to the hospital.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -772,7 +772,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-06-25.mp3",
         title: "#2251: Driveway Diplomacy",
         description:
-            "June 25, 2022 • Chip lives in a congested suburban area where his next door neighbor is in the habit of warming up his car every day for 20 minutes in the driveway that's right between their two houses. Chip isn't sure whether to approach his neighbor with the 'poisonous fumes' or 'you're wrecking your car' or 'you're wrecking our planet' approach. Will Tom and Ray be able to help Chip deftly navigate this situation, or will they just put a lit match to it? Find out on this episode of the Best of Car Talk.",
+            "Chip lives in a congested suburban area where his next door neighbor is in the habit of warming up his car every day for 20 minutes in the driveway that's right between their two houses. Chip isn't sure whether to approach his neighbor with the 'poisonous fumes' or 'you're wrecking your car' or 'you're wrecking our planet' approach. Will Tom and Ray be able to help Chip deftly navigate this situation, or will they just put a lit match to it? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -787,7 +787,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-06-28.mp3",
         title: "#2252: Don't Bother Us With Details",
         description:
-            "June 28, 2022 • Mary from Illinois has been offered a company car by her employer . She can have either the reliable Mercury Sable, a sporty Jeep Cherokee or the vehicle of choice for seniors: the Chrysler New Yorker. Tom and Ray want to understand as much as possible before advising Mary and that leads to some unexpected answers on this episode of the Best of Car Talk.",
+            "Mary from Illinois has been offered a company car by her employer . She can have either the reliable Mercury Sable, a sporty Jeep Cherokee or the vehicle of choice for seniors: the Chrysler New Yorker. Tom and Ray want to understand as much as possible before advising Mary and that leads to some unexpected answers on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -802,7 +802,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-07-02.mp3",
         title: "#2253: The Engine Oil Thief",
         description:
-            "July 2, 2022 • Nancy from Colorado has a thirsty engine. Her GMC Jimmy consumes a quart of oil every 200 miles. Her local dealership is running out of ideas and they are starting to doubt Nancy's veracity to the point that they have sealed the engine shut after adding dye to the oil to see if it indeed is leaking. Nancy thinks they suspect her of sabotaging her own engine! Can our boys make sense of this one? Find out on this episode of the Best of Car Talk.",
+            "Nancy from Colorado has a thirsty engine. Her GMC Jimmy consumes a quart of oil every 200 miles. Her local dealership is running out of ideas and they are starting to doubt Nancy's veracity to the point that they have sealed the engine shut after adding dye to the oil to see if it indeed is leaking. Nancy thinks they suspect her of sabotaging her own engine! Can our boys make sense of this one? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -817,7 +817,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-07-05.mp3",
         title: "#2254: Little Honda on the Prairie",
         description:
-            "July 5, 2022 • Margaret from Minnesota has a Honda with an 'old-timey' steering problem. When she comes to a stop her steering wheel jumps in and out directly at her as if she were \"churning butter\". Has Margaret been watching too many episodes of 'Bonanza' or 'Little House on the Prairie', or is she just out of butter? Or maybe there really is something wrong with this car? Find out on this episode of the Best of Car Talk.",
+            "Margaret from Minnesota has a Honda with an 'old-timey' steering problem. When she comes to a stop her steering wheel jumps in and out directly at her as if she were \"churning butter\". Has Margaret been watching too many episodes of 'Bonanza' or 'Little House on the Prairie', or is she just out of butter? Or maybe there really is something wrong with this car? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -832,7 +832,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-07-09.mp3",
         title: "#2255: How Cheap is Too Cheap?",
         description:
-            "July 9, 2022 • Dick from California has kept his Volvo going for 20 years and he wants to know if he should spring for a new engine and go for another 20. Is this a case of overvaluing a Volvo?.. persnickety penury?.. or is Dick just a churlish cheapskate? Find out on this episode of the Best of Car Talk.",
+            "Dick from California has kept his Volvo going for 20 years and he wants to know if he should spring for a new engine and go for another 20. Is this a case of overvaluing a Volvo?.. persnickety penury?.. or is Dick just a churlish cheapskate? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -847,7 +847,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-07-12.mp3",
         title: "#2256: Self Soothing Behaviors of the Modern Male Driver",
         description:
-            "July 12, 2022 • Dani's husband has taken to unnecessarily shifting her automatic transmission Toyota as if it were a standard shift whenever he drives it. Is she right in blaming him and his 'neanderthalish' and unnecessary need to 'shift something' for the car's recent transmission failure? Could be... Will Tom and Ray grind some marital gears on the way to solving this one? You betcha'! Check it out on this episode of the Best of Car Talk.",
+            "Dani's husband has taken to unnecessarily shifting her automatic transmission Toyota as if it were a standard shift whenever he drives it. Is she right in blaming him and his 'neanderthalish' and unnecessary need to 'shift something' for the car's recent transmission failure? Could be... Will Tom and Ray grind some marital gears on the way to solving this one? You betcha'! Check it out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -862,7 +862,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-07-16.mp3",
         title: "#2257: Are We Really Brothers?",
         description:
-            "July 16, 2022 • The Brothers Magliozzi disagree about many things. Old cars vs New cars, Ford or Chevy, fix or replace, boxers vs briefs. Car Talk exists to explore these differences, but you would think that there were at least a few things that they could agree on. Well...",
+            "The Brothers Magliozzi disagree about many things. Old cars vs New cars, Ford or Chevy, fix or replace, boxers vs briefs. Car Talk exists to explore these differences, but you would think that there were at least a few things that they could agree on. Well...",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -877,7 +877,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-07-19.mp3",
         title: "#2258: A Laser-like Focus",
         description:
-            "July 19, 2022 • In order to help callers figure out what ails their cars, Click and Clack have to keep a lot of details straight. This, the boys assure us, requires a truly laser-like focus. From show-to-show we're never quite sure what that laser is going to be focused on exactly, but on this episode of the Best of Car Talk it would seem to be 'all things South Dakotan'.",
+            "In order to help callers figure out what ails their cars, Click and Clack have to keep a lot of details straight. This, the boys assure us, requires a truly laser-like focus. From show-to-show we're never quite sure what that laser is going to be focused on exactly, but on this episode of the Best of Car Talk it would seem to be 'all things South Dakotan'.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -892,7 +892,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-07-23.mp3",
         title: "#2259: Sherry's Menopausal Mercury",
         description:
-            "July 23, 2022 • Sherry has an older Mercury that is becoming menopausal(Sherry's words -not ours!). She says that it exhibits 'hot flashes' with the dashboard gauges spiking up and down at random times. Don't worry: as usual, all wisecracks about 'irritability, moodiness and weight gain' refer to Click and Clack themselves on this episode of the Best of Car Talk.",
+            "Sherry has an older Mercury that is becoming menopausal(Sherry's words -not ours!). She says that it exhibits 'hot flashes' with the dashboard gauges spiking up and down at random times. Don't worry: as usual, all wisecracks about 'irritability, moodiness and weight gain' refer to Click and Clack themselves on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -907,7 +907,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-07-26.mp3",
         title: "#2260: Don't Forget the Sunscreen",
         description:
-            "July 26, 2022 • David likes to drive his Mercedes Diesel from Los Angelas to New Mexico occasionally and he thinks the car is having some trouble on his long trips through the desert. He adds that he only notices the problem after he takes his shoes and shirt off. Okee-doke. Will the boys have to avert their eyes while solving this one? Find out on this episode of the Best of Car Talk.",
+            "David likes to drive his Mercedes Diesel from Los Angelas to New Mexico occasionally and he thinks the car is having some trouble on his long trips through the desert. He adds that he only notices the problem after he takes his shoes and shirt off. Okee-doke. Will the boys have to avert their eyes while solving this one? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -922,7 +922,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-07-30.mp3",
         title: "#2261: One Million Original Miles",
         description:
-            "July 30, 2022 • Julie from Maryland is trying to sell her much-beloved Chevy SUV but all her potential buyers are scared off by the car's high mileage. She needs a new sales strategy and Ray shares the story of trying to sell his old Pontiac with a million miles. And don't miss the return of the Puzzler from extended Summer vacation on this episode of the Best of Car Talk.",
+            "Julie from Maryland is trying to sell her much-beloved Chevy SUV but all her potential buyers are scared off by the car's high mileage. She needs a new sales strategy and Ray shares the story of trying to sell his old Pontiac with a million miles. And don't miss the return of the Puzzler from extended Summer vacation on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -937,7 +937,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-08-02.mp3",
         title: "#2262: Really Low Cost Air Travel",
         description:
-            "August 2, 2022 • Carl from California has the urge to fly. But instead of buying an airline ticket or maybe taking a few flying lessons Carl wants to build his own airplane. Ol' Carl is certainly up for a challenge. So he called Car Talk and asked our boys which car engine would be the best choice to put in his homemade plane. Is Carl nuts? Yes. Are the brothers crazy enough to give him an answer? Find out on this episode of the Best of Car Talk.",
+            "Carl from California has the urge to fly. But instead of buying an airline ticket or maybe taking a few flying lessons Carl wants to build his own airplane. Ol' Carl is certainly up for a challenge. So he called Car Talk and asked our boys which car engine would be the best choice to put in his homemade plane. Is Carl nuts? Yes. Are the brothers crazy enough to give him an answer? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -952,7 +952,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-08-06.mp3",
         title: "#2263: Sister Mary Anne's Tire Fund",
         description:
-            "August 6, 2022 • On the occasion of moving to their new fair city of Cambridge, MA the brothers tempt fate by weighing in on Sister Mary Anne's problems with her Plymouth as well as Karl's Honda horn and Scott's unalignable minivan. All this and the new puzzler on this episode of the Best of Car Talk.",
+            "On the occasion of moving to their new fair city of Cambridge, MA the brothers tempt fate by weighing in on Sister Mary Anne's problems with her Plymouth as well as Karl's Honda horn and Scott's unalignable minivan. All this and the new puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -967,7 +967,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-08-09.mp3",
         title: "#2264: A Lifetime of Hand Me Down Cars",
         description:
-            "August 9, 2022 • Victoria from DC has spent her adult years driving a series of hand-me-down cars from her family. Her latest choice -if you can call it a choice- is between her current AMC Spirit and a Chrysler K car. Click and Clack resist suggesting an untimely two-car fire and instead try to offer useful guidance on this epiode of the Best of Car Talk.",
+            "Victoria from DC has spent her adult years driving a series of hand-me-down cars from her family. Her latest choice -if you can call it a choice- is between her current AMC Spirit and a Chrysler K car. Click and Clack resist suggesting an untimely two-car fire and instead try to offer useful guidance on this epiode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -982,7 +982,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-08-13.mp3",
         title: "#2265: Pretty Bird",
         description:
-            "August 13, 2022 • Susan fr California managed to stick her ex-husband with a pet parakeet and kept the Mercury Lynx in their divorce settlement. But now, instead of having to clean up the birdcage and hearing 'Pretty Bird' all day long she's driving around in a car that is billowing smoke. Is it too late to reconsider the parakeet? Find out on this episode of the Best of Car Talk.",
+            "Susan fr California managed to stick her ex-husband with a pet parakeet and kept the Mercury Lynx in their divorce settlement. But now, instead of having to clean up the birdcage and hearing 'Pretty Bird' all day long she's driving around in a car that is billowing smoke. Is it too late to reconsider the parakeet? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -997,7 +997,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-08-16.mp3",
         title: "#2266: The Double Groan",
         description:
-            "August 16, 2022 • Janice from Pasadena has a Mercedes that can't climb hills. She has taken it to several mechanics who are trying to help but can't figure it out. It could be the transmission or it could be the engine. Will Click and Clack take opposing sides on this diagnosis or is Janice going to get the dreaded 'double groan'? Find out on this episode of the Best of Car Talk.",
+            "Janice from Pasadena has a Mercedes that can't climb hills. She has taken it to several mechanics who are trying to help but can't figure it out. It could be the transmission or it could be the engine. Will Click and Clack take opposing sides on this diagnosis or is Janice going to get the dreaded 'double groan'? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1012,7 +1012,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-08-20.mp3",
         title: "#2267: High Stakes",
         description:
-            "August 20, 2022 • Genie from Kentucky thinks that her hubby shouldn't be stepping on the gas every time he starts their car and she's betting him a steak dinner that Click and Clack will side with her. And Rich from DC thinks he needs to put a stake through the heart of his wife's possessed VW Dasher. Them's the stakes on this episode of the Best of Car Talk.",
+            "Genie from Kentucky thinks that her hubby shouldn't be stepping on the gas every time he starts their car and she's betting him a steak dinner that Click and Clack will side with her. And Rich from DC thinks he needs to put a stake through the heart of his wife's possessed VW Dasher. Them's the stakes on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1027,7 +1027,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-08-23.mp3",
         title: "#2268: Donna's Hyundai",
         description:
-            "August 23, 2022 • Donna from Virginia used to be a REAL Donna in the Car Talk mold: She owned a couple of Camaro's and was perfectly happy. But Donna decided to tempt fate and bought a Hyundai and now all is not well with Donna. Can Click and Clack help Donna or does she have to change her name? Find out on this episode of the Best of Car Talk.",
+            "Donna from Virginia used to be a REAL Donna in the Car Talk mold: She owned a couple of Camaro's and was perfectly happy. But Donna decided to tempt fate and bought a Hyundai and now all is not well with Donna. Can Click and Clack help Donna or does she have to change her name? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1042,7 +1042,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-08-27.mp3",
         title: "#2269: Too Cool for School",
         description:
-            "August 27, 2022 • Fletcher from Detroit is a wonderful, wide-eyed 16 year old kid who can't wait to get his first car. Unfortunately, Dad thinks that a 1980 Plymouth Volare is a perfectly fine car for Fletcher. Hard to believe Dad was ever a 16 year old, y'know? Can Click and Clack suggest an affordable alternative and help Fletcher keep his cool at school? Find out on this episode of the Best of Car Talk.",
+            "Fletcher from Detroit is a wonderful, wide-eyed 16 year old kid who can't wait to get his first car. Unfortunately, Dad thinks that a 1980 Plymouth Volare is a perfectly fine car for Fletcher. Hard to believe Dad was ever a 16 year old, y'know? Can Click and Clack suggest an affordable alternative and help Fletcher keep his cool at school? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1057,7 +1057,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-08-30.mp3",
         title: "#2270: Never Listen to Your Husband About Cars",
         description:
-            "August 30, 2022 • Hubby takes it on the chin today! The show starts out with Amy from Illinois whose husband is trying to convince her that driving an automatic with two feet is better. Next, Sam receives last rites on his jalopy and then Eva delivers a low blow to Chris who is worried about the AC in their Volvo. Will our two married hosts give these guys a break? Fat chance! All this and a new puzzler here on the Best of Car Talk.",
+            "Hubby takes it on the chin today! The show starts out with Amy from Illinois whose husband is trying to convince her that driving an automatic with two feet is better. Next, Sam receives last rites on his jalopy and then Eva delivers a low blow to Chris who is worried about the AC in their Volvo. Will our two married hosts give these guys a break? Fat chance! All this and a new puzzler here on the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1072,7 +1072,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-09-03.mp3",
         title: "#2271: Grandma Croaked Your Engine!",
         description:
-            "September 3, 2022 • Jodi fr New Jersey bought her Chevy from her dear old Grandma ...and then the troubles began. Click and Clack try to determine if Granny is blameless or should be arrested for trying to fleece her granddaughter. Also, more calls and a new Puzzler right here on this episode of the Best of Car Talk.",
+            "Jodi fr New Jersey bought her Chevy from her dear old Grandma ...and then the troubles began. Click and Clack try to determine if Granny is blameless or should be arrested for trying to fleece her granddaughter. Also, more calls and a new Puzzler right here on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1087,7 +1087,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-09-06.mp3",
         title: "#2272: The Until Death Do Us Parts and Service Warranty",
         description:
-            "September 6, 2022 • Greg from South Carolina is a former car salesman who once sold a car to his now current wife and it's giving her problems. Will Greg have any luck with, 'I'm sorry honey, but you're beyond the warranty period', or does the marital warranty supersede here? Click and Clack try to help him smooth things over on this episode of the Best of Car Talk.",
+            "Greg from South Carolina is a former car salesman who once sold a car to his now current wife and it's giving her problems. Will Greg have any luck with, 'I'm sorry honey, but you're beyond the warranty period', or does the marital warranty supersede here? Click and Clack try to help him smooth things over on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1102,7 +1102,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-09-10.mp3",
         title: "#2273: More Important Than a Clutch Adjustment",
         description:
-            "September 10, 2022 • Stuart from Tennessee has been experiencing premature wear out of the clutch on his Nissan. One of our hosts, while helping Stuart understand why he should fix this immediately realizes that he is also experiencing wear out due to insufficient 'freeplay'. More calls and a new Puzzler on this episode of the Best of Car Talk.",
+            "Stuart from Tennessee has been experiencing premature wear out of the clutch on his Nissan. One of our hosts, while helping Stuart understand why he should fix this immediately realizes that he is also experiencing wear out due to insufficient 'freeplay'. More calls and a new Puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1117,7 +1117,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-09-13.mp3",
         title: "#2274: Never Listen to Your Brother",
         description:
-            "September 13, 2022 • Tanya from Virginia has the good fortune to have a brother advising her on whether or not to junk her seven-year-old Mazda. Unfortunately, her brother is also a car salesman. Does the sibling bond overcome the sleaze factor in this situation? Click and Clack try to find out on this episode of the Best of Car Talk.",
+            "Tanya from Virginia has the good fortune to have a brother advising her on whether or not to junk her seven-year-old Mazda. Unfortunately, her brother is also a car salesman. Does the sibling bond overcome the sleaze factor in this situation? Click and Clack try to find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1132,7 +1132,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-09-17.mp3",
         title: "#2275: A Darker and Stormier Night",
         description:
-            "September 17, 2022 • \"It was a dark and stormy night.\" In his never ending quest to make the puzzler 'less lousy' each week, Ray decides to appropriate the consensus pick for 'worst opening line of a novel', penned in the 1800s by Edward B Lytton, for this week's puzzler offering with Tommy helping to make it a bit darker and stormier. Check it out on this episode of the Best of Car Talk.",
+            "\"It was a dark and stormy night.\" In his never ending quest to make the puzzler 'less lousy' each week, Ray decides to appropriate the consensus pick for 'worst opening line of a novel', penned in the 1800s by Edward B Lytton, for this week's puzzler offering with Tommy helping to make it a bit darker and stormier. Check it out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1147,7 +1147,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-09-20.mp3",
         title: "#2276: Running on Empty",
         description:
-            "September 20, 2022 • Barbara's husband was in the middle of changing the oil on their truck when he suddenly felt an urgent need for a haircut. Upon returning, he finds only the truck's oil pan filled with oil and no pickup truck. Barbara knows that her quick trip may have hurt the truck but how much damage has she done to her husband? Find out on this episode of the Best of Car Talk.",
+            "Barbara's husband was in the middle of changing the oil on their truck when he suddenly felt an urgent need for a haircut. Upon returning, he finds only the truck's oil pan filled with oil and no pickup truck. Barbara knows that her quick trip may have hurt the truck but how much damage has she done to her husband? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1162,7 +1162,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-09-24.mp3",
         title: "#2277: Rodney's Mobile Recording Service",
         description:
-            "September 24, 2022 • At least once every show, Click and Clack goad some unlucky caller into imitating the unfortunate noise that their car is making. This week, Rodney from Colorado was that unlucky contestant, but he did the boys one better. Check it out along with more calls and the Puzzler on this episode of the Best of Car Talk.",
+            "At least once every show, Click and Clack goad some unlucky caller into imitating the unfortunate noise that their car is making. This week, Rodney from Colorado was that unlucky contestant, but he did the boys one better. Check it out along with more calls and the Puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1177,7 +1177,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-09-27.mp3",
         title: "#2278: Repossessed or Just Possessed?",
         description:
-            "September 27, 2022 • Liz has a practically brand new car that won't go into gear sometimes. When it does, she hears a gut wrenching clunk. The dealership is scratching it's collective head and various other body parts and Liz is wondering if the primary problem is that her car is possessed. Or, does the fact that it was also repossessed before she owned it mean something here? Find out on this episode of the Best of Car Talk.",
+            "Liz has a practically brand new car that won't go into gear sometimes. When it does, she hears a gut wrenching clunk. The dealership is scratching it's collective head and various other body parts and Liz is wondering if the primary problem is that her car is possessed. Or, does the fact that it was also repossessed before she owned it mean something here? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1192,7 +1192,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-10-01.mp3",
         title: "#2279: Helen's Wholly Moldy Rollers",
         description:
-            "October 1, 2022 • Mold problems are a regular feature on Car Talk. Moldy seats and carpeting, mold in the vents and the mold in Tommy's beard are the top three on the Click and Clack mold 'sporecard'. But Helen has a new fungi for us. Find out what and where on this episode of the Best of Car Talk.",
+            "Mold problems are a regular feature on Car Talk. Moldy seats and carpeting, mold in the vents and the mold in Tommy's beard are the top three on the Click and Clack mold 'sporecard'. But Helen has a new fungi for us. Find out what and where on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1207,7 +1207,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-10-04.mp3",
         title: "#2280: Great Balls of Fire",
         description:
-            "October 4, 2022 • The boys suggest that Jim's Corolla might be warmer if he lit a little fire up front, while Barry's backfiring pick up sets much of South Carolina ablaze and Mary might call out the locals to burn down Car Talk Plaza after Ray insists that the Alamo is a reconstructed tourist trap. Put on your flame-retardant headphones because Click and Clack are going out in a blaze of glory on this episode of the Best of Car Talk.",
+            "The boys suggest that Jim's Corolla might be warmer if he lit a little fire up front, while Barry's backfiring pick up sets much of South Carolina ablaze and Mary might call out the locals to burn down Car Talk Plaza after Ray insists that the Alamo is a reconstructed tourist trap. Put on your flame-retardant headphones because Click and Clack are going out in a blaze of glory on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1222,7 +1222,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-10-08.mp3",
         title: "#2281: Either Way You Get Your Dog Back",
         description:
-            "October 8, 2022 • We start off with some listener mail containing probably the best combination business venture we've ever heard of and then the boys practice their own combination of auto repair and driver therapy on a few callers. All this and a new puzzler on this episode of the Best of Car Talk.",
+            "We start off with some listener mail containing probably the best combination business venture we've ever heard of and then the boys practice their own combination of auto repair and driver therapy on a few callers. All this and a new puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1237,7 +1237,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-10-11.mp3",
         title: "#2282: To Shift or Not to Shift",
         description:
-            "October 11, 2022 • Erica's Dad always told her to shift earlier rather than later. Erica's dad also had her believing in the Easter Bunny and Santa Claus at one time, so as part of a larger reckoning with dear old Dad, Erica wants to know if he made this one up, too. Will Click and Clack help preserve Erica's image of dear old Dad as a sage font of automotive wisdom? Find out why not on this episode of the Best of Car Talk",
+            "Erica's Dad always told her to shift earlier rather than later. Erica's dad also had her believing in the Easter Bunny and Santa Claus at one time, so as part of a larger reckoning with dear old Dad, Erica wants to know if he made this one up, too. Will Click and Clack help preserve Erica's image of dear old Dad as a sage font of automotive wisdom? Find out why not on this episode of the Best of Car Talk",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1252,7 +1252,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-10-15.mp3",
         title: "#2283: Buck Naked!",
         description:
-            "October 15, 2022 • Normally, we would highlight one of this show's more unusual calls -say, Rod who wants to buy an old Checker Cab, or Berniece who's Oldsmobile sounds like an air raid siren. But somehow we knew that we would catch your eye with the title of this week's puzzler: Buck Naked! All will be revealed on this episode of the Best of Car Talk.",
+            "Normally, we would highlight one of this show's more unusual calls -say, Rod who wants to buy an old Checker Cab, or Berniece who's Oldsmobile sounds like an air raid siren. But somehow we knew that we would catch your eye with the title of this week's puzzler: Buck Naked! All will be revealed on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1267,7 +1267,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-10-18.mp3",
         title: "#2284: A 'Tank Half Empty' Kind of Guy",
         description:
-            "October 18, 2022 • Dave from North Carolina is a VW Quantum owner in search of a few quantum mechanics. He's convinced that his car gets worse mileage when the tank is less than half full. Will fixing this one require Heisenberg's uncertainty principles or can our two Weisenheimers tackle it? Find out on this episode of the Best of Car Talk.",
+            "Dave from North Carolina is a VW Quantum owner in search of a few quantum mechanics. He's convinced that his car gets worse mileage when the tank is less than half full. Will fixing this one require Heisenberg's uncertainty principles or can our two Weisenheimers tackle it? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1282,7 +1282,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-10-22.mp3",
         title: "#2285: Wendy's Wild Ride",
         description:
-            "October 22, 2022 • Wendy's Acura has been having persistent brake problems on the hilly roads of Sonoma, CA. Her mechanic wants her to 'exercise' the brakes every now and then by simulating an emergency stop. Wendy is a bit puzzled -as are Click and Clack- and she wants to know whether she needs to initiate an airbag deployment every once-in-a-while, too? More calls and a new puzzler on this episode of the Best of Car Talk.",
+            "Wendy's Acura has been having persistent brake problems on the hilly roads of Sonoma, CA. Her mechanic wants her to 'exercise' the brakes every now and then by simulating an emergency stop. Wendy is a bit puzzled -as are Click and Clack- and she wants to know whether she needs to initiate an airbag deployment every once-in-a-while, too? More calls and a new puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1297,7 +1297,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-10-25.mp3",
         title: "#2286: A Mind is a Terrible Thing to Waste",
         description:
-            "October 25, 2022 • Judy from Arkansas had no sooner described the conditions under which her car was giving her trouble when Tommy confidently and successfully predicted what the car's problem was. Could this be a case of clairvoyance? Or is this the less common Judyvoyance? Find out if the Tappet Brothers were able to help either Claire or Judy on this episode of the Best of Car Talk.",
+            "Judy from Arkansas had no sooner described the conditions under which her car was giving her trouble when Tommy confidently and successfully predicted what the car's problem was. Could this be a case of clairvoyance? Or is this the less common Judyvoyance? Find out if the Tappet Brothers were able to help either Claire or Judy on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1312,7 +1312,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-10-29.mp3",
         title: "#2287: The Mitsubishi Doppelganger",
         description:
-            "October 29, 2022 • Stella thinks one of her two Mitsubishis is possessed of a sinister mechanical nature. It is constantly breaking down and wearing out parts, unlike it's twin. Sound familiar? Our two hosts are each similarly convinced that the other is a sinister and malevolent force trying to drive him crazy. Is there any chance of saving Stella's 'good' Mitsubishi here? Find out on this episode of the Best of Car Talk.",
+            "Stella thinks one of her two Mitsubishis is possessed of a sinister mechanical nature. It is constantly breaking down and wearing out parts, unlike it's twin. Sound familiar? Our two hosts are each similarly convinced that the other is a sinister and malevolent force trying to drive him crazy. Is there any chance of saving Stella's 'good' Mitsubishi here? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1327,7 +1327,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-11-01.mp3",
         title: "#2288: The True Meaning of Lifetime Warranty",
         description:
-            "November 1, 2022 • Dick from Texas felt good about purchasing a 'lifetime warranty' along with the replacement alternator for his Ford Van. Sadly, Click and Clack had to inform him that what he actually purchased is a 'lifetime' of having to replace these cheap alternators. Or can Dick be spared this cruel repair purgatory? Find out on this episode of the Best of Car Talk.",
+            "Dick from Texas felt good about purchasing a 'lifetime warranty' along with the replacement alternator for his Ford Van. Sadly, Click and Clack had to inform him that what he actually purchased is a 'lifetime' of having to replace these cheap alternators. Or can Dick be spared this cruel repair purgatory? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1342,7 +1342,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-11-05.mp3",
         title: "#2289: Can I Borrow Your Airbag for a Moment?",
         description:
-            "November 5, 2022 • Back when airbags were a new thing, it was pretty common that cars had only one and it was for the driver. Of course, this meant that front seat passengers were in a relatively vulnerable position in the event of a front-end crash. But some passengers refused to accept their crash-dummy fate. Check it out, along with more calls and a new puzzler on this episode of the Best of Car Talk.",
+            "Back when airbags were a new thing, it was pretty common that cars had only one and it was for the driver. Of course, this meant that front seat passengers were in a relatively vulnerable position in the event of a front-end crash. But some passengers refused to accept their crash-dummy fate. Check it out, along with more calls and a new puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1357,7 +1357,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-11-08.mp3",
         title: "#2290: FOR SALE, Classic Car, One Owner, Must Enjoy Long Walks on the Beach",
         description:
-            "November 8, 2022 • Peggy from Washington hasn't had much luck with her personals ad in the local papers. She read somewhere that if you advertise a classic car for sale, guys will practically line up for a chance to buy it and Peggy thinks this would be a great way to meet men. Peggy wants Click and Clack to help her figure out what car to use as bait for her little love experiment on this episode of the Best of Car Talk.",
+            "Peggy from Washington hasn't had much luck with her personals ad in the local papers. She read somewhere that if you advertise a classic car for sale, guys will practically line up for a chance to buy it and Peggy thinks this would be a great way to meet men. Peggy wants Click and Clack to help her figure out what car to use as bait for her little love experiment on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1372,7 +1372,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-11-12.mp3",
         title: "#2291: The Click and Clack Winterization Kit",
         description:
-            "November 12, 2022 • Alan from Texas is relocating to Burlington, Vermont and wants to know if he can bring his Ford Bronco along, too. Click and Clack give Alan a primer on snow tires, block heaters, tire chains and the most important detail: what type of Bronko Nagurski longjohns to buy. That and more on this episode of the Best of Car Talk.",
+            "Alan from Texas is relocating to Burlington, Vermont and wants to know if he can bring his Ford Bronco along, too. Click and Clack give Alan a primer on snow tires, block heaters, tire chains and the most important detail: what type of Bronko Nagurski longjohns to buy. That and more on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1387,7 +1387,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-11-15.mp3",
         title: "#2292: Smoke Signals",
         description:
-            "November 15, 2022 • Richard from Intercourse, PA has become a public nuisance with his Ford wagon that belches white smoke every time he accelerates from a stop. Can Click and Clack divine his car's trouble from analyzing the Ford's emissions? Check it out along with Gary, the yodeling cowboy, a new puzzler and more callers on this episode of the Best of Car Talk.",
+            "Richard from Intercourse, PA has become a public nuisance with his Ford wagon that belches white smoke every time he accelerates from a stop. Can Click and Clack divine his car's trouble from analyzing the Ford's emissions? Check it out along with Gary, the yodeling cowboy, a new puzzler and more callers on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1402,7 +1402,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-11-19.mp3",
         title: "#2293: Music to Our Ears",
         description:
-            "November 19, 2022 • There are some among us gifted with a voice that can conjure visions of the angels. Laura from Massachusetts wasn't that fortunate but she can mimic a slipping fan belt on a Ford Escort pretty convincingly! Check out her less-than-dulcet-tones along with the famous Monty Hall Puzzler on this episode of the Best of Car Talk.",
+            "There are some among us gifted with a voice that can conjure visions of the angels. Laura from Massachusetts wasn't that fortunate but she can mimic a slipping fan belt on a Ford Escort pretty convincingly! Check out her less-than-dulcet-tones along with the famous Monty Hall Puzzler on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1417,7 +1417,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-11-22.mp3",
         title: "#2294: The Roachmobile",
         description:
-            "November 22, 2022 • Marti lives in Hawaii. We bet that life has been pretty good for Marti. But lately, every night Marti's car is covered in giant Hawaiian cockroaches. So much for paradise, eh Marti?! Can Click and Clack Conquer the Cucarachas? Find out on this episode of the Best of Car Talk.",
+            "Marti lives in Hawaii. We bet that life has been pretty good for Marti. But lately, every night Marti's car is covered in giant Hawaiian cockroaches. So much for paradise, eh Marti?! Can Click and Clack Conquer the Cucarachas? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1432,7 +1432,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-11-26.mp3",
         title: "#2295: Roller Derby Diagnosis",
         description:
-            "November 26, 2022 • Sean from Michigan lucked out and bought a used '75 Olds Convertible from a little old Lady recently. The only problem with the car is an unsettling rattling noise that Sean is trying to pinpoint using death-defying diagnostic methods while on his rollerblades. Can Sean brake faster than a '75 Oldsmobile? Find out on this episode of the Best of Car Talk.",
+            "Sean from Michigan lucked out and bought a used '75 Olds Convertible from a little old Lady recently. The only problem with the car is an unsettling rattling noise that Sean is trying to pinpoint using death-defying diagnostic methods while on his rollerblades. Can Sean brake faster than a '75 Oldsmobile? Find out on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1447,7 +1447,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-11-29.mp3",
         title: "#2296: Brooklynese",
         description:
-            "November 29, 2022 • Mark from Brooklyn was prepared to admit that he didn't know much about how to fix his minivan, but he probably didn't expect an elocution lecture from Click and Clack. Also, Barbara gets her boyfriend to dump his sports car but now her son wants it. And Randy has several thousand unwanted tiny passengers living in his Mazda. All on this episode of the Best of Car Talk.",
+            "Mark from Brooklyn was prepared to admit that he didn't know much about how to fix his minivan, but he probably didn't expect an elocution lecture from Click and Clack. Also, Barbara gets her boyfriend to dump his sports car but now her son wants it. And Randy has several thousand unwanted tiny passengers living in his Mazda. All on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1462,7 +1462,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-12-03.mp3",
         title: "#2297: Unprepared for Success",
         description:
-            "December 3, 2022 • Getting the right answer isn't all that it's cracked up to be! We know this even though it so seldom happens on Car Talk. And when we do manage to come up with a winner we sometimes aren't too sure why. Janet from Oregon found that out on this episode of the best of Car Talk.",
+            "Getting the right answer isn't all that it's cracked up to be! We know this even though it so seldom happens on Car Talk. And when we do manage to come up with a winner we sometimes aren't too sure why. Janet from Oregon found that out on this episode of the best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1477,7 +1477,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-12-06.mp3",
         title: "#2298: Brake Noise in A-flat",
         description:
-            "December 6, 2022 • Mike from Michigan is a Toyota Corolla owner and a singer who is about to get his debut on our show. But, since this is Car Talk, instead of Sondheim or a Gershwin tune Mike gets to sing the song of his Corolla's Brake failure in A-flat. Sing along with Mike and our boys on this episode of the Best of Car Talk.",
+            "Mike from Michigan is a Toyota Corolla owner and a singer who is about to get his debut on our show. But, since this is Car Talk, instead of Sondheim or a Gershwin tune Mike gets to sing the song of his Corolla's Brake failure in A-flat. Sing along with Mike and our boys on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
@@ -1492,7 +1492,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2022-12-10.mp3",
         title: "#2299: Too Tired to Check",
         description:
-            "December 10, 2022 • Darlene and her boyfriend have just returned from a long trip where their car seemed to wander all over the road. She knows that the tires leak a bit of air and she frequently added more using the 'eyeball' method, rather than a tire gauge, during the trip. Is that good enough or was Darlene tempting fate here? Also, the dramatic picking of the winner of the Dewey, Cheetham & Howe Company Picnic Contest on this episode of the Best of Car Talk.",
+            "Darlene and her boyfriend have just returned from a long trip where their car seemed to wander all over the road. She knows that the tires leak a bit of air and she frequently added more using the 'eyeball' method, rather than a tire gauge, during the trip. Is that good enough or was Darlene tempting fate here? Also, the dramatic picking of the winner of the Dewey, Cheetham & Howe Company Picnic Contest on this episode of the Best of Car Talk.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2022,
