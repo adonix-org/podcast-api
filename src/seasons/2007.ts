@@ -19,14 +19,14 @@ import { MetaData } from "./metadata";
 export const playlist: MetaData[] = [
     {
         url: "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510208/ondemand.npr.org/anon.npr-podcasts/podcast/510208/9930418/npr_9930418.mp3",
-        filename: "car_talk_2007-04-30.mp3",
-        title: "Car Talk episode_0717_April 28, 2007",
+        filename: "car_talk_2007-04-28.mp3",
+        title: "Car Talk April 28, 2007",
         description:
-            "April 30, 2007 • Car Talk's weekly full-show podcast for April 28, 2007.",
+            "April 28, 2007 • Car Talk's weekly full-show podcast for April 28, 2007.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2007,
-        date: "2007-04-30",
+        date: "2007-04-28",
         seconds: 3319.405625,
         artists: ["Car Talk", "Click and Clack"],
         channels: 1,
@@ -56,7 +56,7 @@ export const playlist: MetaData[] = [
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2007,
-        date: "2007-05-14",
+        date: "2007-05-12",
         seconds: 3308.4865,
         artists: ["Car Talk", "Click and Clack"],
         channels: 1,
@@ -230,7 +230,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510208/ondemand.npr.org/anon.npr-podcasts/podcast/510208/12506341/npr_12506341.mp3",
         filename: "car_talk_2007-08-04.mp3",
-        title: "Car Talk Sugust 4, 2007 Show #0731",
+        title: "Car Talk August 4, 2007 Show #0731",
         description:
             "August 4, 2007 • This week's classic show features one of our all-time great wacko callers: Dinesh, whose Summer vacation involves a stroll across Death Valley. Also, a classic listener tale of good intentions gone awry at the gym at the hands of Tanya the Trainer. And, when's it safe for a guy to let a woman see his inner slob? All that and more!",
         artist: "Car Talk",
@@ -382,11 +382,11 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2007-10-09.mp3",
         title: "Car Talk October 6, 2007, Show #0740",
         description:
-            'October 9, 2007 • Two clowns try to help a third, as IRS agent/Shriner Clown "Looney" asks Tom and Ray how to double-clutch his \'29 Ford. Also, a new Puzzler, and a recurring case of 40,000 mile flatulence.',
+            'October 6, 2007 • Two clowns try to help a third, as IRS agent/Shriner Clown "Looney" asks Tom and Ray how to double-clutch his \'29 Ford. Also, a new Puzzler, and a recurring case of 40,000 mile flatulence.',
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2007,
-        date: "2007-10-09",
+        date: "2007-10-06",
         seconds: 3327.921625,
         artists: ["Car Talk", "Click and Clack"],
         channels: 1,

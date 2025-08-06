@@ -37,11 +37,11 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2010-01-14.mp3",
         title: "Car Talk 1002 January 9, 2010",
         description:
-            "January 14, 2010 • This week on Car Talk, a few choice lines from Rodney Dangerfield set the stage for Sam in Vermont, who's about to learn he has a cracked block--and his car isn't doing so hot, either. Also, a married Dad's need for speed hits a bump in the form of his wife, and Tom and Ray; a Yukon owner tries to convince her Dad and her mechanic that her car really is making a strange noise; and a cardinal becomes overly fond of a Side-view mirror.",
+            "January 9, 2010 • This week on Car Talk, a few choice lines from Rodney Dangerfield set the stage for Sam in Vermont, who's about to learn he has a cracked block--and his car isn't doing so hot, either. Also, a married Dad's need for speed hits a bump in the form of his wife, and Tom and Ray; a Yukon owner tries to convince her Dad and her mechanic that her car really is making a strange noise; and a cardinal becomes overly fond of a Side-view mirror.",
         artist: "Car Talk",
         album: "The Best of Car Talk",
         year: 2010,
-        date: "2010-01-14",
+        date: "2010-01-09",
         seconds: 3232.008934,
         artists: ["Car Talk", "Click and Clack"],
         channels: 1,
