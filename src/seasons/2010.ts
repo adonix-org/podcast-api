@@ -18,7 +18,7 @@ import { MetaData } from "./metadata";
 
 export const playlist: MetaData[] = [
     {
-        url: "https://media.adonix.org/car_talk_2010-01-02.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-01-02.mp3",
         filename: "car_talk_2010-01-02.mp3",
         title: "#1001: January 2, 2010",
         description:
@@ -33,7 +33,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-01-14.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-01-14.mp3",
         filename: "car_talk_2010-01-14.mp3",
         title: "#1002: January 9, 2010",
         description:
@@ -48,7 +48,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-01-16.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-01-16.mp3",
         filename: "car_talk_2010-01-16.mp3",
         title: "#1003: January 16, 2010",
         description:
@@ -63,7 +63,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-01-23.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-01-23.mp3",
         filename: "car_talk_2010-01-23.mp3",
         title: "#1004: January 23, 2010",
         description:
@@ -78,7 +78,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-01-30.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-01-30.mp3",
         filename: "car_talk_2010-01-30.mp3",
         title: "#1005: January 30, 2010",
         description:
@@ -93,7 +93,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-02-06.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-02-06.mp3",
         filename: "car_talk_2010-02-06.mp3",
         title: "#1006: February 6, 2010",
         description:
@@ -108,7 +108,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-02-13.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-02-13.mp3",
         filename: "car_talk_2010-02-13.mp3",
         title: "#1007: February 13, 2010",
         description:
@@ -123,7 +123,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-02-20.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-02-20.mp3",
         filename: "car_talk_2010-02-20.mp3",
         title: "#1008: February 20, 2010",
         description:
@@ -138,7 +138,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-02-27.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-02-27.mp3",
         filename: "car_talk_2010-02-27.mp3",
         title: "#1009: February 27, 2010",
         description:
@@ -153,7 +153,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-03-06.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-03-06.mp3",
         filename: "car_talk_2010-03-06.mp3",
         title: "#1010: March 6, 2010",
         description:
@@ -168,7 +168,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-03-13.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-03-13.mp3",
         filename: "car_talk_2010-03-13.mp3",
         title: "#1011: March 13, 2010",
         description:
@@ -183,7 +183,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-03-20.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-03-20.mp3",
         filename: "car_talk_2010-03-20.mp3",
         title: "#1012: March 20, 2010",
         description:
@@ -198,7 +198,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-03-27.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-03-27.mp3",
         filename: "car_talk_2010-03-27.mp3",
         title: "#1013: March 27, 2010",
         description:
@@ -213,7 +213,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-04-03.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-04-03.mp3",
         filename: "car_talk_2010-04-03.mp3",
         title: "#1014: April 3, 2010",
         description:
@@ -228,7 +228,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-04-10.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-04-10.mp3",
         filename: "car_talk_2010-04-10.mp3",
         title: "#1015: April 10, 2010",
         description:
@@ -243,7 +243,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-04-17.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-04-17.mp3",
         filename: "car_talk_2010-04-17.mp3",
         title: "#1016: April 17, 2010",
         description:
@@ -258,7 +258,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-04-24.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-04-24.mp3",
         filename: "car_talk_2010-04-24.mp3",
         title: "#1017: April 24, 2010",
         description:
@@ -273,7 +273,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-05-01.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-05-01.mp3",
         filename: "car_talk_2010-05-01.mp3",
         title: "#1018: May 1, 2010",
         description:
@@ -288,7 +288,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-05-08.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-05-08.mp3",
         filename: "car_talk_2010-05-08.mp3",
         title: "#1019: May 8, 2010",
         description:
@@ -303,7 +303,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-05-15.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-05-15.mp3",
         filename: "car_talk_2010-05-15.mp3",
         title: "#1020: May 15, 2010",
         description:
@@ -318,7 +318,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-05-22.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-05-22.mp3",
         filename: "car_talk_2010-05-22.mp3",
         title: "#1021: May 22, 2010",
         description:
@@ -333,7 +333,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-05-29.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-05-29.mp3",
         filename: "car_talk_2010-05-29.mp3",
         title: "#1022: May 29, 2010",
         description:
@@ -348,7 +348,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-06-05.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-06-05.mp3",
         filename: "car_talk_2010-06-05.mp3",
         title: "#1023: June 5, 2010",
         description:
@@ -363,7 +363,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-06-12.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-06-12.mp3",
         filename: "car_talk_2010-06-12.mp3",
         title: "#1024: June 12, 2010",
         description:
@@ -378,7 +378,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-06-19.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-06-19.mp3",
         filename: "car_talk_2010-06-19.mp3",
         title: "#1025: June 19, 2010",
         description:
@@ -393,7 +393,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-06-26.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-06-26.mp3",
         filename: "car_talk_2010-06-26.mp3",
         title: "#1026: June 26, 2010",
         description:
@@ -408,7 +408,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-07-03.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-07-03.mp3",
         filename: "car_talk_2010-07-03.mp3",
         title: "#1027: July 3, 2010",
         description:
@@ -423,7 +423,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-07-10.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-07-10.mp3",
         filename: "car_talk_2010-07-10.mp3",
         title: "#1028: July 10, 2010",
         description:
@@ -438,7 +438,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-07-17.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-07-17.mp3",
         filename: "car_talk_2010-07-17.mp3",
         title: "#1029: The Pep's Lincoln",
         description:
@@ -453,7 +453,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-07-24.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-07-24.mp3",
         filename: "car_talk_2010-07-24.mp3",
         title: "#1030: The New Delhi Catessens",
         description:
@@ -468,7 +468,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-07-31.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-07-31.mp3",
         filename: "car_talk_2010-07-31.mp3",
         title: "#1031: Bugsy's Letters From Camp",
         description:
@@ -483,7 +483,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-08-07.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-08-07.mp3",
         filename: "car_talk_2010-08-07.mp3",
         title: "#1032: Practical Jokes",
         description:
@@ -498,7 +498,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-08-14.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-08-14.mp3",
         filename: "car_talk_2010-08-14.mp3",
         title: "#1033: A Huge Bag of Crab",
         description:
@@ -513,7 +513,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-08-21.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-08-21.mp3",
         filename: "car_talk_2010-08-21.mp3",
         title: "#1034: He's Nothin' to Me",
         description:
@@ -528,7 +528,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-08-28.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-08-28.mp3",
         filename: "car_talk_2010-08-28.mp3",
         title: "#1035: The Roulette Wheel of Misfortune",
         description:
@@ -543,7 +543,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-09-04.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-09-04.mp3",
         filename: "car_talk_2010-09-04.mp3",
         title: "#1036: The Lovelorn Mechanic",
         description:
@@ -558,7 +558,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-09-11.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-09-11.mp3",
         filename: "car_talk_2010-09-11.mp3",
         title: "#1037: Leapin' Lizards!",
         description:
@@ -573,7 +573,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-09-18.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-09-18.mp3",
         filename: "car_talk_2010-09-18.mp3",
         title: "#1038: Coke Vs Dr Pepper",
         description:
@@ -588,7 +588,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-09-25.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-09-25.mp3",
         filename: "car_talk_2010-09-25.mp3",
         title: "#1039: Extreme Dashboard Makeover",
         description:
@@ -603,7 +603,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-10-02.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-10-02.mp3",
         filename: "car_talk_2010-10-02.mp3",
         title: "#1040: The Dr Pepper Experiment",
         description:
@@ -618,7 +618,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-10-11.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-10-11.mp3",
         filename: "car_talk_2010-10-11.mp3",
         title: "#1041: Pre-Disastered Truck For Sale",
         description:
@@ -633,7 +633,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-10-16.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-10-16.mp3",
         filename: "car_talk_2010-10-16.mp3",
         title: "#1042: Fire Sale",
         description:
@@ -648,7 +648,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-10-23.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-10-23.mp3",
         filename: "car_talk_2010-10-23.mp3",
         title: "#1043: The Forgetful Dealer",
         description:
@@ -663,7 +663,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-10-30.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-10-30.mp3",
         filename: "car_talk_2010-10-30.mp3",
         title: "#1044: The Mysterious Man in White",
         description:
@@ -678,7 +678,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-11-06.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-11-06.mp3",
         filename: "car_talk_2010-11-06.mp3",
         title: "#1045: Pi Over Two Dopes",
         description:
@@ -693,7 +693,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-11-13.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-11-13.mp3",
         filename: "car_talk_2010-11-13.mp3",
         title: "#1046: Math Geeks to the Rescue!",
         description:
@@ -708,7 +708,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-11-20.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-11-20.mp3",
         filename: "car_talk_2010-11-20.mp3",
         title: "#1047: Let Sleeping Camrys Lie",
         description:
@@ -723,7 +723,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-11-27.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-11-27.mp3",
         filename: "car_talk_2010-11-27.mp3",
         title: "#1048: Throw Your Keys Down the Drain",
         description:
@@ -738,7 +738,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-12-04.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-12-04.mp3",
         filename: "car_talk_2010-12-04.mp3",
         title: "#1049: Your Car Fell Off the Lift. LOL!",
         description:
@@ -753,7 +753,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-12-11.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-12-11.mp3",
         filename: "car_talk_2010-12-11.mp3",
         title: "#1050: Tommy's Knee and Jack's MGB",
         description:
@@ -768,7 +768,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-12-18.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-12-18.mp3",
         filename: "car_talk_2010-12-18.mp3",
         title: "#1051: Gifts For Guys",
         description:
@@ -783,7 +783,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2010-12-25.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2010-12-25.mp3",
         filename: "car_talk_2010-12-25.mp3",
         title: "#1052: Tidings of Boat Payments",
         description:

@@ -18,7 +18,7 @@ import { MetaData } from "./metadata";
 
 export const playlist: MetaData[] = [
     {
-        url: "https://media.adonix.org/car_talk_2017-01-07.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-01-07.mp3",
         filename: "car_talk_2017-01-07.mp3",
         title: "#1701: The Roadmonster That Ate Cambridge",
         description:
@@ -33,7 +33,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-01-14.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-01-14.mp3",
         filename: "car_talk_2017-01-14.mp3",
         title: "#1702: Acute Tire Phobia",
         description:
@@ -48,7 +48,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-01-21.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-01-21.mp3",
         filename: "car_talk_2017-01-21.mp3",
         title: "#1703: Oh Shut Up",
         description:
@@ -63,7 +63,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-01-28.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-01-28.mp3",
         filename: "car_talk_2017-01-28.mp3",
         title: "#1794: They're All Jerks",
         description:
@@ -78,7 +78,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-02-04.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-02-04.mp3",
         filename: "car_talk_2017-02-04.mp3",
         title: "#1705: Book This, Dad",
         description:
@@ -93,7 +93,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-02-11.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-02-11.mp3",
         filename: "car_talk_2017-02-11.mp3",
         title: "#1706: My Tire Passed Me",
         description:
@@ -108,7 +108,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-02-18.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-02-18.mp3",
         filename: "car_talk_2017-02-18.mp3",
         title: "#1707: Book This, Rebecca",
         description:
@@ -123,7 +123,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-02-25.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-02-25.mp3",
         filename: "car_talk_2017-02-25.mp3",
         title: "#1708: The Roof Snow Theory",
         description:
@@ -138,7 +138,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-03-04.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-03-04.mp3",
         filename: "car_talk_2017-03-04.mp3",
         title: "#1709: The Evil Twin",
         description:
@@ -153,7 +153,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-03-11.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-03-11.mp3",
         filename: "car_talk_2017-03-11.mp3",
         title: "#1710: Miles Per Mothball",
         description:
@@ -168,7 +168,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-03-18.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-03-18.mp3",
         filename: "car_talk_2017-03-18.mp3",
         title: "#1711: Love and an Automotive Weenie",
         description:
@@ -183,7 +183,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-03-25.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-03-25.mp3",
         filename: "car_talk_2017-03-25.mp3",
         title: "#1712: Nature Vs Nurture",
         description:
@@ -198,7 +198,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-04-01.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-04-01.mp3",
         filename: "car_talk_2017-04-01.mp3",
         title: "#1713: Click and Clack Defined",
         description:
@@ -213,7 +213,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-04-08.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-04-08.mp3",
         filename: "car_talk_2017-04-08.mp3",
         title: "#1714: The Return of Leah",
         description:
@@ -228,7 +228,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-04-15.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-04-15.mp3",
         filename: "car_talk_2017-04-15.mp3",
         title: "#1715: Alas, Poor Wobble Butt",
         description:
@@ -243,7 +243,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-04-22.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-04-22.mp3",
         filename: "car_talk_2017-04-22.mp3",
         title: "#1716: Au Contraire, Leah",
         description:
@@ -258,7 +258,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-04-29.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-04-29.mp3",
         filename: "car_talk_2017-04-29.mp3",
         title: "#1717: The Rhinestone Sundance",
         description:
@@ -273,7 +273,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-05-06.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-05-06.mp3",
         filename: "car_talk_2017-05-06.mp3",
         title: "#1718: The Scrape Theory",
         description:
@@ -288,7 +288,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-05-13.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-05-13.mp3",
         filename: "car_talk_2017-05-13.mp3",
         title: "#1719: I Help You, Mommy",
         description:
@@ -303,7 +303,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-05-20.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-05-20.mp3",
         filename: "car_talk_2017-05-20.mp3",
         title: "#1720: The Unmotivated",
         description:
@@ -318,7 +318,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-05-27.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-05-27.mp3",
         filename: "car_talk_2017-05-27.mp3",
         title: "#1721: Reality Often Astonishes Theory",
         description:
@@ -333,7 +333,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-06-03.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-06-03.mp3",
         filename: "car_talk_2017-06-03.mp3",
         title: "#1722: Bad Carma",
         description:
@@ -348,7 +348,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-06-10.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-06-10.mp3",
         filename: "car_talk_2017-06-10.mp3",
         title: "#1723: Mama Get a Hammer, There's a Fly on Papa's Head",
         description:
@@ -363,7 +363,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-06-17.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-06-17.mp3",
         filename: "car_talk_2017-06-17.mp3",
         title: "#1724: The Fowled Caravan",
         description:
@@ -378,7 +378,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-06-24.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-06-24.mp3",
         filename: "car_talk_2017-06-24.mp3",
         title: "#1725: Blame It on Bernoulli",
         description:
@@ -393,7 +393,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-07-01.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-07-01.mp3",
         filename: "car_talk_2017-07-01.mp3",
         title: "#1726: Tommy Goes to the Dark Side",
         description:
@@ -408,7 +408,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-07-08.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-07-08.mp3",
         filename: "car_talk_2017-07-08.mp3",
         title: "#1727: Geek Week",
         description:
@@ -423,7 +423,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-07-15.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-07-15.mp3",
         filename: "car_talk_2017-07-15.mp3",
         title: "#1728: Haircut Ethics",
         description:
@@ -438,7 +438,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-07-22.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-07-22.mp3",
         filename: "car_talk_2017-07-22.mp3",
         title: "#1729: Employee of the Week",
         description:
@@ -453,7 +453,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-07-29.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-07-29.mp3",
         filename: "car_talk_2017-07-29.mp3",
         title: "#1730: Disperse This",
         description:
@@ -468,7 +468,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-08-05.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-08-05.mp3",
         filename: "car_talk_2017-08-05.mp3",
         title: "#1731: Click and Clack's Last Minute Counseling",
         description:
@@ -483,7 +483,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-08-12.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-08-12.mp3",
         filename: "car_talk_2017-08-12.mp3",
         title: "#1732: He's Nothing to Me",
         description:
@@ -498,7 +498,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-08-19.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-08-19.mp3",
         filename: "car_talk_2017-08-19.mp3",
         title: "#1733: Once a Brat, Always a Brat",
         description:
@@ -513,7 +513,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-08-26.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-08-26.mp3",
         filename: "car_talk_2017-08-26.mp3",
         title: "#1734: Helmut's Folly",
         description:
@@ -528,7 +528,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-09-02.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-09-02.mp3",
         filename: "car_talk_2017-09-02.mp3",
         title: "#1735: Brotherly Love",
         description:
@@ -543,7 +543,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-09-09.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-09-09.mp3",
         filename: "car_talk_2017-09-09.mp3",
         title: "#1736: 30 Years of Lousy Marital Advice",
         description:
@@ -558,7 +558,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-09-16.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-09-16.mp3",
         filename: "car_talk_2017-09-16.mp3",
         title: "#1737: 30 Years of the North American Wacko",
         description:
@@ -573,7 +573,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-09-23.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-09-23.mp3",
         filename: "car_talk_2017-09-23.mp3",
         title: "#1738: 30 Years of Listener Retaliation",
         description:
@@ -588,7 +588,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-09-30.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-09-30.mp3",
         filename: "car_talk_2017-09-30.mp3",
         title: "#1739: 30 Years of Wasting Perfectly Good Hours",
         description:
@@ -603,7 +603,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-10-07.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-10-07.mp3",
         filename: "car_talk_2017-10-07.mp3",
         title: "#1740: The Most Complex Relationship",
         description:
@@ -618,7 +618,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-10-14.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-10-14.mp3",
         filename: "car_talk_2017-10-14.mp3",
         title: "#1741: Fluffy and Thor",
         description:
@@ -633,7 +633,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-10-21.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-10-21.mp3",
         filename: "car_talk_2017-10-21.mp3",
         title: "#1742: The Nobel Grease Prize",
         description:
@@ -648,7 +648,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-10-28.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-10-28.mp3",
         filename: "car_talk_2017-10-28.mp3",
         title: "#1743: Sherman LeTank",
         description:
@@ -663,7 +663,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-11-04.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-11-04.mp3",
         filename: "car_talk_2017-11-04.mp3",
         title: "#1744: Plane Talk",
         description:
@@ -678,7 +678,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-11-11.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-11-11.mp3",
         filename: "car_talk_2017-11-11.mp3",
         title: "#1745: Love and a Van Dweller",
         description:
@@ -693,7 +693,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-11-18.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-11-18.mp3",
         filename: "car_talk_2017-11-18.mp3",
         title: "#1746: Beware the Neophyte Knuckle Scraper",
         description:
@@ -708,7 +708,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-11-25.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-11-25.mp3",
         filename: "car_talk_2017-11-25.mp3",
         title: "#1747: Stop Calling Me Sir",
         description:
@@ -723,7 +723,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-12-02.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-12-02.mp3",
         filename: "car_talk_2017-12-02.mp3",
         title: "#1748: The Vanagon of the Sierra Madre",
         description:
@@ -738,7 +738,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-12-09.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-12-09.mp3",
         filename: "car_talk_2017-12-09.mp3",
         title: "#1749: An Honest Idiot or a Competent Crook",
         description:
@@ -753,7 +753,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-12-16.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-12-16.mp3",
         filename: "car_talk_2017-12-16.mp3",
         title: "#1750: Tires of Love",
         description:
@@ -768,7 +768,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-12-23.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-12-23.mp3",
         filename: "car_talk_2017-12-23.mp3",
         title: "#1751: Sidney's Lunch",
         description:
@@ -783,7 +783,7 @@ export const playlist: MetaData[] = [
         genre: ["Humor", "Podcast", "Talk"],
     },
     {
-        url: "https://media.adonix.org/car_talk_2017-12-30.mp3",
+        url: "https://cartalk.adonix.org/car_talk_2017-12-30.mp3",
         filename: "car_talk_2017-12-30.mp3",
         title: "#1752: Division of Labor",
         description:
