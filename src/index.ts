@@ -17,6 +17,9 @@
 import { ContentType, STATUS, StatusCode } from "./http-constants";
 import { PLAYLISTS, SEASON_LIST, SEASON_NUMBERS } from "./seasons/seasons";
 
+const API_VERSION = "v1";
+const BASE_PATH = `/api/${API_VERSION}`;
+
 export default {
     async fetch(request): Promise<Response> {
         if (request.method === "OPTIONS") {
@@ -27,8 +30,7 @@ export default {
         if (request.method !== "GET") {
             return getResponse(
                 STATUS.METHOD_NOT_ALLOWED,
-                "Method not allowed",
-                "text/plain"
+                getError("Method not allowed")
             );
         }
 
@@ -36,22 +38,19 @@ export default {
         if (url.pathname === "/favicon.ico") {
             return getResponse(STATUS.NO_CONTENT);
         }
-        if (url.pathname !== "/") {
-            return getResponse(STATUS.NOT_FOUND, "Not Found", "text/plain");
-        }
 
-        const parameters = new URL(request.url);
-        const season = parameters.searchParams.get("season");
-        if (season) {
+        const match = url.pathname.match(`^${BASE_PATH}/seasons/(\\d{4})$`);
+        if (match) {
+            const season = match[1];
             const year = parseInt(season, 10);
             if (!SEASON_NUMBERS.includes(year)) {
                 // Season present but invalid
                 return getResponse(
                     STATUS.BAD_REQUEST,
-                    `Invalid season ${season}`,
-                    "text/plain"
+                    getError(`Invalid season ${season}`)
                 );
             }
+
             const playlist = PLAYLISTS[season];
             if (playlist) {
                 // Season present and valid
@@ -61,12 +60,17 @@ export default {
             // Season present, valid but missing playlist
             return getResponse(
                 STATUS.SERVER_ERROR,
-                `Unable to resolve playlist for valid season ${season}`,
-                "text/plain"
+                getError(
+                    `Unable to resolve playlist for valid season ${season}`
+                )
             );
         }
 
-        return getResponse(STATUS.OK, JSON.stringify(SEASON_LIST));
+        if (url.pathname === `${BASE_PATH}/seasons`) {
+            return getResponse(STATUS.OK, JSON.stringify(SEASON_LIST));
+        }
+
+        return getResponse(STATUS.NOT_FOUND, getError("Not Found"));
     },
 } satisfies ExportedHandler<Env>;
 
@@ -97,4 +101,8 @@ function addCorsHeaders(headers: Headers): Headers {
     headers.set("Access-Control-Allow-Headers", "Content-Type");
     headers.set("Access-Control-Allow-Methods", "GET, OPTIONS");
     return headers;
+}
+
+function getError(message: string) {
+    return JSON.stringify({ error: message });
 }
