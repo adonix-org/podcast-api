@@ -21,7 +21,7 @@ export default {
     async fetch(request, env, ctx): Promise<Response> {
         if (request.method === "OPTIONS") {
             // Handle preflight OPTIONS request
-            return getResponse(STATUS.NO_CONTENT, "", "text/plain");
+            return getResponse(STATUS.NO_CONTENT);
         }
 
         if (request.method !== "GET") {
@@ -30,6 +30,10 @@ export default {
                 "Method not allowed",
                 "text/plain"
             );
+        }
+
+        if (new URL(request.url).pathname === "/favicon.ico") {
+            return getResponse(STATUS.NO_CONTENT);
         }
 
         const parameters = new URL(request.url);
@@ -64,17 +68,19 @@ export default {
 
 function getResponse(
     status: StatusCode,
-    body: string,
+    body: string | null = null,
     contentType: ContentType = "application/json"
 ): Response {
-    JSON.stringify(body);
-    const bodyBytes = new TextEncoder().encode(body); // avoids double-encoding
     const headers = new Headers({
-        "Content-Type": contentType,
-        "Content-Length": bodyBytes.length.toString(),
         "Cache-Control": "public, max-age=86400, immutable",
         "X-Content-Type-Options": "nosniff",
     });
+
+    if (body) {
+        const bodyBytes = new TextEncoder().encode(body);
+        headers.set("Content-Type", contentType);
+        headers.set("Content-Length", bodyBytes.length.toString());
+    }
 
     return new Response(body, {
         status,
