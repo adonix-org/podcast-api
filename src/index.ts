@@ -40,7 +40,7 @@ export default {
             return getResponse(STATUS.NO_CONTENT);
         }
 
-        // Redirect if the path ends with a slash
+        // redirect if the path ends with a slash
         if (url.pathname.length > 1 && url.pathname.endsWith("/")) {
             const noSlash = url.pathname.slice(0, -1);
             const newUrl = `${url.origin}${noSlash}${url.search}`;
