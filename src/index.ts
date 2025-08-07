@@ -34,11 +34,20 @@ export default {
             );
         }
 
+        // favicon.ico - return no content
         const url = new URL(request.url);
         if (url.pathname === "/favicon.ico") {
             return getResponse(STATUS.NO_CONTENT);
         }
 
+        // Redirect if the path ends with a slash
+        if (url.pathname.length > 1 && url.pathname.endsWith("/")) {
+            const noSlash = url.pathname.slice(0, -1);
+            const newUrl = `${url.origin}${noSlash}${url.search}`;
+            return Response.redirect(newUrl, 308);
+        }
+
+        // "/api/v#/seasons/YYYY"
         const match = url.pathname.match(`^${BASE_PATH}/seasons/(\\d{4})$`);
         if (match) {
             const season = match[1];
@@ -66,6 +75,7 @@ export default {
             );
         }
 
+        // "/api/v#/seasons"
         if (url.pathname === `${BASE_PATH}/seasons`) {
             return getResponse(STATUS.OK, JSON.stringify(SEASON_LIST));
         }
