@@ -590,7 +590,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2015-09-26.mp3",
         filename: "car_talk_2015-09-26.mp3",
-        title: "Car Talk #1539: Dashboard Jesus, Protect Us!",
+        title: "#1539: Dashboard Jesus, Protect Us!",
         description:
             "This week on The Best of Car Talk, Click and Clack delve into the subject of dashboard icons and the best geographical position for a duct taped, plastic Jesus. After all, the roads are dangerous and drivers need all the protection they can get! Also, Sarah's minivan was stolen twice in one day (this is one case where the third time is not the charm!); John's tires are gonzo. Was it due to a defect or his laziness? And Liz's Honda has a horrible B.O. smell. Can she blame it on her husband? All that, plus the answer to this season's inaugural puzzler, this week on The Best of Car Talk.",
         artist: "Click and Clack",

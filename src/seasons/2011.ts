@@ -20,7 +20,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-01-03.mp3",
         filename: "car_talk_2011-01-03.mp3",
-        title: "Car Talk #1101: Bicycling the Seven Seas",
+        title: "#1101: Bicycling the Seven Seas",
         description:
             "Eleanor is about to head off on a 6-month 'round the world trip by bicycle. She wants to know how to take care of her truck while she's gone, but Tom and Ray are more interested in how she plans to pedal across several large bodies of water. Also, an opera singer begins doing arias under a Honda Civic; a vintage T-Bird puts its owner to sleep; and meet the car that strikes fear into mechanics near and far.",
         artist: "Click and Clack",
@@ -35,7 +35,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-01-08.mp3",
         filename: "car_talk_2011-01-08.mp3",
-        title: "Car Talk #1102: Hood Sag",
+        title: "#1102: Hood Sag",
         description:
             "A Honda owner is concerned because his Accord's hood seems a little low--literally. Can Tom and Ray diagnose the sagging hood without sending the bogosity meter into the red? Other areas of concern: Sandra fears for her engine's life after accidentally using diesel fuel, while Natalie fears for her own life after denting Dad's car while he's away. Also, to tip or not to tip, at the pump?",
         artist: "Click and Clack",
@@ -50,7 +50,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-01-15.mp3",
         filename: "car_talk_2011-01-15.mp3",
-        title: "Car Talk #1103: The Superball Bumper",
+        title: "#1103: The Superball Bumper",
         description:
             "A new strategy for backing a car without reverse--go forward and bounce. Also, does one half a tank of gas last longer than the other, could a mis-applied parking brake destroy two trucks, and what would draw a swarm of bees to a '72 El Camino?",
         artist: "Click and Clack",
@@ -65,7 +65,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-01-22.mp3",
         filename: "car_talk_2011-01-22.mp3",
-        title: "Car Talk #1104: Power to the People",
+        title: "#1104: Power to the People",
         description:
             "It's the Candy Bar Wrapper Rebellion, as one Magliozzi frees herself from the shackles of a neat car. Also, a re-located airline pilot considers settling down in a VW Westphalia, with the mailing address \"Employee Parking Lot\"; on Stump the Chumps we find out if Scott got his Nissan to start, and survived Fat Tony and his big bucket o' tools; and if your Dad's a mechanic, but won't fix your heater, does it mean he doesn't love you?",
         artist: "Click and Clack",
@@ -95,7 +95,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-02-05.mp3",
         filename: "car_talk_2011-02-05.mp3",
-        title: "Car Talk #1106: Beware the Anonymous Physicist",
+        title: "#1106: Beware the Anonymous Physicist",
         description:
             "Ray tries to erase a recent Puzzler from the collective consciousness. Then, he and his his brother try to stimulate the economy by encouraging Shawn to buy a new car for his one-woman demolition derby wife, and Martha, who's a couple hundred dollars away from being able to take her key out of the ignition. And, a Sentra falls victim to sibling rivalry.",
         artist: "Click and Clack",
@@ -110,7 +110,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-02-14.mp3",
         filename: "car_talk_2011-02-14.mp3",
-        title: "Car Talk #1107: Genius and Bogus Effluent",
+        title: "#1107: Genius and Bogus Effluent",
         description:
             "\"The Male Competence/Incompetence Syndrome\" - the key to understanding Tom and Ray's simultaneous brilliance and stupidity! Meanwhile, Bridget is concerned about the noise her Saturn is making, but she's downright terrified by the guys' efforts to imitate it. And Pam in Virginia has got a Volvo that's blowing more smoke than her husband. Also, Tom and Ray are called to account by Father Bryan, for naming his beloved Yugo the worst of the century.",
         artist: "Click and Clack",
@@ -125,7 +125,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-02-19.mp3",
         filename: "car_talk_2011-02-19.mp3",
-        title: "Car Talk #1108: The Pocket Plow",
+        title: "#1108: The Pocket Plow",
         description:
             "Leanne in Connecticut dreams of fashioning her own mini-snowplow for her Subaru. Her husband thinks she's nuts, but Tom and Ray think she could be the next late-night infomercial superstar. Also, a Toyota comes home from the Philippines with a bang; a new alternator puts a spark in a marriage; and Tommy drives to the Dark Side.",
         artist: "Click and Clack",
@@ -140,7 +140,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-02-26.mp3",
         filename: "car_talk_2011-02-26.mp3",
-        title: "Car Talk #1109: The Yugo in the Living Room",
+        title: "#1109: The Yugo in the Living Room",
         description:
             "Another voice rises in defense of the much-maligned Yugo. After all, how many cars can you garage in your living room? Also, a Lexus develops a very sweet, and expensive smell, while Eau de Skunk has taken up permanent residence in a BMW. And, bad fatherly advice leads to a very chilly Winter in Maryland. All this, plus Stump the Chumps, and lots more.",
         artist: "Click and Clack",
@@ -155,7 +155,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-03-05.mp3",
         filename: "car_talk_2011-03-05.mp3",
-        title: "Car Talk #1110: Another Dodge Dart!",
+        title: "#1110: Another Dodge Dart!",
         description:
             "What's the best spare part to bring along on an extended road trip in your '64 Dodge Dart? Aside from our Show Title, we mean. Also, a case study in you should drive now, jelly later; a noxious Saab prompts a game of \"Who farted\" between mother and son; and is it worth it to each a teenager how to drive a stick shift?",
         artist: "Click and Clack",
@@ -170,7 +170,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-03-12.mp3",
         filename: "car_talk_2011-03-12.mp3",
-        title: "Car Talk #1111: The Lexus ATM",
+        title: "#1111: The Lexus ATM",
         description:
             "Eric in Arizona is finding 100 dollar bills under the seats in his recently purchased '06 Lexus. Is it a unique rebate program? Also, the Chicago Blizzard claims a Ford Escape as victim; a dog and a Chevy Trailblazer prove a bad match; and a gift car that comes with a headache.",
         artist: "Click and Clack",
@@ -185,7 +185,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-03-19.mp3",
         filename: "car_talk_2011-03-19.mp3",
-        title: "Car Talk #1112: The Bowling Ball Incident",
+        title: "#1112: The Bowling Ball Incident",
         description:
             "Driving over a bowling ball is bad for your car, but makes for a funny story, especially when it happens in front of a topless bar. Also, Kat in San Diego wonders why she goes through brakes faster than Tommy goes through ex-wives; a Volvo begins speaking Greek; and the first results from our pseudo-scientific survey on heated seats.",
         artist: "Click and Clack",
@@ -200,7 +200,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-03-25.mp3",
         filename: "car_talk_2011-03-25.mp3",
-        title: "Car Talk #1113: Slugging Etiquette",
+        title: "#1113: Slugging Etiquette",
         description:
             "When your daily commute depends on the kindness of strangers, are you allowed to give them a dope-slap? Also, Wendy in Vermont fears her struggles with her fiance's clutch will cause his Dad to think she's a ditch; Taurus owner Mike is torn between conflicting advice, and needs to know who's the genius and who's the wacko--happily, we have one of each to help him; and is there scientific evidence that one Magliozzi is smarter (or just less stupid) than the other?",
         artist: "Click and Clack",
@@ -215,7 +215,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-04-02.mp3",
         filename: "car_talk_2011-04-02.mp3",
-        title: "Car Talk #1114: The Volvo Valhalla",
+        title: "#1114: The Volvo Valhalla",
         description:
             "Spring is here, and Jilinda's backyard is bursting with--busted Volvos. Can Tom and ray help her find a way to get her husband to stop collecting them? Also, a fluid mishap has George convinced that stepping on his brakes may turn on his wipers; a med student plans an ill-advised post-graduation road trip; and on Stump the Chumps, is Mary Gordon no longer suffering One Note-itis?",
         artist: "Click and Clack",
@@ -230,7 +230,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-04-09.mp3",
         filename: "car_talk_2011-04-09.mp3",
-        title: "Car Talk #1115: Caller Intimidation",
+        title: "#1115: Caller Intimidation",
         description:
             "What do you do when callers won't give the \"right\" answers? Tom and Ray try a new tactic: badger them until they do. Also, a couple debates whether buying a used former rental means inheriting many drivers' bad habits; one MG owner may have to solve Tommy's problem before having his addressed; and, the most creative engine removal of all time.",
         artist: "Click and Clack",
@@ -245,7 +245,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-04-16.mp3",
         filename: "car_talk_2011-04-16.mp3",
-        title: "Car Talk #1116: The Incurable Backseat Driver",
+        title: "#1116: The Incurable Backseat Driver",
         description:
             "Lani's husband's driving has improved, but her nagging hasn't. Is there a cure for her? Meanwhile, Marg wants to know why her husband's Mazda rolled into the backyard, and how she's gonna tell him about it when he gets home from sailing around the world; a couple debates the benefits of a car colonic; and, on Stump the Chumps, did Tom and Ray's semi-divine intervention help Father Patrick?",
         artist: "Click and Clack",
@@ -260,7 +260,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-04-23.mp3",
         filename: "car_talk_2011-04-23.mp3",
-        title: "Car Talk #1117: Bird Doo Due Diligence",
+        title: "#1117: Bird Doo Due Diligence",
         description:
             "Lisa in Florida wonders whether her husband is full of (see Show Title), by telling her she needs to clean bird poop off her car every 24 hours. Also, spark plug wires try to escape a Sentra, while the keys refuse to exit a Maxima. And, can Hope sell her Chevy before she runs out of brain cells lost to a cracked exhaust manifold?",
         artist: "Click and Clack",
@@ -275,7 +275,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-04-30.mp3",
         filename: "car_talk_2011-04-30.mp3",
-        title: "Car Talk #1118: You Say Kilometer",
+        title: "#1118: You Say Kilometer",
         description:
             'Penny in Oregon is a bit "stroppy" over the pronunciation of "kilometer." Her stress in nothing compared to fellow Oregonian Curtis, whose Vanagon is being stolen, one piece at a time. Also, Bob in Massachusetts tries to make the perfect birthday gift even more perfect by painting it pink; and a \'67 Plymouth Fury owner looks to increase his MPG from 13 to--13.5?',
         artist: "Click and Clack",
@@ -290,7 +290,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-05-07.mp3",
         filename: "car_talk_2011-05-07.mp3",
-        title: "Car Talk #1119: Shut Up, Hon",
+        title: "#1119: Shut Up, Hon",
         description:
             "Gender equity comes to Car Talk Plaza this week, as male and female callers are both advised to respond to spousal auto-critiques with a polite, but firm, \"Shut up, Hon.\" Elsewhere, Stuart's Camry is making a scary metallic quacking sound; Bill is wondering if Radiator Stop Leak will work on his wooden hot tub; and Liz the Librarian is about to learn why she shouldn't make jack-rabbit starts. And, for Mother's Day, one Mom's tale of a teenager to be greatly admired--and feared.",
         artist: "Click and Clack",
@@ -305,7 +305,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-05-14.mp3",
         filename: "car_talk_2011-05-14.mp3",
-        title: "Car Talk #1120: Tommy vs Muir Woods",
+        title: "#1120: Tommy vs Muir Woods",
         description:
             "Rashomon comes to Car Talk Plaza, as Tom and Ray offer vastly different recollections of a trip to Muir Woods. They may interrupt for a few moments to tell Colleen why her truck is melting air filters. Meanwhile, Dan in Oregon may find his faith tested by a coolant leak; John treated his Excort to a new clutch and got a new noise from it in return; and Jennifer needs help escaping her husband's new BFF's--the Miata Owners Club.",
         artist: "Click and Clack",
@@ -365,7 +365,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-06-11.mp3",
         filename: "car_talk_2011-06-11.mp3",
-        title: "Car Talk #1124: The Chicken Mahal",
+        title: "#1124: The Chicken Mahal",
         description:
             "This week on Car Talk, Jackson has built a McMansion for his wife's chickens, and now he needs to transport it across Vermont. His plan involves a Toyota Tacoma, a snowmobile trailer-- and one ginormous coop of unknown poundage. Are his fears of a catastrophic collapse justified? Will the chickens have to get out and push? Elsewhere, Chantel in California has decided to come clean about an incident that may have croaked Dad's Volvo a decade back. Can Tom and Ray can keep her in Dad's will? Also, a Prius turns into a gas geyser, a VW owner learns about the high cost of driving through a deep puddle, and, is Tommy's addition to the Miata universe enough to strip it of \"chick car\" status? All this, and lots more, this week on Car Talk.",
         artist: "Click and Clack",
@@ -380,7 +380,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-06-18.mp3",
         filename: "car_talk_2011-06-18.mp3",
-        title: "Car Talk #1125: Book This, Rebecca",
+        title: "#1125: Book This, Rebecca",
         description:
             "This week on Car Talk, Dad gets equal time. Topher, whose daughter Rebecca rebelled against his strict record-keeping, checks in to explain the origins of his now-infamous little maintenance book, and whether Rebecca really is off the family payroll. Another follow-up comes from Car Talk's on-call chemist, Jim Davis, who's been in the lab trying to get Sprite to char a leather car seat. In new business, Cameron's got a starter that's been screeching for 8 months; Bill in Maine is hoping to get one working Probe out of the three in his driveway; and Episcopal priest Jep is wondering if he needs to grant absolution to the mechanic who may have messed up his timing belt job. And, from Germany, a fiery \"Hey guys, watch this!\" story. All this, and lots more, this week on Car Talk.",
         artist: "Click and Clack",
@@ -410,7 +410,7 @@ export const playlist: MetaData[] = [
     {
         url: "https://media.adonix.org/car_talk_2011-07-02.mp3",
         filename: "car_talk_2011-07-02.mp3",
-        title: "Car Talk #1127: You're Driving a Medicare Sled",
+        title: "#1127: You're Driving a Medicare Sled",
         description:
             "This week on Car Talk, what happens when you a tell a woman her Sable is a Granny car? If you're Mac's wife, you co-opt his pickup truck and drive that instead! Now Mac is hoping Tom and Ray can help liberate his beloved Tacoma from her clutches. Elsewhere on the marital front, Amanda's all hot and bothered over her husband's refusal to turn on the air conditioning. Also, why Danielle's stuck windshield wipers are helping keep her car clean; a side-view mirror masher tries to blame the victim; and on Stump the Chumps, we find out if Jackson's bad idea for moving a chicken coop came home to roost. All this, plus the Puzzler Finale from the Prisoners in Hats series, this week on Car Talk.",
         artist: "Click and Clack",
