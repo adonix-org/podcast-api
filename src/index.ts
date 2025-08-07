@@ -18,7 +18,7 @@ import { ContentType, STATUS, StatusCode } from "./http-constants";
 import { PLAYLISTS, SEASON_LIST, SEASON_NUMBERS } from "./seasons/seasons";
 
 export default {
-    async fetch(request, env, ctx): Promise<Response> {
+    async fetch(request): Promise<Response> {
         if (request.method === "OPTIONS") {
             // Handle preflight OPTIONS request
             return getResponse(STATUS.NO_CONTENT);
@@ -32,8 +32,12 @@ export default {
             );
         }
 
-        if (new URL(request.url).pathname === "/favicon.ico") {
+        const url = new URL(request.url);
+        if (url.pathname === "/favicon.ico") {
             return getResponse(STATUS.NO_CONTENT);
+        }
+        if (url.pathname !== "/") {
+            return getResponse(STATUS.NOT_FOUND, "Not Found", "text/plain");
         }
 
         const parameters = new URL(request.url);
