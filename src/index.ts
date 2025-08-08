@@ -15,7 +15,7 @@
  */
 
 import { ContentType, STATUS, StatusCode } from "./http-constants";
-import { PLAYLISTS, SEASON_LIST, SEASON_NUMBERS } from "./seasons/seasons";
+import { PLAYLISTS } from "./seasons/seasons";
 
 const API_VERSION = "v1";
 const API_PATH = `/api/${API_VERSION}/seasons`;
@@ -50,34 +50,25 @@ export default {
         // "/api/v#/seasons/YYYY"
         const match = url.pathname.match(`^${API_PATH}/(\\d{4})$`);
         if (match) {
-            const season = match[1];
-            const year = parseInt(season, 10);
-            if (!SEASON_NUMBERS.includes(year)) {
-                // Season present but invalid
-                return getResponse(
-                    STATUS.BAD_REQUEST,
-                    getError(`Invalid season ${season}`)
-                );
-            }
-
-            const playlist = PLAYLISTS[season];
-            if (playlist) {
+            const year = match[1];
+            if (year in PLAYLISTS) {
                 // Season present and valid
-                return getResponse(STATUS.OK, JSON.stringify(playlist));
+                return getResponse(STATUS.OK, JSON.stringify(PLAYLISTS[year]));
             }
 
-            // Season present, valid but missing playlist
+            // Season present but invalid
             return getResponse(
-                STATUS.SERVER_ERROR,
-                getError(
-                    `Unable to resolve playlist for valid season ${season}`
-                )
+                STATUS.BAD_REQUEST,
+                getError(`Invalid season ${year}`)
             );
         }
 
         // "/api/v#/seasons"
         if (url.pathname === `${API_PATH}`) {
-            return getResponse(STATUS.OK, JSON.stringify(SEASON_LIST));
+            return getResponse(
+                STATUS.OK,
+                JSON.stringify(Object.keys(PLAYLISTS))
+            );
         }
 
         return getResponse(STATUS.NOT_FOUND, getError("Not Found"));
