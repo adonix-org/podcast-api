@@ -442,7 +442,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2014-07-19.mp3",
         title: "#1429: Click and Clack Vs Electric Brakes",
         description:
-            "This week on Car Talk, can Tom and Ray help Paul fix the electric brakes on his cattle trailer? Will the fact that they’ve never even heard of electric brakes stand in their way? Of course not! Elsewhere, Kate can’t get her mechanic to take her Acura’s brake problem seriously, and Alice and her husband can’t agree on whether to take the high road or the low road to go visit their daughter. Also, Marian’s truck is having trouble adjusting to life in Cleveland; Army Captain Rob may have to go AWOL to get out of a Summer road-trip with his in-laws, and should Erin ease her husband’s descent into Minivan Land by letting him keep his BMW? All this and more, this week on Car Talk.",
+            "This week on Car Talk, can Tom and Ray help Paul fix the electric brakes on his cattle trailer? Will the fact that they've never even heard of electric brakes stand in their way? Of course not! Elsewhere, Kate can't get her mechanic to take her Acura's brake problem seriously, and Alice and her husband can't agree on whether to take the high road or the low road to go visit their daughter. Also, Marian's truck is having trouble adjusting to life in Cleveland; Army Captain Rob may have to go AWOL to get out of a Summer road-trip with his in-laws, and should Erin ease her husband's descent into Minivan Land by letting him keep his BMW? All this and more, this week on Car Talk.",
         artist: "Click and Clack",
         album: "Car Talk",
         year: 2014,
