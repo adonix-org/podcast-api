@@ -18,7 +18,7 @@ import { ContentType, STATUS, StatusCode } from "./http-constants";
 import { PLAYLISTS, SEASON_LIST, SEASON_NUMBERS } from "./seasons/seasons";
 
 const API_VERSION = "v1";
-const BASE_PATH = `/api/${API_VERSION}`;
+const API_PATH = `/api/${API_VERSION}/seasons`;
 
 export default {
     async fetch(request): Promise<Response> {
@@ -48,7 +48,7 @@ export default {
         }
 
         // "/api/v#/seasons/YYYY"
-        const match = url.pathname.match(`^${BASE_PATH}/seasons/(\\d{4})$`);
+        const match = url.pathname.match(`^${API_PATH}/(\\d{4})$`);
         if (match) {
             const season = match[1];
             const year = parseInt(season, 10);
@@ -76,7 +76,7 @@ export default {
         }
 
         // "/api/v#/seasons"
-        if (url.pathname === `${BASE_PATH}/seasons`) {
+        if (url.pathname === `${API_PATH}`) {
             return getResponse(STATUS.OK, JSON.stringify(SEASON_LIST));
         }
 
