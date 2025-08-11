@@ -22,7 +22,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-02.mp3",
         title: "#2401: Vehicular Intimacy",
         description:
-            "Almost anything sounds reasonable -desirable even, if you choose the right words. In this episode of the Best of Car Talk, Ray explains 'vehicular intimacy' to his big brother Tom. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Almost anything sounds reasonable -desirable even, if you choose the right words. In this episode of the Best of Car Talk, Ray explains 'vehicular intimacy' to his big brother Tom.",
         artist: "Click and Clack",
         album: "Car Talk",
         year: 2024,
@@ -37,7 +37,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-06.mp3",
         title: "#2402: A Wicked Haircut",
         description:
-            "The sudden, gut-wrenching need for 'A Wicked Haircut' is a part of Car Talk Puzzler lore. Dennis from Ohio experienced this firsthand, as a result of an iced tea on a long drive and he writes to tell Click and Clack about it on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "The sudden, gut-wrenching need for 'A Wicked Haircut' is a part of Car Talk Puzzler lore. Dennis from Ohio experienced this firsthand, as a result of an iced tea on a long drive and he writes to tell Click and Clack about it on this episode of the Best of Car Talk.",
         artist: "Click and Clack",
         album: "Car Talk",
         year: 2024,
@@ -52,7 +52,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-01-09.mp3",
         title: "#2403: Stupid is the Universal Language",
         description:
-            "Click and Clack try fielding calls in Spanish, give terrible marital advice and insult their Mother directly to her face! All on this episode of the Best of Car Talk. And if you want to listen to more Car Talk, sign up for Car Talk+ Car Talk+ is the easiest way for fans to access more than 800 Car Talk episodes, wherever you listen to podcasts. Find out more at plus.npr.org/cartalk or find the Car Talk channel in Apple Podcasts.",
+            "Click and Clack try fielding calls in Spanish, give terrible marital advice and insult their Mother directly to her face! All on this episode of the Best of Car Talk.",
         artist: "Click and Clack",
         album: "Car Talk",
         year: 2024,
@@ -232,7 +232,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-02-20.mp3",
         title: "#2415: The Wrong Kind of Horsepower",
         description:
-            "Ginny drives outo onto a field full of horses. If this were an old movie, Ginny would ride off on the back of one of them into the sunset but, since this is Car Talk, Ginny watches in horror as the horsies begin to eat parts of her car. No Hollywood endings on this episode of the Best of Car Talk. Get access to hundreds of episodes in the Car Talk archive when you sign up for Car Talk+ at plus.npr.org/cartalk",
+            "Ginny drives outo onto a field full of horses. If this were an old movie, Ginny would ride off on the back of one of them into the sunset but, since this is Car Talk, Ginny watches in horror as the horsies begin to eat parts of her car. No Hollywood endings on this episode of the Best of Car Talk.",
         artist: "Click and Clack",
         album: "Car Talk",
         year: 2024,
@@ -247,7 +247,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-02-24.mp3",
         title: "#2416: Debbie's Automotive Impressions",
         description:
-            "Debbie's Toyota has a brake noise, and because she lives near a repair shop she's become very accomplished at mimicking various automotive sounds. It's music to our ears on this episode of the Best of Car Talk. Get access to hundreds of episodes in the Car Talk archive when you sign up for Car Talk+ at plus.npr.org/cartalk",
+            "Debbie's Toyota has a brake noise, and because she lives near a repair shop she's become very accomplished at mimicking various automotive sounds. It's music to our ears on this episode of the Best of Car Talk.",
         artist: "Click and Clack",
         album: "Car Talk",
         year: 2024,
@@ -292,7 +292,7 @@ export const playlist: MetaData[] = [
         filename: "car_talk_2024-03-05.mp3",
         title: "#2419: So Much for Brotherly Love",
         description:
-            'Kieran from Louisiana has to leave his car for a long time. The last time he stored it the brakes rusted so bad they had to be replaced. Should he instead leave the car with his brother? Find out how many ways there are to say, "Absolutely Not!" from the Tappet Brothers on this episode of the Best of Car Talk. Get access to hundreds of episodes in the Car Talk archive when you sign up for Car Talk+ at plus.npr.org/cartalk',
+            'Kieran from Louisiana has to leave his car for a long time. The last time he stored it the brakes rusted so bad they had to be replaced. Should he instead leave the car with his brother? Find out how many ways there are to say, "Absolutely Not!" from the Tappet Brothers on this episode of the Best of Car Talk.',
         artist: "Click and Clack",
         album: "Car Talk",
         year: 2024,
