@@ -61,6 +61,6 @@ export class PodcastWorker extends WorkerBase {
             );
         }
 
-        return await this.env.ASSETS.fetch(url);
+        return await this.env.ASSETS.fetch(request);
     }
 }
