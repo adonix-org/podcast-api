@@ -22,31 +22,21 @@ const API_PATH = `/api/${API_VERSION}/seasons`;
 
 export class ApiWorker extends WorkerBase {
     protected override async get(request: Request): Promise<Response> {
-        // favicon.ico - move this and apple/chrome stuff
-        // to library.
         const url = new URL(request.url);
-        if (url.pathname === "/favicon.ico") {
-            const response = await fetch(
-                "https://assets.adonix.org/favicon.ico"
-            );
-            if (response.ok && response.body) {
-                return this.getResponse(
-                    response.status,
-                    response.body,
-                    MimeType.ICO
-                );
-            }
-            return this.getResponse(
-                response.status,
-                this.getError(response.status, response.statusText)
-            );
-        }
 
         // redirect if the path ends with a slash
         if (url.pathname.length > 1 && url.pathname.endsWith("/")) {
             const noSlash = url.pathname.slice(0, -1);
             const newUrl = `${url.origin}${noSlash}${url.search}`;
             return Response.redirect(newUrl, StatusCodes.PERMANENT_REDIRECT);
+        }
+
+        // "/api/v#/seasons"
+        if (url.pathname === `${API_PATH}`) {
+            return this.getResponse(
+                StatusCodes.OK,
+                JSON.stringify(Object.keys(PLAYLISTS))
+            );
         }
 
         // "/api/v#/seasons/YYYY"
@@ -71,11 +61,22 @@ export class ApiWorker extends WorkerBase {
             );
         }
 
-        // "/api/v#/seasons"
-        if (url.pathname === `${API_PATH}`) {
+        // favicon.ico - maybe move this and apple/chrome stuff
+        // to library. Check environment for assets.
+        if (url.pathname === "/favicon.ico") {
+            const response = await fetch(
+                "https://assets.adonix.org/favicon.ico"
+            );
+            if (response.ok && response.body) {
+                return this.getResponse(
+                    response.status,
+                    response.body,
+                    MimeType.ICO
+                );
+            }
             return this.getResponse(
-                StatusCodes.OK,
-                JSON.stringify(Object.keys(PLAYLISTS))
+                response.status,
+                this.getError(response.status, response.statusText)
             );
         }
 
