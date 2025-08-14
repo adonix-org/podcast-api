@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-import { ApiWorker } from "./worker";
+import { PodcastWorker } from "./worker";
 
 export default {
     fetch: (req: Request, env: Env, ctx: ExecutionContext) =>
-        new ApiWorker(env, ctx).fetch(req),
+        new PodcastWorker(env, ctx).fetch(req),
 } satisfies ExportedHandler<Env>;

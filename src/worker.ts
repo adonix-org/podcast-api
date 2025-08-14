@@ -20,7 +20,7 @@ import { MimeType, StatusCodes, WorkerBase } from "@adonix.org/cf-worker-base";
 const API_VERSION = "v1";
 const API_PATH = `/api/${API_VERSION}/seasons`;
 
-export class ApiWorker extends WorkerBase {
+export class PodcastWorker extends WorkerBase {
     protected override async get(request: Request): Promise<Response> {
         const url = new URL(request.url);
 
@@ -61,28 +61,6 @@ export class ApiWorker extends WorkerBase {
             );
         }
 
-        // favicon.ico - maybe move this and apple/chrome stuff
-        // to library. Check environment for assets.
-        if (url.pathname === "/favicon.ico") {
-            const response = await fetch(
-                "https://assets.adonix.org/favicon.ico"
-            );
-            if (response.ok && response.body) {
-                return this.getResponse(
-                    response.status,
-                    response.body,
-                    MimeType.ICO
-                );
-            }
-            return this.getResponse(
-                response.status,
-                this.getError(response.status, response.statusText)
-            );
-        }
-
-        return this.getResponse(
-            StatusCodes.NOT_FOUND,
-            this.getError(StatusCodes.NOT_FOUND, url.pathname)
-        );
+        return await this.env.ASSETS.fetch(url);
     }
 }
