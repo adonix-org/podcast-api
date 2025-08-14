@@ -20,8 +20,8 @@ import { MimeType, StatusCodes, WorkerBase } from "@adonix.org/cf-worker-base";
 const API_VERSION = "v1";
 const API_PATH = `/api/${API_VERSION}/seasons`;
 
-export class Worker extends WorkerBase {
-     protected override async get(request: Request): Promise<Response> {
+export class ApiWorker extends WorkerBase {
+    protected override async get(request: Request): Promise<Response> {
         // favicon.ico - move this and apple/chrome stuff
         // to library.
         const url = new URL(request.url);

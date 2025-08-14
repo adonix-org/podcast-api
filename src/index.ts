@@ -14,10 +14,9 @@
  * limitations under the License.
  */
 
-import { Worker } from "./worker";
+import { ApiWorker } from "./worker";
 
 export default {
-    async fetch(request, env, ctx): Promise<Response> {
-        return await new Worker(env, ctx).fetch(request);
-    },
+    fetch: (req: Request, env: Env, ctx: ExecutionContext) =>
+        new ApiWorker(env, ctx).fetch(req),
 } satisfies ExportedHandler<Env>;
