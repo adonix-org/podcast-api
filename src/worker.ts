@@ -21,7 +21,7 @@ const API_VERSION = "v1";
 const API_PATH = `/api/${API_VERSION}/seasons`;
 
 export class Worker extends WorkerBase {
-    protected override async get(request: Request): Promise<Response> {
+     protected override async get(request: Request): Promise<Response> {
         // favicon.ico - move this and apple/chrome stuff
         // to library.
         const url = new URL(request.url);
@@ -31,7 +31,7 @@ export class Worker extends WorkerBase {
             );
             if (response.ok && response.body) {
                 return this.getResponse(
-                    StatusCodes.OK,
+                    response.status,
                     response.body,
                     MimeType.ICO
                 );
@@ -81,7 +81,7 @@ export class Worker extends WorkerBase {
 
         return this.getResponse(
             StatusCodes.NOT_FOUND,
-            this.getError(StatusCodes.NOT_FOUND)
+            this.getError(StatusCodes.NOT_FOUND, url.pathname)
         );
     }
 }
