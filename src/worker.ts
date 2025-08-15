@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import { PLAYLISTS } from "./seasons/seasons";
+import { PLAYLISTS } from "./seasons/playlists";
 import {
     ErrorResult,
     JsonResult,
