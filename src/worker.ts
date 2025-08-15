@@ -15,7 +15,12 @@
  */
 
 import { PLAYLISTS } from "./seasons/seasons";
-import { MimeType, StatusCodes, WorkerBase } from "@adonix.org/cf-worker-base";
+import {
+    ErrorResult,
+    JsonResult,
+    StatusCodes,
+    WorkerBase,
+} from "@adonix.org/cf-worker-base";
 
 const API_VERSION = "v1";
 const API_PATH = `/api/${API_VERSION}/seasons`;
@@ -24,19 +29,9 @@ export class PodcastWorker extends WorkerBase {
     protected override async get(request: Request): Promise<Response> {
         const url = new URL(request.url);
 
-        // redirect if the path ends with a slash
-        if (url.pathname.length > 1 && url.pathname.endsWith("/")) {
-            const noSlash = url.pathname.slice(0, -1);
-            const newUrl = `${url.origin}${noSlash}${url.search}`;
-            return Response.redirect(newUrl, StatusCodes.PERMANENT_REDIRECT);
-        }
-
         // "/api/v#/seasons"
         if (url.pathname === `${API_PATH}`) {
-            return this.getResponse(
-                StatusCodes.OK,
-                JSON.stringify(Object.keys(PLAYLISTS))
-            );
+            return new JsonResult(this, Object.keys(PLAYLISTS)).response;
         }
 
         // "/api/v#/seasons/YYYY"
@@ -45,20 +40,15 @@ export class PodcastWorker extends WorkerBase {
             const year = match[1];
             if (year in PLAYLISTS) {
                 // Season present and valid
-                return this.getResponse(
-                    StatusCodes.OK,
-                    JSON.stringify(PLAYLISTS[year])
-                );
+                return new JsonResult(this, PLAYLISTS[year]).response;
             }
 
             // Season present but invalid
-            return this.getResponse(
+            return new ErrorResult(
+                this,
                 StatusCodes.BAD_REQUEST,
-                this.getError(
-                    StatusCodes.BAD_REQUEST,
-                    `Invalid season: ${year}`
-                )
-            );
+                `Invalid season: ${year}`
+            ).response;
         }
 
         return await this.env.ASSETS.fetch(request);
