@@ -51,6 +51,6 @@ export class PodcastWorker extends WorkerBase {
             ).response;
         }
 
-        return await this.env.ASSETS.fetch(request);
+        return new ErrorResult(this, StatusCodes.NOT_FOUND).response;
     }
 }
