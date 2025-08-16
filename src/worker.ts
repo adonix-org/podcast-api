@@ -49,4 +49,8 @@ export class PodcastWorker extends WorkerBase {
 
         return this.getResponse(NotFound);
     }
+
+    public override getAllowOrigins(): string[] {
+        return ["https://www.tybusby.com", "http://localhost:5173"];
+    }
 }
