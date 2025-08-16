@@ -26,8 +26,8 @@ const API_VERSION = "v1";
 const API_PATH = `/api/${API_VERSION}/seasons`;
 
 export class PodcastWorker extends WorkerBase {
-    protected override async get(request: Request): Promise<Response> {
-        const url = new URL(request.url);
+    protected override async get(): Promise<Response> {
+        const url = new URL(this.request.url);
 
         // "/api/v#/seasons"
         if (url.pathname === `${API_PATH}`) {
