@@ -16,9 +16,9 @@
 
 import { PLAYLISTS } from "./seasons/playlists";
 import {
-    ErrorResult,
+    BadRequest,
     JsonResult,
-    StatusCodes,
+    NotFound,
     WorkerBase,
 } from "@adonix.org/cf-worker-base";
 
@@ -31,7 +31,7 @@ export class PodcastWorker extends WorkerBase {
 
         // "/api/v#/seasons"
         if (url.pathname === `${API_PATH}`) {
-            return new JsonResult(this, Object.keys(PLAYLISTS)).response;
+            return this.getResponse(JsonResult, Object.keys(PLAYLISTS));
         }
 
         // "/api/v#/seasons/YYYY"
@@ -40,17 +40,13 @@ export class PodcastWorker extends WorkerBase {
             const year = match[1];
             if (year in PLAYLISTS) {
                 // Season present and valid
-                return new JsonResult(this, PLAYLISTS[year]).response;
+                return this.getResponse(JsonResult, PLAYLISTS[year]);
             }
 
             // Season present but invalid
-            return new ErrorResult(
-                this,
-                StatusCodes.BAD_REQUEST,
-                `Invalid season: ${year}`
-            ).response;
+            return this.getResponse(BadRequest, `Invalid season: ${year}`);
         }
 
-        return new ErrorResult(this, StatusCodes.NOT_FOUND).response;
+        return this.getResponse(NotFound);
     }
 }
