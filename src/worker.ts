@@ -14,40 +14,33 @@
  * limitations under the License.
  */
 
+import { BasicWorker, RoutedWorker } from "@adonix.org/cloud-spark";
 import { PLAYLISTS } from "./seasons/playlists";
-import {
-    BadRequest,
-    JsonResponse,
-    NotFound,
-    WorkerBase,
-} from "@adonix.org/cf-worker-base";
+import { BadRequest, JsonResponse, NotFound } from "@adonix.org/cloud-spark";
 
 const API_VERSION = "v1";
 const API_PATH = `/api/${API_VERSION}/seasons`;
 
-export class PodcastWorker extends WorkerBase {
-    protected override async get(): Promise<Response> {
+export class PodcastWorker extends RoutedWorker {
+    protected addRoutes(): void {
+        this.addRoute(API_PATH, this.getSeasons);
+        this.addRoute(new RegExp(`^${API_PATH}/(\\d{4})$`), this.getPlaylist);
+    }
+
+    private getSeasons(): Response {
+        return this.getResponse(JsonResponse, Object.keys(PLAYLISTS));
+    }
+
+    private getPlaylist(): Response {
         const url = new URL(this.request.url);
-
-        // "/api/v#/seasons"
-        if (url.pathname === `${API_PATH}`) {
-            return this.getResponse(JsonResponse, Object.keys(PLAYLISTS));
+        const year = url.pathname.slice(-4);
+        if (year in PLAYLISTS) {
+            // Season present and valid
+            return this.getResponse(JsonResponse, PLAYLISTS[year]);
         }
 
-        // "/api/v#/seasons/YYYY"
-        const match = url.pathname.match(`^${API_PATH}/(\\d{4})$`);
-        if (match) {
-            const year = match[1];
-            if (year in PLAYLISTS) {
-                // Season present and valid
-                return this.getResponse(JsonResponse, PLAYLISTS[year]);
-            }
-
-            // Season present but invalid
-            return this.getResponse(BadRequest, `Invalid season: ${year}`);
-        }
-
-        return this.getResponse(NotFound);
+        // Season present but invalid
+        return this.getResponse(BadRequest, `Invalid season: ${year}`);
     }
 
     public override getAllowOrigins(): string[] {
