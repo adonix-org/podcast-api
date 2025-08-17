@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import { BasicWorker, RoutedWorker } from "@adonix.org/cloud-spark";
+import { RoutedWorker } from "@adonix.org/cloud-spark";
 import { PLAYLISTS } from "./seasons/playlists";
 import { BadRequest, JsonResponse, NotFound } from "@adonix.org/cloud-spark";
 
