@@ -27,7 +27,7 @@ export class PodcastWorker extends RoutedWorker {
         this.addRoute(new RegExp(`^${API_PATH}/(\\d{4})$`), this.getPlaylist);
     }
 
-    private getSeasons(request: Request): Response {
+    private getSeasons(): Response {
         return this.getResponse(JsonResponse, Object.keys(PLAYLISTS));
     }
 
