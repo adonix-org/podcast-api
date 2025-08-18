@@ -31,8 +31,8 @@ export class PodcastWorker extends RoutedWorker {
         return this.getResponse(JsonResponse, Object.keys(PLAYLISTS));
     }
 
-    private getPlaylist(): Response {
-        const year = new URL(this.request.url).pathname.slice(-4);
+    private getPlaylist(_request: Request, ...matches: string[]): Response {
+        const year = matches[1];
         if (year in PLAYLISTS) {
             // Season present and valid
             return this.getResponse(JsonResponse, PLAYLISTS[year]);
