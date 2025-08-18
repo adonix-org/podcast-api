@@ -16,7 +16,7 @@
 
 import { RoutedWorker } from "@adonix.org/cloud-spark";
 import { PLAYLISTS } from "./seasons/playlists";
-import { BadRequest, JsonResponse, NotFound } from "@adonix.org/cloud-spark";
+import { BadRequest, JsonResponse } from "@adonix.org/cloud-spark";
 
 const API_VERSION = "v1";
 const API_PATH = `/api/${API_VERSION}/seasons`;
