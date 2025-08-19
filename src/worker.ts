@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import { RoutedWorker } from "@adonix.org/cloud-spark";
+import { Method, RoutedWorker } from "@adonix.org/cloud-spark";
 import { PLAYLISTS } from "./seasons/playlists";
 import { BadRequest, JsonResponse } from "@adonix.org/cloud-spark";
 
@@ -22,9 +22,13 @@ const API_VERSION = "v1";
 const API_PATH = `/api/${API_VERSION}/seasons`;
 
 export class PodcastWorker extends RoutedWorker {
-    protected addRoutes(): void {
-        this.addRoute(API_PATH, this.getSeasons);
-        this.addRoute(new RegExp(`^${API_PATH}/(\\d{4})$`), this.getPlaylist);
+    constructor(request: Request, env: Env, ctx: ExecutionContext) {
+        super(request, env, ctx);
+
+        this.initialize([
+            [Method.GET, `^${API_PATH}$`, this.getSeasons],
+            [Method.GET, `^${API_PATH}/(\\d{4})$`, this.getPlaylist],
+        ]);
     }
 
     private getSeasons(): Response {
