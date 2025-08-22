@@ -14,12 +14,34 @@
  * limitations under the License.
  */
 
-import { Method, RoutedWorker } from "@adonix.org/cloud-spark";
+import {
+    CacheControl,
+    Method,
+    RoutedWorker,
+    Time,
+} from "@adonix.org/cloud-spark";
 import { PLAYLISTS } from "./seasons/playlists";
 import { BadRequest, JsonResponse } from "@adonix.org/cloud-spark";
 
 const API_VERSION = "v1";
 const API_PATH = `/api/${API_VERSION}/seasons`;
+const LATEST_SEASON = "2025";
+
+// for older seasons
+const MONTH_CACHE: CacheControl = {
+    public: true,
+    immutable: true,
+    "max-age": 30 * Time.Day,
+    "s-maxage": 30 * Time.Day,
+};
+
+// for current season
+const DAY_CACHE: CacheControl = {
+    public: true,
+    immutable: true,
+    "max-age": Time.Day,
+    "s-maxage": Time.Day,
+};
 
 export class PodcastWorker extends RoutedWorker {
     constructor(request: Request, env: Env, ctx: ExecutionContext) {
@@ -32,14 +54,22 @@ export class PodcastWorker extends RoutedWorker {
     }
 
     private getSeasons(): Response {
-        return this.getResponse(JsonResponse, Object.keys(PLAYLISTS));
+        return this.getResponse(
+            JsonResponse,
+            Object.keys(PLAYLISTS),
+            DAY_CACHE
+        );
     }
 
     private getPlaylist(...matches: string[]): Response {
         const year = matches[1];
         if (year in PLAYLISTS) {
             // Season present and valid
-            return this.getResponse(JsonResponse, PLAYLISTS[year]);
+            return this.getResponse(
+                JsonResponse,
+                PLAYLISTS[year],
+                year !== LATEST_SEASON ? MONTH_CACHE : DAY_CACHE
+            );
         }
 
         // Season present but invalid
