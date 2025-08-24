@@ -75,10 +75,15 @@ export class PodcastWorker extends RoutedWorker {
         return this.getResponse(BadRequest, `Invalid season: ${year}`);
     }
 
-    private async getJson<T = any>(key: string): Promise<T | null> {
+    private async getJson<T>(key: string): Promise<T | null> {
         const object = await this.env.R2_PODCAST.get(key);
         if (!object) return null;
-        return (await object.json()) as T;
+
+        try {
+            return await object.json<T>();
+        } catch (cause) {
+            throw new Error(`Failed to parse JSON for key: ${key}`, { cause });
+        }
     }
 
     public override getAllowOrigins(): string[] {
