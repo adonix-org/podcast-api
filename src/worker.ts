@@ -16,11 +16,11 @@
 
 import {
     CacheControl,
+    InternalServerError,
     Method,
     RoutedWorker,
     Time,
 } from "@adonix.org/cloud-spark";
-import { PLAYLISTS } from "./seasons/playlists";
 import { BadRequest, JsonResponse } from "@adonix.org/cloud-spark";
 
 const API_VERSION = "v1";
@@ -48,32 +48,37 @@ export class PodcastWorker extends RoutedWorker {
         super(request, env, ctx);
 
         this.initialize([
-            [Method.GET, `^${API_PATH}$`, this.getSeasons],
-            [Method.GET, `^${API_PATH}/(\\d{4})$`, this.getPlaylist],
+            [Method.GET, `^${API_PATH}$`, this.getPodcast],
+            [Method.GET, `^${API_PATH}/(\\d{4})$`, this.getSeason],
         ]);
     }
 
-    private getSeasons(): Response {
-        return this.getResponse(
-            JsonResponse,
-            Object.keys(PLAYLISTS),
-            DAY_CACHE
-        );
+    private async getPodcast(): Promise<Response> {
+        const json = await this.getJson("seasons/index.json");
+        if (json) return this.getResponse(JsonResponse, json, DAY_CACHE);
+
+        return this.getResponse(InternalServerError, "Missing index.json");
     }
 
-    private getPlaylist(...matches: string[]): Response {
+    private async getSeason(...matches: string[]): Promise<Response> {
         const year = matches[1];
-        if (year in PLAYLISTS) {
-            // Season present and valid
+        const json = await this.getJson(`seasons/${year}.json`);
+        if (json) {
             return this.getResponse(
                 JsonResponse,
-                PLAYLISTS[year],
+                json,
                 year !== LATEST_SEASON ? MONTH_CACHE : DAY_CACHE
             );
         }
 
         // Season present but invalid
         return this.getResponse(BadRequest, `Invalid season: ${year}`);
+    }
+
+    private async getJson<T = any>(key: string): Promise<T | null> {
+        const object = await this.env.R2_PODCAST.get(key);
+        if (!object) return null;
+        return (await object.json()) as T;
     }
 
     public override getAllowOrigins(): string[] {

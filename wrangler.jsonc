@@ -10,7 +10,14 @@
     "observability": {
         "enabled": true
     },
-    "assets": { "directory": "./public/", "binding": "ASSETS" }
+    "assets": { "directory": "./public/", "binding": "ASSETS" },
+    "r2_buckets": [
+        {
+            "binding": "R2_PODCAST",
+            "bucket_name": "adonix-audio",
+            "preview_bucket_name": "adonix-audio"
+        }
+    ]
 
     /**
      * Smart Placement
