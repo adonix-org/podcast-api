@@ -28,19 +28,19 @@ const API_PATH = `/api/${API_VERSION}/seasons`;
 const LATEST_SEASON = "2025";
 
 // for older seasons
-const MONTH_CACHE: CacheControl = {
+const LONG_CACHE: CacheControl = {
     public: true,
     immutable: true,
-    "max-age": 30 * Time.Day,
-    "s-maxage": 30 * Time.Day,
+    "max-age": Time.Year,
+    "s-maxage": 90 * Time.Day,
 };
 
 // for current season
 const DAY_CACHE: CacheControl = {
     public: true,
-    immutable: true,
     "max-age": Time.Day,
     "s-maxage": Time.Day,
+    "stale-while-revalidate": Time.Day,
 };
 
 export class PodcastWorker extends RoutedWorker {
@@ -67,7 +67,7 @@ export class PodcastWorker extends RoutedWorker {
             return this.getResponse(
                 JsonResponse,
                 json,
-                year !== LATEST_SEASON ? MONTH_CACHE : DAY_CACHE
+                year === LATEST_SEASON ? DAY_CACHE : LONG_CACHE
             );
         }
 
