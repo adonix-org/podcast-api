@@ -53,8 +53,8 @@ export class PodcastWorker extends RoutedWorker {
         ]);
     }
 
-    protected override async dispatch(request: Request): Promise<Response> {
-        return (await this.getCachedResponse()) ?? super.dispatch(request);
+    protected override async dispatch(): Promise<Response> {
+        return (await this.getCachedResponse()) ?? super.dispatch();
     }
 
     private async getPodcast(): Promise<Response> {
