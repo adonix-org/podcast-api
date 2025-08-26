@@ -16,7 +16,4 @@
 
 import { PodcastWorker } from "./worker";
 
-export default {
-    fetch: (request: Request, env: Env, ctx: ExecutionContext) =>
-        new PodcastWorker(request, env, ctx).fetch(),
-} satisfies ExportedHandler<Env>;
+export default PodcastWorker.ignite();
