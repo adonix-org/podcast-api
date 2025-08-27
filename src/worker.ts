@@ -18,7 +18,7 @@ import {
     CacheControl,
     InternalServerError,
     Method,
-    RoutedWorker,
+    RouteWorker,
     Time,
 } from "@adonix.org/cloud-spark";
 import { BadRequest, JsonResponse } from "@adonix.org/cloud-spark";
@@ -43,7 +43,7 @@ const DAY_CACHE: CacheControl = {
     "stale-while-revalidate": Time.Day,
 };
 
-export class PodcastWorker extends RoutedWorker {
+export class PodcastWorker extends RouteWorker {
     constructor(request: Request, env: Env, ctx: ExecutionContext) {
         super(request, env, ctx);
 
