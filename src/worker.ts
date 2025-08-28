@@ -64,8 +64,8 @@ export class PodcastWorker extends RouteWorker {
         return this.getResponse(InternalServerError, "Missing index.json");
     }
 
-    private async getSeason(...matches: string[]): Promise<Response> {
-        const year = matches[0];
+    private async getSeason(match: RegExpExecArray): Promise<Response> {
+        const year = match[1];
         const json = await this.getJson(`seasons/${year}.json`);
         if (json) {
             return this.getResponse(
