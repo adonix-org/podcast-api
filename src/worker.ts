@@ -65,7 +65,7 @@ export class PodcastWorker extends RouteWorker {
     }
 
     private async getSeason(...matches: string[]): Promise<Response> {
-        const year = matches[1];
+        const year = matches[0];
         const json = await this.getJson(`seasons/${year}.json`);
         if (json) {
             return this.getResponse(
