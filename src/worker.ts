@@ -89,8 +89,4 @@ export class PodcastWorker extends RouteWorker {
             throw new Error(`Failed to parse JSON for key: ${key}`, { cause });
         }
     }
-
-    public override getAllowOrigins(): string[] {
-        return ["https://www.tybusby.com", "http://localhost:5173"];
-    }
 }
