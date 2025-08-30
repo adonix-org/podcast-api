@@ -15,13 +15,14 @@
  */
 
 import {
+    BadRequest,
     CacheControl,
     InternalServerError,
+    JsonResponse,
     Method,
     RouteWorker,
     Time,
 } from "@adonix.org/cloud-spark";
-import { BadRequest, JsonResponse } from "@adonix.org/cloud-spark";
 
 const API_VERSION = "v1";
 const API_PATH = `/api/${API_VERSION}/seasons`;
