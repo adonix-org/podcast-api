@@ -15,11 +15,11 @@
  */
 
 import {
-    BadRequest,
     CacheControl,
     InternalServerError,
     JsonResponse,
     Method,
+    NotFound,
     RouteWorker,
     Time,
 } from "@adonix.org/cloud-spark";
@@ -72,8 +72,8 @@ export class PodcastWorker extends RouteWorker {
             );
         }
 
-        // Season present but invalid
-        return this.getResponse(BadRequest, `Invalid season: ${year}`);
+        // Season was present in URL but was not found in R2
+        return this.getResponse(NotFound, `Season ${year} not found`);
     }
 
     private async getJson<T>(key: string): Promise<T | null> {
