@@ -54,10 +54,6 @@ export class PodcastWorker extends RouteWorker {
         ]);
     }
 
-    protected override async dispatch(): Promise<Response> {
-        return (await this.getCachedResponse()) ?? super.dispatch();
-    }
-
     private async getPodcast(): Promise<Response> {
         const json = await this.getJson("seasons/index.json");
         if (json) return this.getResponse(JsonResponse, json, DAY_CACHE);
