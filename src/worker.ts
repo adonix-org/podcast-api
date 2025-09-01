@@ -15,11 +15,13 @@
  */
 
 import {
+    BadRequest,
     CacheControl,
     InternalServerError,
     JsonResponse,
     Method,
     NotFound,
+    RouteParams,
     RouteWorker,
     Time,
 } from "@adonix.org/cloud-spark";
@@ -49,8 +51,8 @@ export class PodcastWorker extends RouteWorker {
         super(request, env, ctx);
 
         this.initialize([
-            [Method.GET, `^${API_PATH}$`, this.getPodcast],
-            [Method.GET, `^${API_PATH}/(\\d{4})$`, this.getSeason],
+            [Method.GET, API_PATH, this.getPodcast],
+            [Method.GET, `${API_PATH}/:year`, this.getSeason],
         ]);
     }
 
@@ -61,8 +63,15 @@ export class PodcastWorker extends RouteWorker {
         return this.getResponse(InternalServerError, "Missing index.json");
     }
 
-    private async getSeason(match: RegExpExecArray): Promise<Response> {
-        const year = match[1];
+    private async getSeason(params: RouteParams): Promise<Response> {
+        const year = params["year"];
+        if (!/^\d{4}$/.test(year)) {
+            return this.getResponse(
+                BadRequest,
+                `Invalid season ${year}. Expected format: YYYY`
+            );
+        }
+
         const json = await this.getJson(`seasons/${year}.json`);
         if (json) {
             return this.getResponse(
@@ -73,7 +82,7 @@ export class PodcastWorker extends RouteWorker {
         }
 
         // Season was present in URL but was not found in R2
-        return this.getResponse(NotFound, `Season ${year} not found`);
+        return this.getResponse(NotFound, `Season ${year} was not found.`);
     }
 
     private async getJson<T>(key: string): Promise<T | null> {
