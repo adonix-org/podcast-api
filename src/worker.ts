@@ -47,10 +47,8 @@ const DAY_CACHE: CacheControl = {
 };
 
 export class PodcastWorker extends RouteWorker {
-    constructor(request: Request, env: Env, ctx: ExecutionContext) {
-        super(request, env, ctx);
-
-        this.initialize([
+    protected registerRoutes(): void {
+        this.load([
             [Method.GET, API_PATH, this.getPodcast],
             [Method.GET, `${API_PATH}/:year`, this.getSeason],
         ]);
@@ -81,7 +79,8 @@ export class PodcastWorker extends RouteWorker {
             );
         }
 
-        // Season was present in URL but was not found in R2
+        // Correctly formatted season (YYYY) was present in URL
+        // but was not found in R2
         return this.getResponse(NotFound, `Season ${year} was not found.`);
     }
 
