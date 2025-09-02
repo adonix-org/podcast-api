@@ -17,6 +17,7 @@
 import {
     BadRequest,
     CacheControl,
+    CacheHandler,
     CorsHandler,
     InternalServerError,
     JsonResponse,
@@ -54,6 +55,7 @@ export class PodcastWorker extends RouteWorker {
             [Method.GET, `${API_PATH}/:year`, this.getSeason],
         ]);
         this.use(new CorsHandler());
+        this.use(new CacheHandler());
     }
 
     private async getPodcast(): Promise<Response> {
