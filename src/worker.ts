@@ -17,6 +17,7 @@
 import {
     BadRequest,
     CacheControl,
+    CorsHandler,
     InternalServerError,
     JsonResponse,
     Method,
@@ -47,11 +48,12 @@ const DAY_CACHE: CacheControl = {
 };
 
 export class PodcastWorker extends RouteWorker {
-    protected registerRoutes(): void {
+    protected override setup(): void {
         this.load([
             [Method.GET, API_PATH, this.getPodcast],
             [Method.GET, `${API_PATH}/:year`, this.getSeason],
         ]);
+        this.use(new CorsHandler());
     }
 
     private async getPodcast(): Promise<Response> {
