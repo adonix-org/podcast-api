@@ -89,12 +89,12 @@ export class PodcastWorker extends RouteWorker {
         return this.getResponse(NotFound, `Season ${year} was not found.`);
     }
 
-    private async getJson<T>(key: string): Promise<T | null> {
+    private async getJson(key: string): Promise<unknown> {
         const object = await this.env.R2_PODCAST.get(key);
         if (!object) return null;
 
         try {
-            return await object.json<T>();
+            return await object.json();
         } catch (cause) {
             throw new Error(`Failed to parse JSON for key: ${key}`, { cause });
         }
