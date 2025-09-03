@@ -49,11 +49,12 @@ const DAY_CACHE: CacheControl = {
 };
 
 export class PodcastWorker extends RouteWorker {
-    protected override setup(): void {
+    protected override init(): void {
         this.load([
             [Method.GET, API_PATH, this.getPodcast],
             [Method.GET, `${API_PATH}/:year`, this.getSeason],
         ]);
+
         this.use(new CorsHandler());
         this.use(new CacheHandler());
     }
