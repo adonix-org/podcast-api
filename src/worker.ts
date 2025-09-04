@@ -19,7 +19,6 @@ import {
     CacheControl,
     CacheHandler,
     CorsHandler,
-    InternalServerError,
     JsonResponse,
     Method,
     NotFound,
@@ -63,7 +62,7 @@ export class PodcastWorker extends RouteWorker {
         const json = await this.getJson("seasons/index.json");
         if (json) return this.getResponse(JsonResponse, json, DAY_CACHE);
 
-        return this.getResponse(InternalServerError, "Missing index.json");
+        return this.getResponse(NotFound, "index.json was not found.");
     }
 
     private async getSeason(params: RouteParams): Promise<Response> {
