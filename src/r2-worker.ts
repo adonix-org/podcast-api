@@ -14,6 +14,17 @@
  * limitations under the License.
  */
 
-import { GatewayWorker } from "./gateway-worker";
+import { RouteWorker } from "@adonix.org/cloud-spark";
 
-export default GatewayWorker.ignite();
+export class R2Worker extends RouteWorker {
+    protected async getJson(key: string): Promise<unknown> {
+        const object = await this.env.R2_PODCAST.get(key);
+        if (!object) return null;
+
+        try {
+            return await object.json();
+        } catch (cause) {
+            throw new Error(`Failed to parse JSON for key: ${key}`, { cause });
+        }
+    }
+}

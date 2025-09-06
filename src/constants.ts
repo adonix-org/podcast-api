@@ -14,6 +14,22 @@
  * limitations under the License.
  */
 
-import { GatewayWorker } from "./gateway-worker";
+import { CacheControl, Time } from "@adonix.org/cloud-spark";
 
-export default GatewayWorker.ignite();
+export const LATEST_SEASON = "2025";
+
+// for older seasons
+export const LONG_CACHE: CacheControl = {
+    public: true,
+    immutable: true,
+    "max-age": Time.Year,
+    "s-maxage": 90 * Time.Day,
+};
+
+// for current season
+export const DAY_CACHE: CacheControl = {
+    public: true,
+    "max-age": Time.Day,
+    "s-maxage": Time.Day,
+    "stale-while-revalidate": Time.Day,
+};

@@ -14,6 +14,4 @@
  * limitations under the License.
  */
 
-import { GatewayWorker } from "./gateway-worker";
-
-export default GatewayWorker.ignite();
+export * from "./podcast";

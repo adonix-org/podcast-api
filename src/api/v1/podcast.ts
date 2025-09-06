@@ -15,43 +15,24 @@
  */
 
 import {
-    BadRequest,
-    CacheControl,
-    CacheHandler,
-    CorsHandler,
-    JsonResponse,
     Method,
+    CorsHandler,
+    CacheHandler,
+    JsonResponse,
     NotFound,
     RouteParams,
-    RouteWorker,
-    Time,
+    BadRequest,
 } from "@adonix.org/cloud-spark";
+import { R2Worker } from "../../r2-worker";
+import { DAY_CACHE, LATEST_SEASON, LONG_CACHE } from "../../constants";
 
-const API_VERSION = "v1";
-const API_PATH = `/api/${API_VERSION}/seasons`;
-const LATEST_SEASON = "2025";
+export const API_PATH = "/api/v1/seasons{/:year}";
 
-// for older seasons
-const LONG_CACHE: CacheControl = {
-    public: true,
-    immutable: true,
-    "max-age": Time.Year,
-    "s-maxage": 90 * Time.Day,
-};
-
-// for current season
-const DAY_CACHE: CacheControl = {
-    public: true,
-    "max-age": Time.Day,
-    "s-maxage": Time.Day,
-    "stale-while-revalidate": Time.Day,
-};
-
-export class PodcastWorker extends RouteWorker {
+export class PodcastWorker extends R2Worker {
     protected override init(): void {
         this.load([
-            [Method.GET, API_PATH, this.getPodcast],
-            [Method.GET, `${API_PATH}/:year`, this.getSeason],
+            [Method.GET, "/api/v1/seasons", this.getPodcast],
+            [Method.GET, "/api/v1/seasons/:year", this.getSeason],
         ]);
 
         this.use(new CorsHandler());
@@ -86,16 +67,5 @@ export class PodcastWorker extends RouteWorker {
         // Correctly formatted season (YYYY) was present in URL
         // but was not found in R2
         return this.getResponse(NotFound, `Season ${year} was not found.`);
-    }
-
-    private async getJson(key: string): Promise<unknown> {
-        const object = await this.env.R2_PODCAST.get(key);
-        if (!object) return null;
-
-        try {
-            return await object.json();
-        } catch (cause) {
-            throw new Error(`Failed to parse JSON for key: ${key}`, { cause });
-        }
     }
 }
