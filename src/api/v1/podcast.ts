@@ -34,9 +34,6 @@ export class PodcastWorker extends R2Worker {
             [Method.GET, "/api/v1/seasons", this.getPodcast],
             [Method.GET, "/api/v1/seasons/:year", this.getSeason],
         ]);
-
-        this.use(new CorsHandler());
-        this.use(new CacheHandler());
     }
 
     private async getPodcast(): Promise<Response> {

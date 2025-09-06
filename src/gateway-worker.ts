@@ -14,11 +14,14 @@
  * limitations under the License.
  */
 
-import { Method, RouteWorker } from "@adonix.org/cloud-spark";
+import { CacheHandler, CorsHandler, Method, RouteWorker } from "@adonix.org/cloud-spark";
 import * as v1 from "./api/v1";
 
 export class GatewayWorker extends RouteWorker {
     protected override init(): void {
         this.addRoute(Method.GET, v1.API_PATH, v1.PodcastWorker);
+
+        this.use(new CorsHandler());
+        this.use(new CacheHandler());
     }
 }
