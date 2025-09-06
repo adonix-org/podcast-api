@@ -16,8 +16,6 @@
 
 import {
     Method,
-    CorsHandler,
-    CacheHandler,
     JsonResponse,
     NotFound,
     RouteParams,
