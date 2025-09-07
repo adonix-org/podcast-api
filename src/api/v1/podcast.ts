@@ -18,7 +18,7 @@ import {
     Method,
     JsonResponse,
     NotFound,
-    RouteParams,
+    PathParams,
     BadRequest,
 } from "@adonix.org/cloud-spark";
 import { R2Worker } from "../../r2-worker";
@@ -41,7 +41,7 @@ export class PodcastWorker extends R2Worker {
         return this.getResponse(NotFound, "index.json was not found.");
     }
 
-    private async getSeason(params: RouteParams): Promise<Response> {
+    private async getSeason(params: PathParams): Promise<Response> {
         const year = params["year"];
         if (!/^\d{4}$/.test(year)) {
             return this.getResponse(
