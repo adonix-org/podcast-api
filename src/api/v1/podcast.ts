@@ -20,6 +20,7 @@ import {
     NotFound,
     PathParams,
     BadRequest,
+    GET,
 } from "@adonix.org/cloud-spark";
 import { R2Worker } from "../../r2-worker";
 import { DAY_CACHE, LATEST_SEASON, LONG_CACHE } from "../../constants";
@@ -29,8 +30,8 @@ export const API_PATH = "/api/v1/seasons{/:year}";
 export class PodcastWorker extends R2Worker {
     protected override init(): void {
         this.routes([
-            [Method.GET, "/api/v1/seasons", this.getPodcast],
-            [Method.GET, "/api/v1/seasons/:year", this.getSeason],
+            [GET, "/api/v1/seasons", this.getPodcast],
+            [GET, "/api/v1/seasons/:year", this.getSeason],
         ]);
     }
 
