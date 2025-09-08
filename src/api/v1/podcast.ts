@@ -28,7 +28,7 @@ export const API_PATH = "/api/v1/seasons{/:year}";
 
 export class PodcastWorker extends R2Worker {
     protected override init(): void {
-        this.table([
+        this.routes([
             [Method.GET, "/api/v1/seasons", this.getPodcast],
             [Method.GET, "/api/v1/seasons/:year", this.getSeason],
         ]);
