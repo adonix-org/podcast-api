@@ -15,6 +15,6 @@
         "wrangler": "^4.36.0"
     },
     "dependencies": {
-        "@adonix.org/cloud-spark": "^0.0.144"
+        "@adonix.org/cloud-spark": "^0.0.146"
     }
 }

@@ -14,14 +14,7 @@
  * limitations under the License.
  */
 
-import {
-    Method,
-    JsonResponse,
-    NotFound,
-    PathParams,
-    BadRequest,
-    GET,
-} from "@adonix.org/cloud-spark";
+import { JsonResponse, NotFound, PathParams, BadRequest, GET } from "@adonix.org/cloud-spark";
 import { R2Worker } from "../../r2-worker";
 import { DAY_CACHE, LATEST_SEASON, LONG_CACHE } from "../../constants";
 
@@ -45,10 +38,7 @@ export class PodcastWorker extends R2Worker {
     private async getSeason(params: PathParams): Promise<Response> {
         const year = params["year"];
         if (!/^\d{4}$/.test(year)) {
-            return this.getResponse(
-                BadRequest,
-                `Invalid season ${year}. Expected format: YYYY`
-            );
+            return this.getResponse(BadRequest, `Invalid season ${year}. Expected format: YYYY`);
         }
 
         const json = await this.getJson(`seasons/${year}.json`);
