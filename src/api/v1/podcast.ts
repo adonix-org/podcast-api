@@ -14,7 +14,14 @@
  * limitations under the License.
  */
 
-import { JsonResponse, NotFound, PathParams, BadRequest, GET } from "@adonix.org/cloud-spark";
+import {
+    JsonResponse,
+    NotFound,
+    PathParams,
+    BadRequest,
+    GET,
+    cache,
+} from "@adonix.org/cloud-spark";
 import { R2Worker } from "../../r2-worker";
 import { DAY_CACHE, LATEST_SEASON, LONG_CACHE } from "../../constants";
 
@@ -26,6 +33,14 @@ export class PodcastWorker extends R2Worker {
             [GET, "/api/v1/seasons", this.getPodcast],
             [GET, "/api/v1/seasons/:year", this.getSeason],
         ]);
+
+        this.use(
+            cache(undefined, (request): URL => {
+                const url = new URL(request.url);
+                url.search = "";
+                return url;
+            })
+        );
     }
 
     private async getPodcast(): Promise<Response> {
