@@ -21,6 +21,7 @@ import {
     BadRequest,
     GET,
     cache,
+    stripSearchParams,
 } from "@adonix.org/cloud-spark";
 import { R2Worker } from "../../r2-worker";
 import { DAY_CACHE, LATEST_SEASON, LONG_CACHE } from "../../constants";
@@ -34,13 +35,7 @@ export class PodcastWorker extends R2Worker {
             [GET, "/api/v1/seasons/:year", this.getSeason],
         ]);
 
-        this.use(
-            cache(undefined, (request): URL => {
-                const url = new URL(request.url);
-                url.search = "";
-                return url;
-            })
-        );
+        this.use(cache(undefined, stripSearchParams));
     }
 
     private async getPodcast(): Promise<Response> {
