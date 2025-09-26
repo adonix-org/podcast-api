@@ -40,20 +40,20 @@ export class PodcastWorker extends R2Worker {
 
     private async getPodcast(): Promise<Response> {
         const json = await this.getJson("seasons/index.json");
-        if (json) return this.getResponse(JsonResponse, json, DAY_CACHE);
+        if (json) return this.response(JsonResponse, json, DAY_CACHE);
 
-        return this.getResponse(NotFound, "index.json was not found.");
+        return this.response(NotFound, "index.json was not found.");
     }
 
     private async getSeason(params: PathParams): Promise<Response> {
         const year = params["year"];
         if (!/^\d{4}$/.test(year)) {
-            return this.getResponse(BadRequest, `Invalid season ${year}. Expected format: YYYY`);
+            return this.response(BadRequest, `Invalid season ${year}. Expected format: YYYY`);
         }
 
         const json = await this.getJson(`seasons/${year}.json`);
         if (json) {
-            return this.getResponse(
+            return this.response(
                 JsonResponse,
                 json,
                 year === LATEST_SEASON ? DAY_CACHE : LONG_CACHE
@@ -62,6 +62,6 @@ export class PodcastWorker extends R2Worker {
 
         // Correctly formatted season (YYYY) was present in URL
         // but was not found in R2
-        return this.getResponse(NotFound, `Season ${year} was not found.`);
+        return this.response(NotFound, `Season ${year} was not found.`);
     }
 }
