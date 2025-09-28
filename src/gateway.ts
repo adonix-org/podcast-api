@@ -14,17 +14,15 @@
  * limitations under the License.
  */
 
-import { RouteWorker } from "@adonix.org/cloud-spark";
+import { cors, GET, RouteWorker } from "@adonix.org/cloud-spark";
+import * as v1 from "./api/v1";
 
-export class R2Worker extends RouteWorker {
-    protected async getJson(key: string): Promise<unknown> {
-        const object = await this.env.R2_PODCAST.get(key);
-        if (!object) return null;
+export class GatewayWorker extends RouteWorker {
+    protected override init(): void {
+        this.route(GET, v1.Podcast.PATH, v1.Podcast);
+        this.route(GET, v1.Seasons.PATH, v1.Seasons);
+        this.route(GET, v1.Media.PATH, v1.Media);
 
-        try {
-            return await object.json();
-        } catch (cause) {
-            throw new Error(`Failed to parse JSON for key: ${key}`, { cause });
-        }
+        this.use(cors({ allowedHeaders: [] }));
     }
 }

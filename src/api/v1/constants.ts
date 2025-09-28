@@ -18,6 +18,10 @@ import { CacheControl, Time } from "@adonix.org/cloud-spark";
 
 export const LATEST_SEASON = "2025";
 
+export const VERSION = "v1";
+
+export const ROOT = `/api/${VERSION}`;
+
 // for older seasons
 export const LONG_CACHE: CacheControl = {
     public: true,
@@ -30,6 +34,5 @@ export const LONG_CACHE: CacheControl = {
 export const DAY_CACHE: CacheControl = {
     public: true,
     "max-age": Time.Day,
-    "s-maxage": Time.Day,
     "stale-while-revalidate": Time.Day,
 };

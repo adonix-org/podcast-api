@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-import { cors, GET, RouteWorker } from "@adonix.org/cloud-spark";
-import * as v1 from "./api/v1";
+export async function getJson(env: Env, key: string): Promise<unknown> {
+    const object = await env.R2_AUDIO.get(key);
+    if (!object) return null;
 
-export class GatewayWorker extends RouteWorker {
-    protected override init(): void {
-        this.route(GET, v1.API_PATH, v1.PodcastWorker);
-
-        this.use(cors({ allowedHeaders: [] }));
+    try {
+        return await object.json();
+    } catch (cause) {
+        throw new Error(`Failed to parse JSON for key: ${key}`, { cause });
     }
 }

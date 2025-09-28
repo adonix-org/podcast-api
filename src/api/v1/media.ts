@@ -1,0 +1,36 @@
+/*
+ * Copyright (C) 2025 Ty Busby
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+import { GET, NotFound, PathParams, RouteWorker } from "@adonix.org/cloud-spark";
+import { LONG_CACHE, ROOT } from "./constants";
+
+export class Media extends RouteWorker {
+    public static readonly PATH = `${ROOT}/audio/:filename`;
+
+    protected override init(): void {
+        this.route(GET, Media.PATH, this.getAudio);
+    }
+
+    private async getAudio(params: PathParams): Promise<Response> {
+        const filename = params["filename"];
+        const file = await this.env.R2_AUDIO.get(filename, { range: this.request.headers });
+        if (!file) {
+            return this.response(NotFound, `${filename} not found.`);
+        }
+
+        return this.response(R2ObjectStream, file, LONG_CACHE);
+    }
+}

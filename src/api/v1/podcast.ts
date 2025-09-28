@@ -14,54 +14,17 @@
  * limitations under the License.
  */
 
-import {
-    JsonResponse,
-    NotFound,
-    PathParams,
-    BadRequest,
-    GET,
-    cache,
-    stripSearchParams,
-} from "@adonix.org/cloud-spark";
-import { R2Worker } from "../../r2-worker";
-import { DAY_CACHE, LATEST_SEASON, LONG_CACHE } from "../../constants";
+import { BasicWorker, JsonResponse, NotFound } from "@adonix.org/cloud-spark";
+import { getJson } from "./utils";
+import { DAY_CACHE, ROOT } from "./constants";
 
-export const API_PATH = "/api/v1/seasons{/:year}";
+export class Podcast extends BasicWorker {
+    public static readonly PATH = `${ROOT}/seasons`;
 
-export class PodcastWorker extends R2Worker {
-    protected override init(): void {
-        this.routes([
-            [GET, "/api/v1/seasons", this.getPodcast],
-            [GET, "/api/v1/seasons/:year", this.getSeason],
-        ]);
-
-        this.use(cache(undefined, stripSearchParams));
-    }
-
-    private async getPodcast(): Promise<Response> {
-        const json = await this.getJson("seasons/index.json");
+    public override async get(): Promise<Response> {
+        const json = await getJson(this.env, "seasons/index.json");
         if (json) return this.response(JsonResponse, json, DAY_CACHE);
 
         return this.response(NotFound, "index.json was not found.");
-    }
-
-    private async getSeason(params: PathParams): Promise<Response> {
-        const year = params["year"];
-        if (!/^\d{4}$/.test(year)) {
-            return this.response(BadRequest, `Invalid season ${year}. Expected format: YYYY`);
-        }
-
-        const json = await this.getJson(`seasons/${year}.json`);
-        if (json) {
-            return this.response(
-                JsonResponse,
-                json,
-                year === LATEST_SEASON ? DAY_CACHE : LONG_CACHE
-            );
-        }
-
-        // Correctly formatted season (YYYY) was present in URL
-        // but was not found in R2
-        return this.response(NotFound, `Season ${year} was not found.`);
     }
 }

@@ -14,6 +14,6 @@
  * limitations under the License.
  */
 
-import { GatewayWorker } from "./gateway-worker";
+import { GatewayWorker } from "./gateway";
 
 export default GatewayWorker.ignite();

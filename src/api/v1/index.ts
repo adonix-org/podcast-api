@@ -14,4 +14,6 @@
  * limitations under the License.
  */
 
+export * from "./media";
 export * from "./podcast";
+export * from "./seasons";
