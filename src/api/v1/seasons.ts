@@ -20,16 +20,18 @@ import {
     JsonResponse,
     NotFound,
     PathParams,
+    RouteTuple,
     RouteWorker,
 } from "@adonix.org/cloud-spark";
 import { LATEST_SEASON, DAY_CACHE, LONG_CACHE, ROOT } from "./constants";
 import { getJson } from "./utils";
 
 export class Seasons extends RouteWorker {
-    public static readonly PATH = `${ROOT}/seasons/:year`;
+    private static readonly path = `${ROOT}/seasons/:year`;
+    public static readonly route: RouteTuple = [GET, Seasons.path, Seasons];
 
     protected override init(): void {
-        this.route(GET, Seasons.PATH, this.getSeason);
+        this.route(GET, Seasons.path, this.getSeason);
     }
 
     private async getSeason(params: PathParams): Promise<Response> {
