@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import { cors, GET, RouteWorker } from "@adonix.org/cloud-spark";
+import { cache, cors, GET, RouteWorker } from "@adonix.org/cloud-spark";
 import * as v1 from "./api/v1";
 import { Media } from "./media";
 
@@ -25,6 +25,7 @@ export class GatewayWorker extends RouteWorker {
         this.route(GET, "/audio/:filename", Media);
         this.route(GET, "/artwork/:filename", Media);
 
+        this.use(cache());
         this.use(cors({ allowedHeaders: [] }));
     }
 }
