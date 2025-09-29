@@ -14,29 +14,29 @@
  * limitations under the License.
  */
 
-import {
-    GET,
-    NotFound,
-    PathParams,
-    R2ObjectStream,
-    RouteTuple,
-    RouteWorker,
-} from "@adonix.org/cloud-spark";
-import { LONG_CACHE } from "./constants";
+import { GET, NotFound, PathParams, R2ObjectStream, RouteWorker } from "@adonix.org/cloud-spark";
+import { LONG_CACHE } from "./api/v1/constants";
 
 export class Media extends RouteWorker {
-    public static readonly path = `/audio/:filename`;
-    public static readonly route: RouteTuple = [GET, Media.path, Media];
-
     protected override init(): void {
-        this.route(GET, Media.path, this.getAudio);
+        this.route(GET, "/audio/:filename", this.getAudio);
+        this.route(GET, "/artwork/:filename", this.getArtwork);
     }
 
     private async getAudio(params: PathParams): Promise<Response> {
         const filename = params["filename"];
-        const file = await this.env.R2_AUDIO.get(filename, { range: this.request.headers });
+        return this.getMedia(filename);
+    }
+
+    private async getArtwork(params: PathParams): Promise<Response> {
+        const filename = params["filename"];
+        return this.getMedia(`artwork/${filename}`);
+    }
+
+    private async getMedia(key: string): Promise<Response> {
+        const file = await this.env.R2_AUDIO.get(key, { range: this.request.headers });
         if (!file) {
-            return this.response(NotFound, `${filename} not found.`);
+            return this.response(NotFound, `${key} not found.`);
         }
 
         return this.response(R2ObjectStream, file, LONG_CACHE);

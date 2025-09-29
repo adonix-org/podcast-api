@@ -14,12 +14,16 @@
  * limitations under the License.
  */
 
-import { cors, RouteWorker } from "@adonix.org/cloud-spark";
+import { cors, GET, RouteWorker } from "@adonix.org/cloud-spark";
 import * as v1 from "./api/v1";
+import { Media } from "./media";
 
 export class GatewayWorker extends RouteWorker {
     protected override init(): void {
-        this.routes([v1.Podcast.route, v1.Seasons.route, v1.Media.route]);
+        this.routes([v1.Podcast.route, v1.Seasons.route]);
+
+        this.route(GET, "/audio/:filename", Media);
+        this.route(GET, "/artwork/:filename", Media);
 
         this.use(cors({ allowedHeaders: [] }));
     }
