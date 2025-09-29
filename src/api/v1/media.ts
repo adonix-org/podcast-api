@@ -14,11 +14,18 @@
  * limitations under the License.
  */
 
-import { GET, NotFound, PathParams, RouteTuple, RouteWorker } from "@adonix.org/cloud-spark";
-import { LONG_CACHE, ROOT } from "./constants";
+import {
+    GET,
+    NotFound,
+    PathParams,
+    R2ObjectStream,
+    RouteTuple,
+    RouteWorker,
+} from "@adonix.org/cloud-spark";
+import { LONG_CACHE } from "./constants";
 
 export class Media extends RouteWorker {
-    public static readonly path = `${ROOT}/audio/:filename`;
+    public static readonly path = `/audio/:filename`;
     public static readonly route: RouteTuple = [GET, Media.path, Media];
 
     protected override init(): void {
