@@ -39,8 +39,6 @@ export class Media extends RouteWorker {
             return this.response(NotFound, `${key} not found.`);
         }
 
-        console.warn("Range: " + JSON.stringify(stream.range), "Size:", stream.size);
-
         return this.response(R2ObjectStream, stream, LONG_CACHE);
     }
 }
