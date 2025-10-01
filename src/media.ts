@@ -34,11 +34,13 @@ export class Media extends RouteWorker {
     }
 
     private async getMedia(key: string): Promise<Response> {
-        const file = await this.env.R2_AUDIO.get(key, { range: this.request.headers });
-        if (!file) {
+        const stream = await this.env.R2_AUDIO.get(key, { range: this.request.headers });
+        if (!stream) {
             return this.response(NotFound, `${key} not found.`);
         }
 
-        return this.response(R2ObjectStream, file, LONG_CACHE);
+        console.warn("Range: " + JSON.stringify(stream.range), "Size:", stream.size);
+
+        return this.response(R2ObjectStream, stream, LONG_CACHE);
     }
 }
