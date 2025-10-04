@@ -26,6 +26,6 @@ export class GatewayWorker extends RouteWorker {
         this.route(GET, "/artwork/:filename", Media);
 
         this.use(cors({ allowedHeaders: [] }));
-        this.use(cache(undefined, stripSearchParams));
+        this.use(cache({ getKey: stripSearchParams }));
     }
 }
