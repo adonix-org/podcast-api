@@ -14,16 +14,15 @@
  * limitations under the License.
  */
 
-import { BasicWorker, GET, JsonResponse, NotFound, RouteTuple } from "@adonix.org/cloud-spark";
-import { getJson } from "./utils";
+import { BasicWorker, GET, NotFound, R2ObjectStream, RouteTuple } from "@adonix.org/cloud-spark";
 import { DAY_CACHE, ROOT } from "./constants";
 
 export class Podcast extends BasicWorker {
     public static readonly route: RouteTuple = [GET, `${ROOT}/seasons`, Podcast];
 
     public override async get(): Promise<Response> {
-        const json = await getJson(this.env, "seasons/index.json");
-        if (json) return this.response(JsonResponse, json, DAY_CACHE);
+        const index = await this.env.R2_AUDIO.get("seasons/index.json");
+        if (index) return this.response(R2ObjectStream, index, DAY_CACHE);
 
         return this.response(NotFound, "index.json was not found.");
     }

@@ -17,14 +17,13 @@
 import {
     BadRequest,
     GET,
-    JsonResponse,
     NotFound,
     PathParams,
+    R2ObjectStream,
     RouteTuple,
     RouteWorker,
 } from "@adonix.org/cloud-spark";
 import { LATEST_SEASON, DAY_CACHE, LONG_CACHE, ROOT } from "./constants";
-import { getJson } from "./utils";
 
 export class Seasons extends RouteWorker {
     private static readonly path = `${ROOT}/seasons/:year`;
@@ -40,11 +39,11 @@ export class Seasons extends RouteWorker {
             return this.response(BadRequest, `Invalid season ${year}. Expected format: YYYY`);
         }
 
-        const json = await getJson(this.env, `seasons/${year}.json`);
-        if (json) {
+        const season = await this.env.R2_AUDIO.get(`seasons/${year}.json`);
+        if (season) {
             return this.response(
-                JsonResponse,
-                json,
+                R2ObjectStream,
+                season,
                 year === LATEST_SEASON ? DAY_CACHE : LONG_CACHE
             );
         }
