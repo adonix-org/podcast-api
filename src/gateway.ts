@@ -25,7 +25,7 @@ export class GatewayWorker extends RouteWorker {
         this.route(GET, "/audio/:filename", Media);
         this.route(GET, "/artwork/:filename", Media);
 
-        this.use(cors({ allowedHeaders: [] }));
+        this.use(cors({ allowedHeaders: [], allowedOrigins: ["https://www.tybusby.com"] }));
         this.use(cache({ getKey: stripSearchParams }));
     }
 }
