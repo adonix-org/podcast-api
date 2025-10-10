@@ -21,8 +21,8 @@ export class Podcast extends BasicWorker {
     public static readonly route: RouteTuple = [GET, `${ROOT}/seasons`, Podcast];
 
     public override async get(): Promise<Response> {
-        const index = await this.env.R2_AUDIO.get("seasons/index.json");
-        if (index) return this.response(R2ObjectStream, index, DAY_CACHE);
+        const json = await this.env.R2_AUDIO.get("seasons/index.json");
+        if (json) return this.response(R2ObjectStream, json, DAY_CACHE);
 
         return this.response(NotFound, "index.json was not found.");
     }
