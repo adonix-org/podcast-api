@@ -9,12 +9,12 @@
         "types": "wrangler types ./types/wrangler.d.ts"
     },
     "devDependencies": {
-        "@cloudflare/vitest-pool-workers": "^0.9.11",
+        "@cloudflare/vitest-pool-workers": "^0.9.12",
         "typescript": "^5.9.3",
         "vitest": "~3.2.4",
-        "wrangler": "^4.42.1"
+        "wrangler": "^4.42.2"
     },
     "dependencies": {
-        "@adonix.org/cloud-spark": "^0.0.176"
+        "@adonix.org/cloud-spark": "^0.0.177"
     }
 }
