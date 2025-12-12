@@ -14,7 +14,9 @@
  * limitations under the License.
  */
 
-import { cache, cors, GET, RouteWorker, stripSearchParams } from "@adonix.org/cloud-spark";
+import { GET, RouteWorker } from "@adonix.org/cloud-spark";
+import { cache, stripSearchParams } from "@adonix.org/cloud-spark/cache";
+
 import * as v1 from "./api/v1";
 import { Media } from "./media";
 
