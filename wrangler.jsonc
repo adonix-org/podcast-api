@@ -22,6 +22,9 @@
     "observability": {
         "enabled": true
     },
+    "placement": {
+        "mode": "smart"
+    },
     "preview_urls": false,
     "assets": { "directory": "./public/", "binding": "ASSETS" },
     "r2_buckets": [
