@@ -26,7 +26,5 @@ export class GatewayWorker extends RouteWorker {
 
         this.route(GET, "/audio/:filename", Media);
         this.route(GET, "/artwork/:filename", Media);
-
-        this.use(cache({ getKey: stripSearchParams }));
     }
 }
