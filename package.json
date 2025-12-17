@@ -2,18 +2,18 @@
     "name": "podcast-api",
     "version": "0.0.1",
     "scripts": {
+        "types": "mkdir -p ./types && wrangler types --config wrangler.jsonc ./types/cloudflare.d.ts",
+        "prebuild": "npm run types",
+        "build": "wrangler build",
         "deploy": "tsc && wrangler deploy",
         "dev": "wrangler dev",
-        "build": "wrangler build",
-        "start": "wrangler dev",
-        "test": "vitest",
-        "types": "wrangler types ./types/wrangler.d.ts"
+        "start": "wrangler dev"
     },
     "devDependencies": {
         "typescript": "^5.9.3",
-        "wrangler": "^4.54.0"
+        "wrangler": "^4.55.0"
     },
     "dependencies": {
-        "@adonix.org/cloud-spark": "^2.0.5"
+        "@adonix.org/cloud-spark": "^2.0.6"
     }
 }
