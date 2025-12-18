@@ -25,7 +25,7 @@
     "preview_urls": false,
     "minify": true,
     "observability": {
-        "enabled": false
+        "enabled": true
     },
     "assets": { "directory": "./public/", "binding": "ASSETS" },
     "r2_buckets": [
